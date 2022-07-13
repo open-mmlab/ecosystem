@@ -1,0 +1,28 @@
+# Example-1
+- repo_url: https://github.com/NVlabs/FAN # repo 路径
+  paper_url: https://arxiv.org/abs/2204.12451 # paper 链接
+  type: Official Implementation # 项目类型
+  mmrepos: # 使用了那些openmmlab工具（mmcv/mmengine是否要加入可选项）
+    - mmdetection
+    - mmsegmentation
+  tags:
+    - ICML
+    - Vision Transformer
+  summary:
+    zh: Official PyTorch implementation of Fully Attentional Networks
+    en: 基于PyTorch的Fully Attentional Networks官方实现
+
+# Example-2
+- repo_url: https://github.com/Ascend/ModelZoo-PyTorch
+  paper_url: ""
+  type: Others
+  mmrepos:
+    - mmdetection
+    - mmsegmentation
+    - mmpose
+  tags:
+    - model zoo
+    - Ascend
+  summary:
+    zh: A collection of typical networks and related pre-trained models
+    en: 典型网络结构和预训练模型合集
