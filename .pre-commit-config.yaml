@@ -9,9 +9,9 @@ repos:
       - id: check-ecosystem-validity
         name: check ecosystem validity
         entry: check-ecosystem-validity
-        language: system
-        types: [python]
-        args: [./projects_index.yaml"]
+        language: python
+        types: [yaml]
+        args: [projects_index.yaml]
         require_serial: true
         # pass_filenames: false
 
