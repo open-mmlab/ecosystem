@@ -4,3 +4,10 @@ repos:
     hooks:
       - id: trailing-whitespace
       - id: check-yaml
+  # - repo: local
+  #   hooks:
+  #     - id: unit-test-py
+  #       name: unit-test-py
+  #       entry: python unit_test.py
+  #       language: python
+  #       pass_filenames: false

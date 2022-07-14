@@ -12,6 +12,7 @@ ecosystem
 ```
 
 ## How to Contribute
+
 If you want to add one project into the ecosystem, please edit the `project_index.yaml` and add the related information of the specific project.
 
 The following keys are required to :
@@ -21,3 +22,9 @@ The following keys are required to :
 - `mmrepos`: Which OpenMMLab projects have been adopted in this project
 - `tags`: Tags of this project
 - `summary`: One sentence summary of the project.
+
+Please add the information of the specific project with the following example:
+
+```yaml
+
+```
