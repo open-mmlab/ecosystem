@@ -16,7 +16,7 @@ repos:
         # pass_filenames: false
 
   - repo: https://github.com/tonysy/pre-commit-hooks
-    rev: v0.2.2
+    rev: v0.2.3
     hooks:
     -   id: check-ecosystem-validity
         args: [projects_index.yaml]
