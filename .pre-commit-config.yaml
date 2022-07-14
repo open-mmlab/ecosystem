@@ -13,7 +13,7 @@ repos:
         types: [python]
         args: [./projects_index.yaml"]
         require_serial: true
-        pass_filenames: false
+        # pass_filenames: false
 
   # - repo: https://github.com/tonysy/pre-commit-hooks
   #   rev: v0.2.1
