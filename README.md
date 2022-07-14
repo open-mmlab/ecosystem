@@ -6,9 +6,10 @@ The data collected in this repo is used for internal analysis and homepage displ
 
 ```python
 ecosystem
-|-----README.md #
+|-----.pre-commit-config.yaml # configuration of the pre-commit hooks
+|-----LICENSE #  license of the project
 |-----projects_index.yaml # store the detailed information of each project
-|-----unit_test.py # used for validity check.
+|-----README.md # readme file
 ```
 
 ## How to Contribute
