@@ -3,8 +3,8 @@
   paper_url: https://arxiv.org/abs/2204.12451 # paper 链接
   type: Official Implementation # 项目类型
   mmrepos: # 使用了那些openmmlab工具（mmcv/mmengine是否要加入可选项）
-    - mmdetection
-    - mmsegmentation
+    - MMDetection
+    - MMSegmentation
   tags:
     - ICML
     - Vision Transformer
@@ -14,12 +14,12 @@
 
 # Example-2
 - repo_url: https://github.com/Ascend/ModelZoo-PyTorch
-  paper_url:
+  paper_url: ''
   type: Others
   mmrepos:
-    - mmdetection
-    - mmsegmentation
-    - mmpose
+    - MMDetection
+    - MMSegmentation
+    - MMPose
   tags:
     - model zoo
     - Ascend
@@ -29,10 +29,10 @@
 
 # Example-3
 - repo_url: https://github.com/takedarts/skipresnet
-  paper_url:
+  paper_url: ''
   type: Official Implementation
   mmrepos:
-    - mmclassification
+    - MMClassification
   tags:
     - SkipResNets
   summary:
@@ -41,11 +41,11 @@
 
 # Example-4
 - repo_url: https://github.com/7eu7d7/genshin_voice_play
-  paper_url:
+  paper_url: ''
   type: Demo
   mmrepos:
-    - mmtracking
-    - mmclassification
+    - MMTracking
+    - MMClassification
   tags:
     - Genshin
     - Game
@@ -58,9 +58,9 @@
   paper_url: https://arxiv.org/abs/2205.14589
   type: Official Implementation
   mmrepos:
-    - mmclassification
-    - mmdetection
-    - mmrazor
+    - MMClassification
+    - MMDetection
+    - MMRazor
   tags:
     - Distillation
     - Detection
@@ -73,7 +73,7 @@
   paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Reddy_WALT_Watch_and_Learn_2D_Amodal_Representation_From_Time-Lapse_Imagery_CVPR_2022_paper.pdf
   type: Official Implementation
   mmrepos:
-    - mmdetection
+    - MMDetection
   tags:
     - Amodal
   summary:
