@@ -1,0 +1,81 @@
+# Example-1
+- repo_url: https://github.com/NVlabs/FAN # repo 路径
+  paper_url: https://arxiv.org/abs/2204.12451 # paper 链接
+  type: Official Implementation # 项目类型
+  mmrepos: # 使用了那些openmmlab工具（mmcv/mmengine是否要加入可选项）
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - ICML
+    - Vision Transformer
+  summary:
+    en: Official PyTorch implementation of Fully Attentional Networks
+    zh: 基于PyTorch的Fully Attentional Networks官方实现
+
+# Example-2
+- repo_url: https://github.com/Ascend/ModelZoo-PyTorch
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+    - MMPose
+  tags:
+    - model zoo
+    - Ascend
+  summary:
+    en: A collection of typical networks and related pre-trained models
+    zh: 典型网络结构和预训练模型合集
+
+# Example-3
+- repo_url: https://github.com/takedarts/skipresnet
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMClassification
+  tags:
+    - SkipResNets
+  summary:
+    en: An implementation of SkipResNets for performance evaluation
+    zh: SkipResNets的实现
+
+# Example-4
+- repo_url: https://github.com/7eu7d7/genshin_voice_play
+  paper_url: ''
+  type: Demo
+  mmrepos:
+    - MMTracking
+    - MMClassification
+  tags:
+    - Genshin
+    - Game
+  summary:
+    en: Playing Genshin via voice.
+    zh: 用语音控制玩原神，只需要动嘴就可以玩原神
+
+# Example-5
+- repo_url: https://github.com/hunto/MasKD
+  paper_url: https://arxiv.org/abs/2205.14589
+  type: Official Implementation
+  mmrepos:
+    - MMClassification
+    - MMDetection
+    - MMRazor
+  tags:
+    - Distillation
+    - Detection
+  summary:
+    en: Official implementation of paper "Masked Distillation with Receptive Tokens"
+    zh: Masked Distillation with Receptive Tokens官方实现
+
+# Example-6
+- repo_url: https://github.com/dineshreddy91/WALT
+  paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Reddy_WALT_Watch_and_Learn_2D_Amodal_Representation_From_Time-Lapse_Imagery_CVPR_2022_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery"
+    zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery官方实现

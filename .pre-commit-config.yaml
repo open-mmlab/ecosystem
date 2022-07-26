@@ -1,0 +1,11 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.3.0
+    hooks:
+      - id: trailing-whitespace
+      - id: check-yaml
+  - repo: https://github.com/tonysy/pre-commit-hooks
+    rev: v0.2.4
+    hooks:
+    -   id: check-ecosystem-validity
+        args: [projects_index.yaml]
