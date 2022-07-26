@@ -1,10 +1,11 @@
 # Ecosystem
-English | [简体中文](/README_zh-CN.md)
+[English](/README.md) | 简体中文
 
-This project is used to collect the information of all open-source projects built with the OpenMMLab projects. The collected projects will be displayed in the official [OpenMMLab Homepage](https://openmmlab.com/codebase/ecosystem)
+本项目用于收录使用了OpenMMLab体系的开源项目，所有收录的项目将会在[OpenMMLab生态项目](https://openmmlab.com/codebase/ecosystem)进行展示。
 
-## File Structure
-The data collected in this repo is used for internal analysis and homepage display. The repo has the following file structure:
+## 文件结构
+
+本项目中的数据与文档按如下方式组织：
 
 ```python
 ecosystem
@@ -14,31 +15,33 @@ ecosystem
 |-----README.md # readme file
 ```
 
-## How to Contribute
-We appreciate all contributions to add new projects into OpenMMLab ecosystem.
+## 如何贡献代码
+
+我们非常感谢所有为生态项目贡献数据和信息的Contributor。
+
+<!-- We appreciate all contributions to add new projects into OpenMMLab ecosystem. -->
 <!-- Please refer to [CONTRUBUTING.md](https://mmclassification.readthedocs.io/en/latest/community/CONTRIBUTING.html) for the contributing guideline. -->
 
-### Workflow
+### 工作流
 
 1. fork and pull the latest OpenMMLab repository (ecosystem)
 2. checkout a new branch (do not use master branch for PRs)
 3. commit your changes
 4. create a PR
 
-### Add New Project into YAML
+### 在YAML文件增加一个项目
 
-If you want to add one project into the ecosystem, please edit the `project_index.yaml` and add the related information of the specific project.
+如果你想在把某个项目加入OpenMMLab生态体系，请编辑 `project_index.yaml`并添加具体项目的相关信息
 
-The following keys are required to :
-- `repo_url`: Github link of the project
-- `paper_url`: Paper link of the project(Only add one if have > 1 papers, use `""` if no paper)
-- `type`: Type of the ecosystem projects(Choose **one** from Type Table)
-- `mmrepos`: Which OpenMMLab projects have been adopted in this project(Choose **one or more** from the MMRepos Table, please pay attention to capitalization)
-- `tags`: Tags of this project(<= 5 item)
-- `summary`: One sentence summary of the project(English and Chinese)
+下面的信息是必须要提供的
+- `repo_url`: 项目的Github/Gitee链接。
+- `paper_url`: 项目涉及的论文的链接(如果有多篇论文，添加一篇即可，如果没有论文则赋值为`""`。)
+- `type`: 项目类型(请从下边的类别列表中选 **一个**)
+- `mmrepos`: 使用到了哪些OpenMMLab的开源算法库(从MMRepos Table下面 **选一个或多个** 请注意大小写)
+- `tags`: 为项目的增加Tag(不超过5个)
+- `summary`: 项目的一句话总结(English and Chinese)
 
-Please add the information of the specific project with the following example:
-
+请参考如下的例子添加一个项目的相关信息
 ```yaml
 - repo_url: https://github.com/NVlabs/FAN # repo url
   paper_url: https://arxiv.org/abs/2204.12451 # paper url
@@ -54,29 +57,26 @@ Please add the information of the specific project with the following example:
     en: 基于PyTorch的Fully Attentional Networks官方实现
 ```
 
-### Validity Check
-We use [pre-commit hook](https://pre-commit.com/) that checks and formats for `trailing whitespaces`, `check-yaml`, and use our [openmmlab pre-commit hook](https://github.com/open-mmlab/pre-commit-hooks) for `check-ecosystem-validity`.
-The config for a pre-commit hook is stored in [.pre-commit-config](https://github.com/open-mmlab/ecosystem/blob/master/.pre-commit-config.yaml).
+### 格式检查与合法性检查
+我们使用 [pre-commit hook](https://pre-commit.com/) 来检查格式`trailing whitespaces`, `check-yaml`, 使用 [openmmlab pre-commit hook](https://github.com/open-mmlab/pre-commit-hooks) 的 `check-ecosystem-validity`来检查字段的合法性.
+相关的配置文件定义在 [.pre-commit-config](https://github.com/open-mmlab/ecosystem/blob/master/.pre-commit-config.yaml).
 
-After you clone the repository, you will need to install initialize pre-commit hook.
-
+当你克隆了项目之后，你需要安装pre-commit hook.
 ```shell
 pip install -U pre-commit
 ```
 
-From the repository folder
-
+在项目内执行
 ```shell
 pre-commit install
 ```
 
-After this on every commit check code linters and formatter will be enforced.
-
+每一次commit的时候，pre-commit会进行格式检查和合法性检查
 ```{important}
-Before you create a PR, make sure that your code lints and is formatted by yapf.
+每次创建PR时，请确保代码的格式和合法性通过了检查
 ```
 
-### Type Table
+### 项目类型列表
 
 <table class="tg">
 <thead>
