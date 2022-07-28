@@ -9,3 +9,5 @@ repos:
     hooks:
     -   id: check-ecosystem-validity
         args: [projects_index.yaml]
+        additional_dependencies:
+          - cerberus
