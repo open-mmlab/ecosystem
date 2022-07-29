@@ -156,3 +156,103 @@
   summary:
     en: Official implementation of "TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers"
     zh: TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers官方实现
+
+- repo_url: https://github.com/mcahny/vps
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Video_Panoptic_Segmentation_CVPR_2020_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Video Panoptic Segmentation
+  summary:
+    en: Official implementation of "Video Panoptic Segmentation"
+    zh: Video Panoptic Segmentation官方实现
+
+- repo_url: https://github.com/KimSoybean/ScratchDet
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_ScratchDet_Training_Single-Shot_Object_Detectors_From_Scratch_CVPR_2019_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "ScratchDet:Training Single-Shot Object Detectors from Scratch"
+    zh: ScratchDet:Training Single-Shot Object Detectors from Scratch官方实现
+
+- repo_url: https://github.com/KiveeDong/CentripetalNet
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_CentripetalNet_Pursuing_High-Quality_Keypoint_Pairs_for_Object_Detection_CVPR_2020_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of "CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection"
+    zh: CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection官方实现
+
+- repo_url: https://github.com/yuantn/MI-AOD
+  paper_url: https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Active Learning
+  summary:
+    en: Official implementation of "Multiple Instance Active Learning for Object Detection"
+    zh: Multiple Instance Active Learning for Object Detection官方实现
+
+- repo_url: https://github.com/cheerss/CrossFormer
+  paper_url: https://openreview.net/pdf?id=_PHymLIxuI
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Vision Transformer
+    - Backbone
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "CrossFormer:A Versatile Vision Transformer Based on Cross-scale Attention"
+    zh: CrossFormer:A Versatile Vision Transformer Based on Cross-scale Attention官方实现
+
+- repo_url: https://github.com/ShoufaChen/CycleMLP
+  paper_url: https://openreview.net/pdf?id=NMEceG4v69Y
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - MLP Architectures
+    - Backbone
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "CycleMLP:A MLP-like Architecture for Dense Prediction"
+    zh: CycleMLP:A MLP-like Architecture for Dense Prediction官方实现
+
+- repo_url: https://github.com/microsoft/RelationNet2
+  paper_url: https://proceedings.neurips.cc//paper/2020/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Attention
+    - Detection
+  summary:
+    en: Official implementation of "RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder"
+    zh: RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder官方实现
+
+- repo_url: https://github.com/amirgholami/ZeroQ
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_ZeroQ_A_Novel_Zero_Shot_Quantization_Framework_CVPR_2020_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Quantization
+    - Detection
+  summary:
+    en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
+    zh: ZeroQ:A Novel Zero Shot Quantization Framework官方实现
