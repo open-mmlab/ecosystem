@@ -93,7 +93,7 @@
     - Segmentation
   summary:
     en: PyTorch implementation and pretrained models for XCiT models. See "XCiT:Cross-Covariance Image Transformer"
-    zh: XCiT 模型的 pytorch 实现与与训练模型。参考 “XCiT:Cross-Covariance Image Transformer”
+    zh: XCiT 模型的 pytorch 实现与与训练模型。参考 XCiT:Cross-Covariance Image Transformer
 
 - repo_url: https://github.com/hasanirtiza/Pedestron
   paper_url: https://arxiv.org/pdf/2201.03176
@@ -142,46 +142,35 @@
     en: Official implementation of "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
     zh: Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection 官方实现。
 
-# - repo_url: https://github.com/implus/GFocalV2
-#   paper_url: https://arxiv.org/abs/2011.12885
-#   type: Official Implementation
-#   mmrepos:
-#     - MMDetection
-#   tags:
-#     - Detection
-#   summary:
-#     en: Official implementation of "Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection"
-#     zh: "Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection" 官方实现。
+- repo_url: https://github.com/implus/GFocalV2
+  paper_url: https://arxiv.org/abs/2011.12885
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection"
+    zh: Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection 官方实现。
 
-# - repo_url: https://github.com/ZJULearning/ttfnet
-#   paper_url: https://arxiv.org/pdf/1909.00700
-#   type: Official Implementation
-#   mmrepos:
-#     - MMDetection
-#   tags:
-#     - Detection
-#   summary:
-#     en: Official implementation of "Training-Time-Friendly Network for Real-Time Object Detection"
-#     zh: "Training-Time-Friendly Network for Real-Time Object Detection" 官方实现。
+- repo_url: https://github.com/ZJULearning/ttfnet
+  paper_url: https://arxiv.org/pdf/1909.00700
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Training-Time-Friendly Network for Real-Time Object Detection"
+    zh: Training-Time-Friendly Network for Real-Time Object Detection 官方实现。
 
-# - repo_url: https://github.com/Sense-X/TSD
-#   paper_url: https://arxiv.org/abs/2003.07540
-#   type: Official Implementation
-#   mmrepos:
-#     - MMDetection
-#   tags:
-#     - Detection
-#   summary:
-#     en: Official implementation of "Revisiting the Sibling Head in Object Detector"
-#     zh: "Revisiting the Sibling Head in Object Detector" 官方实现。
-
-# - repo_url: https://github.com/Sense-X/TSD
-#   paper_url: https://arxiv.org/abs/2003.07540
-#   type: Official Implementation
-#   mmrepos:
-#     - MMDetection
-#   tags:
-#     - Detection
-#   summary:
-#     en: Official implementation of "Revisiting the Sibling Head in Object Detector"
-#     zh: "Revisiting the Sibling Head in Object Detector" 官方实现。
+- repo_url: https://github.com/Sense-X/TSD
+  paper_url: https://arxiv.org/abs/2003.07540
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Revisiting the Sibling Head in Object Detector"
+    zh: Revisiting the Sibling Head in Object Detector 官方实现。
