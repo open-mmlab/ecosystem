@@ -79,3 +79,91 @@
   summary:
     en: Official implementation of "WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery"
     zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery官方实现
+
+- repo_url: https://github.com/WangYueFt/detr3d
+  paper_url: https://proceedings.mlr.press/v164/wang22b/wang22b.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries"
+    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries官方实现
+
+- repo_url: https://github.com/WangYueFt/detr3d
+  paper_url: https://proceedings.neurips.cc/paper/2021/file/ade1d98c5ab2997e867b1151a5c5028d-Paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "Object DGCNN:3D Object Detection using Dynamic Graphs"
+    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries官方实现
+
+- repo_url: https://github.com/TuSimple/SST
+  paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Embracing_Single_Stride_3D_Object_Detector_With_Sparse_Transformer_CVPR_2022_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "Embracing Single Stride 3D Object Detector with Sparse Transformer"
+    zh: Embracing Single Stride 3D Object Detector with Sparse Transformer官方实现
+
+- repo_url: https://github.com/tusimple/LiDAR_RCNN
+  paper_url: https://arxiv.org/pdf/2103.15297.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "LiDAR R-CNN:An Efficient and Universal 3D Object Detector"
+    zh: LiDAR R-CNN:An Efficient and Universal 3D Object Detector官方实现
+
+- repo_url: https://github.com/saic-vul/imvoxelnet
+  paper_url: https://arxiv.org/pdf/2106.01178.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection"
+    zh: ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection官方实现
+
+- repo_url: https://github.com/samsunglabs/fcaf3d
+  paper_url: https://arxiv.org/pdf/2112.00322.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection"
+    zh: FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection官方实现
+
+- repo_url: https://github.com/Vladimir2506/Pointformer
+  paper_url: https://arxiv.org/pdf/2012.11409.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "3D Object Detection with Pointformer"
+    zh: 3D Object Detection with Pointformer官方实现
+
+- repo_url: https://github.com/XuyangBai/TransFusion/
+  paper_url: https://arxiv.org/pdf/2203.11496.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection3D
+  tags:
+    - Amodal
+  summary:
+    en: Official implementation of "TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers"
+    zh: TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers官方实现
