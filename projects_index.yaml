@@ -79,3 +79,109 @@
   summary:
     en: Official implementation of "WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery"
     zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery官方实现
+
+- repo_url: https://github.com/facebookresearch/xcit
+  paper_url: https://arxiv.org/pdf/2106.09681
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Backbone
+    - Transformer
+    - Detection
+    - Segmentation
+  summary:
+    en: PyTorch implementation and pretrained models for XCiT models. See "XCiT:Cross-Covariance Image Transformer"
+    zh: XCiT 模型的 pytorch 实现与与训练模型。参考 “XCiT:Cross-Covariance Image Transformer”
+
+- repo_url: https://github.com/hasanirtiza/Pedestron
+  paper_url: https://arxiv.org/pdf/2201.03176
+  type: Library
+  mmrepos:
+    - MMDetection
+  tags:
+    - Pedestrian Detection
+  summary:
+    en: Pedestron is a MMDetection based repository, that focuses on the advancement of research on pedestrian detection.
+    zh: Pedestron 是基于 MMDetection 开发的，专注于行人检测前沿研究的仓库。
+
+- repo_url: https://github.com/grimoire/mmdetection-to-tensorrt
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMDetection
+  tags:
+    - TensorRT
+    - Deployment
+    - Detection
+  summary:
+    en: This project aims to convert the MMDetection model to TensorRT model end2end.
+    zh: 本项目旨在将 MMDetection 的模型端到端地转化为 TensorRT 模型。
+
+- repo_url: https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch
+  paper_url: https://arxiv.org/pdf/2009.12991
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Long-Tailed
+  summary:
+    en: Official implementation of Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.
+    zh: Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect 官方实现。
+
+# - repo_url: https://github.com/implus/GFocal
+#   paper_url: https://arxiv.org/pdf/2006.04388
+#   type: Official Implementation
+#   mmrepos:
+#     - MMDetection
+#   tags:
+#     - Detection
+#   summary:
+#     en: Official implementation of "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
+#     zh: "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection" 官方实现。
+
+# - repo_url: https://github.com/implus/GFocalV2
+#   paper_url: https://arxiv.org/abs/2011.12885
+#   type: Official Implementation
+#   mmrepos:
+#     - MMDetection
+#   tags:
+#     - Detection
+#   summary:
+#     en: Official implementation of "Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection"
+#     zh: "Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection" 官方实现。
+
+# - repo_url: https://github.com/ZJULearning/ttfnet
+#   paper_url: https://arxiv.org/pdf/1909.00700
+#   type: Official Implementation
+#   mmrepos:
+#     - MMDetection
+#   tags:
+#     - Detection
+#   summary:
+#     en: Official implementation of "Training-Time-Friendly Network for Real-Time Object Detection"
+#     zh: "Training-Time-Friendly Network for Real-Time Object Detection" 官方实现。
+
+# - repo_url: https://github.com/Sense-X/TSD
+#   paper_url: https://arxiv.org/abs/2003.07540
+#   type: Official Implementation
+#   mmrepos:
+#     - MMDetection
+#   tags:
+#     - Detection
+#   summary:
+#     en: Official implementation of "Revisiting the Sibling Head in Object Detector"
+#     zh: "Revisiting the Sibling Head in Object Detector" 官方实现。
+
+# - repo_url: https://github.com/Sense-X/TSD
+#   paper_url: https://arxiv.org/abs/2003.07540
+#   type: Official Implementation
+#   mmrepos:
+#     - MMDetection
+#   tags:
+#     - Detection
+#   summary:
+#     en: Official implementation of "Revisiting the Sibling Head in Object Detector"
+#     zh: "Revisiting the Sibling Head in Object Detector" 官方实现。
