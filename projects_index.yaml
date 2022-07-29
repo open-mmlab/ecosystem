@@ -131,16 +131,16 @@
     en: Official implementation of Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.
     zh: Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect 官方实现。
 
-# - repo_url: https://github.com/implus/GFocal
-#   paper_url: https://arxiv.org/pdf/2006.04388
-#   type: Official Implementation
-#   mmrepos:
-#     - MMDetection
-#   tags:
-#     - Detection
-#   summary:
-#     en: Official implementation of "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
-#     zh: "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection" 官方实现。
+- repo_url: https://github.com/implus/GFocal
+  paper_url: https://arxiv.org/pdf/2006.04388
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
+    zh: Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection 官方实现。
 
 # - repo_url: https://github.com/implus/GFocalV2
 #   paper_url: https://arxiv.org/abs/2011.12885
