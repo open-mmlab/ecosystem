@@ -88,19 +88,8 @@
   tags:
     - Amodal
   summary:
-    en: Official implementation of "DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries"
-    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries官方实现
-
-- repo_url: https://github.com/WangYueFt/detr3d
-  paper_url: https://proceedings.neurips.cc/paper/2021/file/ade1d98c5ab2997e867b1151a5c5028d-Paper.pdf
-  type: Official Implementation
-  mmrepos:
-    - MMDetection3D
-  tags:
-    - Amodal
-  summary:
-    en: Official implementation of "Object DGCNN:3D Object Detection using Dynamic Graphs"
-    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries官方实现
+    en: Official implementation of "DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries" and "Object DGCNN:3D Object Detection using Dynamic Graphs"
+    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries和Object DGCNN:3D Object Detection using Dynamic Graphs官方实现
 
 - repo_url: https://github.com/TuSimple/SST
   paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Embracing_Single_Stride_3D_Object_Detector_With_Sparse_Transformer_CVPR_2022_paper.pdf
