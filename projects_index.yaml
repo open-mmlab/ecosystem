@@ -454,3 +454,88 @@
   summary:
     en: Official implementation of "iBOT:Image BERT Pre-Training with Online Tokenizer"
     zh: iBOT:Image BERT Pre-Training with Online Tokenizer官方实现
+
+- repo_url: https://github.com/kemaloksuz/aLRPLoss
+  paper_url: https://arxiv.org/pdf/2009.13592v4.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Loss
+    - Detection
+  summary:
+    en: Official implementation of "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection"
+    zh: A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection官方实现
+
+- repo_url: https://github.com/Howal/Cross-iterationBatchNorm
+  paper_url: https://arxiv.org/pdf/2002.05712v3.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Batch Normalization
+    - Detection
+  summary:
+    en: Official implementation of "Cross-Iteration Batch Normalizationn"
+    zh: Cross-Iteration Batch Normalization官方实现
+
+- repo_url: https://github.com/jshilong/FisherPruning
+  paper_url: https://arxiv.org/pdf/2108.00708.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Pruning
+    - Detection
+  summary:
+    en: Official implementation of "Group Fisher Pruning for Practical Network Compression"
+    zh: Group Fisher Pruning for Practical Network Compression官方实现
+
+- repo_url: https://github.com/ggjy/HitDet.pytorch
+  paper_url: https://arxiv.org/pdf/2003.11818.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Architecture Search
+    - Detection
+  summary:
+    en: Official implementation of "Hit-Detector:Hierarchical Trinity Architecture Search for Object Detection"
+    zh: Hit-Detector:Hierarchical Trinity Architecture Search for Object Detection官方实现
+
+- repo_url: https://github.com/hysts/anime-face-detector
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMDetection
+    - MMPose
+  tags:
+    - Face Detector
+    - Detection
+  summary:
+    en: Anime Face Detector
+    zh: 动漫人脸检测器
+
+- repo_url: https://github.com/tztztztztz/eqlv2
+  paper_url: https://arxiv.org/pdf/2003.05176v2.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Long-Tailed
+    - Detection
+  summary:
+    en: Official implementation of "Equalization loss for long-tailed object recognition" and "Equalization Loss v2:A New Gradient Balance Approach for Long-tailed Object Detection"
+    zh: Equalization loss for long-tailed object recognition和Equalization Loss v2:A New Gradient Balance Approach for Long-tailed Object Detection官方实现
+
+- repo_url: https://github.com/yzd-v/FGD
+  paper_url: https://arxiv.org/pdf/2111.11837v2.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Knowledge Distillation
+    - Detection
+  summary:
+    en: Official implementation of "Focal and Global Knowledge Distillation for Detectors"
+    zh: Focal and Global Knowledge Distillation for Detectors官方实现
