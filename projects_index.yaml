@@ -549,3 +549,89 @@
   summary:
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
     zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
+
+- repo_url: https://github.com/JiaquanYe/TableMASTER-mmocr
+  paper_url: https://arxiv.org/pdf/2105.01848.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Competition
+    - Table Recognition
+    - ICDAR
+  summary:
+    en: PINGAN-VCGROUP's solution for ICDAR 2021 competition on scientific literature parsing task B
+    zh: 平安 VCGroup 为 ICDAR 2021 科学文献解析竞赛任务 B 提供的解决方案
+
+- repo_url: https://github.com/xfyun/aiges
+  paper_url: ''
+  type: Service
+  mmrepos:
+    - MMOCR
+  tags:
+    - AI Serving
+    - Cloud
+  summary:
+    en: AI Service Engine
+    zh: AI 引擎托管平台
+
+- repo_url: https://github.com/JiaquanYe/MASTER-mmocr
+  paper_url: https://arxiv.org/pdf/1910.02562.pdf
+  type: Community Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Recognition
+    - Transformer
+  summary:
+    en: Official implementation of "MASTER:Multi-Aspect Non-local Network for Scene Text Recognition"
+    zh: MASTER:Multi-Aspect Non-local Network for Scene Text Recognition 官方实现
+
+- repo_url: https://github.com/phamdinhkhanh/general_ocr
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMOCR
+  tags:
+    - Mixed Library
+  summary:
+    en: Open source Optical Character Recognition library based on PyTorch
+    zh: 基于 PyTorch 的开源光学字符识别库
+
+- repo_url: https://github.com/sangwook236/SWDT
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMOCR
+  tags:
+    - Development and Testing
+    - Knowledge Base
+  summary:
+    en: A systematical accumulation of source codes, knowledge, and experience acquired in the development and testing of software and hardware
+    zh: 对用于开发和测试软/硬件源码、知识和经验的一个系统化的总结
+
+- repo_url: https://github.com/TommyZihao/MMOCR_tutorials
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+    - MMOCR
+  tags:
+    - Tutorial
+    - Beginner-Friendly
+  summary:
+    en: Jupyter notebook tutorials for MMOCR
+    zh: MMOCR 代码教程
+
+- repo_url: https://github.com/zezeze97/Master_im2caption
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMCV
+    - MMDetection
+    - MMOCR
+  tags:
+    - Image Captioning
+    - Transformer
+  summary:
+    en: A framework for image captioning
+    zh: 一个图像标题生成框架
