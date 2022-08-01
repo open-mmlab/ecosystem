@@ -376,7 +376,7 @@
     zh: 深度学习训练平台
 
 - repo_url: https://github.com/WXinlong/SOLO
-  paper_url: https://arxiv.org/pdf/1912.04488.pdf
+  paper_url: https://arxiv.org/pdf/1912.04488.pdf; https://arxiv.org/pdf/2003.10152.pdf
   type: Official Implementation
   mmrepos:
     - MMDetection
@@ -412,7 +412,7 @@
     zh: GCNet:Non-local Networks Meet Squeeze-Excitation Networks and Beyond官方实现
 
 - repo_url: https://github.com/whai362/PVT
-  paper_url: https://arxiv.org/pdf/2106.13797.pdf
+  paper_url: https://arxiv.org/pdf/2106.13797.pdf; https://arxiv.org/pdf/2106.13797.pdf
   type: Official Implementation
   mmrepos:
     - MMDetection
