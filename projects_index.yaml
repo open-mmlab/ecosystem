@@ -351,3 +351,106 @@
   summary:
     en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
     zh: ZeroQ:A Novel Zero Shot Quantization Framework官方实现
+
+- repo_url: https://github.com/microsoft/Focal-Transformer
+  paper_url: https://arxiv.org/pdf/2107.00641.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Backbone
+    - Transformer
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "Focal Self-attention for Local-Global Interactions in Vision Transformers"
+    zh: Focal Self-attention for Local-Global Interactions in Vision Transformers官方实现
+
+- repo_url: https://github.com/Meituan-AutoML/Twins
+  paper_url: https://arxiv.org/pdf/2104.13840.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Backbone
+    - Transformer
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "Twins:Revisiting the Design of Spatial Attention in Vision Transformers"
+    zh: Twins:Revisiting the Design of Spatial Attention in Vision Transformers官方实现
+
+- repo_url: https://github.com/ZwwWayne/K-Net
+  paper_url: https://arxiv.org/pdf/2106.14855.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Segmentation
+    - Instance Segmentation
+    - Panoptic Segmentation
+  summary:
+    en: Official implementation of "K-Net:Towards Unified Image Segmentation"
+    zh: K-Net:Towards Unified Image Segmentation官方实现
+
+- repo_url: https://github.com/hustvl/QueryInst
+  paper_url: https://openaccess.thecvf.com/content/ICCV2021/papers/Fang_Instances_As_Queries_ICCV_2021_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of "Instances as Queries"
+    zh: Instances as Queries官方实现
+
+- repo_url: https://github.com/FishYuLi/BalancedGroupSoftmax
+  paper_url: http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Long-Tailed
+  summary:
+    en: Official implementation of "Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax"
+    zh: Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax官方实现
+
+- repo_url: https://github.com/jshilong/SEPC
+  paper_url: https://arxiv.org/pdf/2005.03101.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Scale-equalizing Pyramid Convolution for Object Detection"
+    zh: Scale-equalizing Pyramid Convolution for Object Detection官方实现
+
+- repo_url: https://github.com/shinya7y/UniverseNet
+  paper_url: https://arxiv.org/pdf/2103.14027
+  type: Library
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: USB:Universal-Scale Object Detection Benchmark
+    zh: USB:通用尺度物体检测基准
+
+- repo_url: https://github.com/bytedance/ibot
+  paper_url: https://arxiv.org/pdf/2111.07832.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Backbone
+    - Pre-Training
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "iBOT:Image BERT Pre-Training with Online Tokenizer"
+    zh: iBOT:Image BERT Pre-Training with Online Tokenizer官方实现
