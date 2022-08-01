@@ -454,3 +454,98 @@
   summary:
     en: Official implementation of "iBOT:Image BERT Pre-Training with Online Tokenizer"
     zh: iBOT:Image BERT Pre-Training with Online Tokenizer官方实现
+
+- repo_url: https://github.com/wangsr126/RDSNet
+  paper_url: https://arxiv.org/pdf/1912.05070.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of "RDSNet:A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
+    zh: RDSNet:A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation官方实现
+
+- repo_url: https://github.com/csuhan/s2anet
+  paper_url: https://arxiv.org/pdf/2008.09397.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Rotated Object Detection
+  summary:
+    en: Official implementation of "Align Deep Features for Oriented Object Detection"
+    zh: Align Deep Features for Oriented Object Detection官方实现
+
+- repo_url: https://github.com/Scalsol/RepPointsV2
+  paper_url: https://arxiv.org/pdf/2007.08508.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "RepPoints V2:Verification Meets Regression for Object Detection"
+    zh: RepPoints V2:Verification Meets Regression for Object Detection官方实现
+
+- repo_url: https://github.com/JialeCao001/D2Det
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of "D2Det:Towards High Quality Object Detection and Instance Segmentation"
+    zh: D2Det:Towards High Quality Object Detection and Instance Segmentation官方实现
+
+- repo_url: https://github.com/jbwang1997/OBBDetection
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Rotated Object Detection
+  summary:
+    en: An oriented object detection library,
+    zh: 有向目标检测库
+
+- repo_url: https://github.com/hyz-xmaster/VarifocalNet
+  paper_url: https://arxiv.org/pdf/2008.13367.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "VarifocalNet:An IoU-aware Dense Object Detector"
+    zh: VarifocalNet:An IoU-aware Dense Object Detector官方实现
+
+- repo_url: https://github.com/pengzhiliang/Conformer
+  paper_url: https://arxiv.org/pdf/2105.03889.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Transformer
+    - Detection
+  summary:
+    en: Official implementation of "Conformer:Local Features Coupling Global Representations for Visual Recognition"
+    zh: Conformer:Local Features Coupling Global Representations for Visual Recognition官方实现
+
+- repo_url: https://github.com/VDIGPKU/CBNetV2
+  paper_url: https://arxiv.org/pdf/2107.00420.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Backbone
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
+    zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
