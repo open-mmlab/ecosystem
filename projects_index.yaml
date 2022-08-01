@@ -454,3 +454,147 @@
   summary:
     en: Official implementation of "iBOT:Image BERT Pre-Training with Online Tokenizer"
     zh: iBOT:Image BERT Pre-Training with Online Tokenizer官方实现
+
+- repo_url: https://github.com/ckkelvinchan/RealBasicVSR
+  paper_url: https://arxiv.org/abs/2111.12704
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Video Super-Resolution
+  summary:
+    en: Official repository of "Investigating Tradeoffs in Real-World Video Super-Resolution"
+    zh: Investigating Tradeoffs in Real-World Video Super-Resolution 官方实现
+
+- repo_url: https://github.com/ckkelvinchan/BasicVSR_PlusPlus
+  paper_url: https://arxiv.org/abs/2104.13371
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Video Super-Resolution
+  summary:
+    en: Official repository of "BasicVSR++:Improving Video Super-Resolution with Enhanced Propagation and Alignment"
+    zh: BasicVSR++:Improving Video Super-Resolution with Enhanced Propagation and Alignment 官方实现
+
+- repo_url: https://github.com/ckkelvinchan/BasicVSR-IconVSR
+  paper_url: https://arxiv.org/abs/2012.02181
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Video Super-Resolution
+  summary:
+    en: Official repository of "BasicVSR:The Search for Essential Components in Video Super-Resolution and Beyond"
+    zh: BasicVSR:The Search for Essential Components in Video Super-Resolution and Beyond 官方实现
+
+- repo_url: https://github.com/ckkelvinchan/GLEAN
+  paper_url: https://arxiv.org/abs/2012.00739
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Image Super-Resolution
+  summary:
+    en: Official repository of "GLEAN:Generative Latent Bank for Large-Factor Image Super-Resolution"
+    zh: GLEAN:Generative Latent Bank for Large-Factor Image Super-Resolution 官方实现
+
+- repo_url: https://github.com/AlexZou14/DAN-Basd-on-Openmmlab
+  paper_url: https://arxiv.org/abs/2010.02631v4
+  type: Community Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Blind Super-Resolution
+  summary:
+    en: Implementation of "DAN:Unfolding the Alternating Optimization for Blind Super Resolution"
+    zh: DAN:Unfolding the Alternating Optimization for Blind Super Resolution 实现
+
+- repo_url: https://github.com/caojiezhang/DAVSR
+  paper_url: https://arxiv.org/abs/2207.10765
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Video Super-Resolution
+  summary:
+    en: Official repository of "Towards Interpretable Video Super-Resolution via Alternating Optimization"
+    zh: Towards Interpretable Video Super-Resolution via Alternating Optimization 官方实现
+
+- repo_url: https://github.com/jibo27/MemDeblur
+  paper_url: https://arxiv.org/abs/2204.02977
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Video Deblurring
+  summary:
+    en: Official repository of "Multi-Scale Memory-Based Video Deblurring"
+    zh: Multi-Scale Memory-Based Video Deblurring 官方实现
+
+- repo_url: https://github.com/ImCharlesY/SepLUT
+  paper_url: https://arxiv.org/abs/2207.08351
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Image Enhancement
+  summary:
+    en: Official PyTorch Implementation of "SepLUT:Separable Image-adaptive Lookup Tables for Real-time Image Enhancement"
+    zh: SepLUT:Separable Image-adaptive Lookup Tables for Real-time Image Enhancement 官方实现
+
+- repo_url: https://github.com/ImCharlesY/AdaInt
+  paper_url: https://arxiv.org/abs/2204.13983
+  type: Official Implementation
+  mmrepos:
+    - MMEditing
+  tags:
+    - Image Enhancement
+  summary:
+    en: Official PyTorch Implementation of "AdaInt:Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement"
+    zh: AdaInt:Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement 官方实现
+
+- repo_url: https://github.com/ryanxingql/powervqe
+  paper_url: ""
+  type: Others
+  mmrepos:
+    - MMEditing
+  tags:
+    - Video Enhancement
+  summary:
+    en: PowerVQE:An Open Framework for Quality Enhancement of Compressed Videos
+    zh: PowerVQE:视频压缩质量评价的开源框架
+
+- repo_url: https://github.com/vglsd/ScaleParty
+  paper_url: https://arxiv.org/abs/2204.02273
+  type: Official Implementation
+  mmrepos:
+    - MMGeneration
+  tags:
+    - Image Synthesis
+  summary:
+    en: Official Implementation of "Arbitrary-Scale Image Synthesis"
+    zh: Arbitrary-Scale Image Synthesis 官方实现
+
+- repo_url: https://github.com/cv516Buaa/MMOTU_DS2Net
+  paper_url: https://arxiv.org/abs/2207.06799
+  type: Official Implementation
+  mmrepos:
+    - MMGeneration
+    - MMSegmentation
+  tags:
+    - Segmentation
+  summary:
+    en: Official Implementation of "A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation"
+    zh: A Multi-Modality Ovarian Tumor Ultrasound Image Dataset for Unsupervised Cross-Domain Semantic Segmentation 官方实现
+
+- repo_url: https://github.com/chandlerbing65nm/Manga-Colorization-with-CycleGAN
+  paper_url: ""
+  type: Others
+  mmrepos:
+    - MMGeneration
+  tags:
+    - Colorization
+  summary:
+    en: Colorizing Black&White Japanese Manga using Generative Adversarial Network
+    zh: 基于GAN的黑白动漫上色
