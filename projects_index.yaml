@@ -562,7 +562,7 @@
     zh: PolarMask:Single Shot Instance Segmentation with Polar Representation官方实现
 
 - repo_url: https://github.com/hhaAndroid/mmdetection-mini
-  paper_url:
+  paper_url: ''
   type: Official Implementation
   mmrepos:
     - MMDetection
@@ -614,7 +614,7 @@
     zh: 创建这个代码库是为了为航空图像中的目标检测建立基准。
 
 - repo_url: https://github.com/ming71/mmdetection-annotated
-  paper_url:
+  paper_url: ''
   type: Official Implementation
   mmrepos:
     - MMDetection
