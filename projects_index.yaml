@@ -379,7 +379,7 @@
   paper_url: https://arxiv.org/pdf/1912.04488.pdf
   type: Official Implementation
   mmrepos:
-    - MMSegmentation
+    - MMDetection
   tags:
     - Segmentation
   summary:
@@ -391,6 +391,7 @@
   type: Official Implementation
   mmrepos:
     - MMDetection
+    - MMClassification
     - MMSegmentation
   tags:
     - Detection
@@ -447,4 +448,4 @@
     - Swin Transformer
   summary:
     en: Reproduction for object detection results of Swin Transformer based on mmdetection
-    zh: 基于mmdetection的Swin transformer在检测任务上的复现
+    zh: Swin transformer在检测任务上的复现
