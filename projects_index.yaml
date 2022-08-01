@@ -351,3 +351,256 @@
   summary:
     en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
     zh: ZeroQ:A Novel Zero Shot Quantization Framework官方实现
+
+- repo_url: https://github.com/Gavince/MTL
+  paper_url: ''
+  type: Community Implementation
+  mmrepos:
+    - MMClassification
+  tags:
+    - Multi-Task Learning
+    - CTR
+  summary:
+    en: Implementation of Multi-task Learning Algorithms in Recommendation System
+    zh: 推荐系统之多目标学习
+
+- repo_url: https://github.com/likyoo/open-cd
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMClassification
+  tags:
+    - Change Detection
+    - Toolbox
+  summary:
+    en: An open source change detection toolbox based on a series of open source general vision task tools
+    zh: 变化检测开源工具箱
+
+- repo_url: https://github.com/chufengt/Visual-Recognition-by-Request
+  paper_url: https://arxiv.org/abs/2207.14227
+  type: Official Implementation
+  mmrepos:
+    - MMClassification
+  tags:
+    - Visual Recognition
+  summary:
+    en: Code for the paper "Visual Recognition by Request"
+    zh: Visual Recognition by Request 官方实现
+
+
+- repo_url: https://github.com/linjing7/VR-Baseline
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMEditing
+    - MMClassification
+  tags:
+    - Video Restoration
+  summary:
+    en: Video Restoration Toolbox including FGST (ICML 2022) and S2SVR (ICML 2022)
+    zh: Video Restoration 工具箱
+
+- repo_url: https://github.com/ngfuong/phishing-detector
+  paper_url: ''
+  type: Demo
+  mmrepos:
+    - MMClassification
+  tags:
+    - Video Restoration
+  summary:
+    en: A Heroku-powered web application that supports phishing detection of malicious websites.
+    zh: 一个支持phishing detection的web应用
+
+- repo_url: https://github.com/XL-H/mmsegmentation_multi_label
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Segmentation
+    - Multi-Label
+  summary:
+    en: A version of mmsegmentation with some updates for multi-label segmentation
+    zh: 支持多标签语义分割的算法库
+
+- repo_url: https://github.com/chris901003/DeepLearning
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+    - MMDetection
+    - MMOCR
+    - MMCV
+  tags:
+    - Deep Learning
+    - Tutorial
+  summary:
+    en: Deep learning Tutorial with code
+    zh: 深度学习相关教程
+
+- repo_url: https://github.com/igo312/NN-Quantization-Toy
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+    - MMClassification
+    - MMDetection
+  tags:
+    - Quantization
+  summary:
+    en: Quantization tool based on MMDetection and MMClassification
+    zh: 基于MMDetection与MMClassification的模型量化工具
+
+- repo_url: https://github.com/zezeze97/kaggle_segmentation
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Kaggle
+  summary:
+    en: Code for UW-Madison GI Tract Image Segmentation
+    zh: 该仓库用于UW-Madison GI Tract Image Segmentation比赛
+
+- repo_url: https://github.com/Enderfga/Enderfga
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMClassification
+    - MMEditing
+  tags:
+    - Homepage
+  summary:
+    en: Homepage of Enderfga
+    zh: Enderfga的个人主页
+
+- repo_url: https://github.com/hwddean/trt_segformer
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Segmentation
+    - TensorRT
+  summary:
+    en: SegFormer with TensorRT
+    zh: 使用TensorRT部署SegFormer
+
+- repo_url: https://github.com/UAws/CV-3315-Is-All-You-Need
+  paper_url: https://arxiv.org/abs/2206.12571
+  type: Competition
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Segmentation
+  summary:
+    en: CV3315 Is All You Need – Semantic Segmentation Course Competition
+    zh: Course COMP SCI 3315 Computer Vision Semantic Segmentation Competition 第一名实现
+
+- repo_url: https://github.com/pdejorge/N-FGSM
+  paper_url: https://arxiv.org/abs/2202.01181
+  type: Official Implementation
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Segmentation
+  summary:
+    en: "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training"
+    zh: Make Some Noise 官方实现
+
+- repo_url: https://github.com/boostcampaitech3/final-project-level3-cv-16
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+    - MMClassification
+  tags:
+    - Classification
+    - Course Project
+  summary:
+    en: Course project of Team Medic(CV-16)
+    zh: Team Medic(CV-16)的课程项目
+
+- repo_url: https://github.com/chagmgang/selfsup_openrep
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMClassification
+  tags:
+    - Remote Sensing
+    - Self-supervised Learning
+  summary:
+    en: Self supervised learning methods in remote sensing field
+    zh: 遥感领域的自监督算法
+
+- repo_url: https://github.com/kuokai0429/STAS_Image_Segmentation
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - STAS Image
+    - Segmentation
+  summary:
+    en: Code for STAS Image Segmentation
+    zh: 運用影像分割作法於切割STAS輪廓
+
+
+- repo_url: https://github.com/kuokai0429/STAS_Object_Detection
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMClassification
+    - MMDetection
+  tags:
+    - STAS Image
+    - Detection
+  summary:
+    en: Code for STAS Image Detection
+    zh: STAS图像的物体检测
+
+- repo_url: https://github.com/shiwt03/SSformer
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Lightweight
+    - Segmentation
+  summary:
+    en: A lightweight model for semantic segmentation
+    zh: 适用于语义分割的轻量级模型
+
+
+- repo_url: https://github.com/ItIsFriday/PcdSeg
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMClassification
+    - MMSelfSup
+  tags:
+    - Point Cloud Segmentation
+    - Sparse Networks
+  summary:
+    en: Efficient Point Cloud Segmentation with Geometry-aware Sparse Networks
+    zh: Efficient Point Cloud Segmentation with Geometry-aware Sparse Networks 官方实现
+
+
+- repo_url: https://github.com/chauhanshreyatu/Document_Image_classification
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMSelfSup
+    - MMClassification
+  tags:
+    - Document
+    - Classification
+  summary:
+    en: Document Image Classification
+    zh: 文档图像分类
