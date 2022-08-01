@@ -10,7 +10,7 @@
     - Vision Transformer
   summary:
     en: Official PyTorch implementation of Fully Attentional Networks
-    zh: 基于PyTorch的Fully Attentional Networks官方实现
+    zh: 基于 PyTorch 的 Fully Attentional Networks 官方实现
 
 # Example-2
 - repo_url: https://github.com/Ascend/ModelZoo-PyTorch
@@ -37,7 +37,7 @@
     - SkipResNets
   summary:
     en: An implementation of SkipResNets for performance evaluation
-    zh: SkipResNets的实现
+    zh: SkipResNets 的实现
 
 # Example-4
 - repo_url: https://github.com/7eu7d7/genshin_voice_play
@@ -66,7 +66,7 @@
     - Detection
   summary:
     en: Official implementation of paper "Masked Distillation with Receptive Tokens"
-    zh: Masked Distillation with Receptive Tokens官方实现
+    zh: Masked Distillation with Receptive Tokens 官方实现
 
 # Example-6
 - repo_url: https://github.com/dineshreddy91/WALT
@@ -78,7 +78,7 @@
     - Amodal
   summary:
     en: Official implementation of "WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery"
-    zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery官方实现
+    zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery 官方实现
 
 - repo_url: https://github.com/facebookresearch/xcit
   paper_url: https://arxiv.org/pdf/2106.09681
@@ -184,7 +184,7 @@
     - Amodal
   summary:
     en: Official implementation of "DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries" and "Object DGCNN:3D Object Detection using Dynamic Graphs"
-    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries和Object DGCNN:3D Object Detection using Dynamic Graphs官方实现
+    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries和Object DGCNN:3D Object Detection using Dynamic Graphs 官方实现
 
 - repo_url: https://github.com/TuSimple/SST
   paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Embracing_Single_Stride_3D_Object_Detector_With_Sparse_Transformer_CVPR_2022_paper.pdf
@@ -195,7 +195,7 @@
     - Amodal
   summary:
     en: Official implementation of "Embracing Single Stride 3D Object Detector with Sparse Transformer"
-    zh: Embracing Single Stride 3D Object Detector with Sparse Transformer官方实现
+    zh: Embracing Single Stride 3D Object Detector with Sparse Transformer 官方实现
 
 - repo_url: https://github.com/tusimple/LiDAR_RCNN
   paper_url: https://arxiv.org/pdf/2103.15297.pdf
@@ -206,7 +206,7 @@
     - Amodal
   summary:
     en: Official implementation of "LiDAR R-CNN:An Efficient and Universal 3D Object Detector"
-    zh: LiDAR R-CNN:An Efficient and Universal 3D Object Detector官方实现
+    zh: LiDAR R-CNN:An Efficient and Universal 3D Object Detector 官方实现
 
 - repo_url: https://github.com/saic-vul/imvoxelnet
   paper_url: https://arxiv.org/pdf/2106.01178.pdf
@@ -217,7 +217,7 @@
     - Amodal
   summary:
     en: Official implementation of "ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection"
-    zh: ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection官方实现
+    zh: ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection 官方实现
 
 - repo_url: https://github.com/samsunglabs/fcaf3d
   paper_url: https://arxiv.org/pdf/2112.00322.pdf
@@ -228,7 +228,7 @@
     - Amodal
   summary:
     en: Official implementation of "FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection"
-    zh: FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection官方实现
+    zh: FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection 官方实现
 
 - repo_url: https://github.com/Vladimir2506/Pointformer
   paper_url: https://arxiv.org/pdf/2012.11409.pdf
@@ -239,7 +239,7 @@
     - Amodal
   summary:
     en: Official implementation of "3D Object Detection with Pointformer"
-    zh: 3D Object Detection with Pointformer官方实现
+    zh: 3D Object Detection with Pointformer 官方实现
 
 - repo_url: https://github.com/XuyangBai/TransFusion/
   paper_url: https://arxiv.org/pdf/2203.11496.pdf
@@ -250,7 +250,7 @@
     - Amodal
   summary:
     en: Official implementation of "TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers"
-    zh: TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers官方实现
+    zh: TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers 官方实现
 
 - repo_url: https://github.com/mcahny/vps
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Video_Panoptic_Segmentation_CVPR_2020_paper.pdf
@@ -261,7 +261,7 @@
     - Video Panoptic Segmentation
   summary:
     en: Official implementation of "Video Panoptic Segmentation"
-    zh: Video Panoptic Segmentation官方实现
+    zh: Video Panoptic Segmentation 官方实现
 
 - repo_url: https://github.com/KimSoybean/ScratchDet
   paper_url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_ScratchDet_Training_Single-Shot_Object_Detectors_From_Scratch_CVPR_2019_paper.pdf
@@ -272,7 +272,7 @@
     - Detection
   summary:
     en: Official implementation of "ScratchDet:Training Single-Shot Object Detectors from Scratch"
-    zh: ScratchDet:Training Single-Shot Object Detectors from Scratch官方实现
+    zh: ScratchDet:Training Single-Shot Object Detectors from Scratch 官方实现
 
 - repo_url: https://github.com/KiveeDong/CentripetalNet
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_CentripetalNet_Pursuing_High-Quality_Keypoint_Pairs_for_Object_Detection_CVPR_2020_paper.pdf
@@ -284,7 +284,7 @@
     - Instance Segmentation
   summary:
     en: Official implementation of "CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection"
-    zh: CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection官方实现
+    zh: CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection  官方实现
 
 - repo_url: https://github.com/yuantn/MI-AOD
   paper_url: https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.pdf
@@ -326,7 +326,7 @@
     - Segmentation
   summary:
     en: Official implementation of "CycleMLP:A MLP-like Architecture for Dense Prediction"
-    zh: CycleMLP:A MLP-like Architecture for Dense Prediction官方实现
+    zh: CycleMLP:A MLP-like Architecture for Dense Prediction 官方实现
 
 - repo_url: https://github.com/microsoft/RelationNet2
   paper_url: https://proceedings.neurips.cc//paper/2020/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf
@@ -338,7 +338,7 @@
     - Detection
   summary:
     en: Official implementation of "RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder"
-    zh: RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder官方实现
+    zh: RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder 官方实现
 
 - repo_url: https://github.com/amirgholami/ZeroQ
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_ZeroQ_A_Novel_Zero_Shot_Quantization_Framework_CVPR_2020_paper.pdf
@@ -350,4 +350,95 @@
     - Detection
   summary:
     en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
-    zh: ZeroQ:A Novel Zero Shot Quantization Framework官方实现
+    zh: ZeroQ:A Novel Zero Shot Quantization Framework 官方实现
+
+- repo_url: https://github.com/Stephenfang51/mmdetection_visualize
+  paper_url: ""
+  type: Demo
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Visualization
+  summary:
+    en: Demos of simple version for visualizing the training result produced by MMDetection
+    zh: 基于 MMDetection 的训练结果可视化示例
+
+- repo_url: https://github.com/saic-vul/iterdet
+  paper_url: https://arxiv.org/pdf/2005.05708.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "IterDet:Iterative Scheme for Object Detection in Crowded Environments"
+    zh: IterDet:Iterative Scheme for Object Detection in Crowded Environments 官方实现
+
+- repo_url: https://github.com/thangvubk/Cascade-RPN
+  paper_url: https://arxiv.org/pdf/1909.06720.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Cascade RPN:Delving into High-Quality Region Proposal Network with Adaptive Convolution"
+    zh: Cascade RPN:Delving into High-Quality Region Proposal Network with Adaptive Convolution 官方实现
+
+- repo_url: https://github.com/ZjjConan/SimAM
+  paper_url: http://ruyuanzhang.github.io/files/2107_ICML.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "SimAM:A Simple, Parameter-Free Attention Module for Convolutional Neural Networks"
+    zh: SimAM:A Simple, Parameter-Free Attention Module for Convolutional Neural Networks 官方实现
+
+- repo_url: https://github.com/chanyn/Reasoning-RCNN
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Reasoning-RCNN:Unifying Adaptive Global Reasoning into Large-scale Object Detection"
+    zh: Reasoning-RCNN:Unifying Adaptive Global Reasoning into Large-scale Object Detection 官方实现
+
+- repo_url: https://github.com/milleniums/underwater-object-detection-mmdetection
+  paper_url: ""
+  type: Competition
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Underwater Object Detection
+  summary:
+    en: Underwater object detection for competition
+    zh: 水下目标检测比赛代码库
+
+- repo_url: https://github.com/HikariTJU/LD
+  paper_url: https://arxiv.org/pdf/2102.12252.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Localization Distillation
+  summary:
+    en: Official implementation of "Localization Distillation for Dense Object Detection"
+    zh: Localization Distillation for Dense Object Detection 官方实现
+
+- repo_url: https://github.com/Gus-Guo/AugFPN
+  paper_url: https://arxiv.org/pdf/1912.05384.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "AugFPN:Improving Multi-scale Feature Learning for Object Detection"
+    zh: AugFPN:Improving Multi-scale Feature Learning for Object Detection 官方实现
