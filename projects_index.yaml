@@ -549,3 +549,89 @@
   summary:
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
     zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
+
+- repo_url: https://github.com/zezeze97/image2latex
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMOCR
+  tags:
+    - Latex
+    - Document Image
+  summary:
+    en: Converting images to latex code
+    zh: 文档图像转 latex 代码
+
+- repo_url: https://github.com/ASentry/MS-ROCANet
+  paper_url: https://ieeexplore.ieee.org/document/9746345
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Scene Text Detection
+    - Channel Attention
+  summary:
+    en: Official implementation of MS-ROCANET Multi-Scale Residual Orthogonal-Channel Attention Network For Scene Text Detection
+    zh: MS-ROCANET Multi-Scale Residual Orthogonal-Channel Attention Network For Scene Text Detection 官方实现
+
+- repo_url: https://github.com/xdxie/WordArt
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+    - MMDetection
+    - MMCV
+  tags:
+    - Scene Text Recognition
+    - Transformer
+  summary:
+    en: Official implementation of Toward Understanding WordArtCorner-Guided Transformer for Scene Text Recognition
+    zh: Toward Understanding WordArt:Corner-Guided Transformer for Scene Text Recognition 官方实现
+
+- repo_url: https://github.com/ananzeng/T-Brain-Machine-Learning-Competition-Traditional-Chinese-Scene-Character-Recognition-Contest-Advance
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Scene Text Detection
+    - Traditional Chinese
+  summary:
+    en: Traditional Chinese recognition competion solution
+    zh: 繁体中文文本识别挑战赛参赛代码
+
+- repo_url: https://github.com/playif1/TBrain-OCR-2021
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Scene Text Detection
+    - Scene Text Recognition
+  summary:
+    en: Traditional Chinese recognition competion solution
+    zh: TBrain AI 中钢人工智能挑战赛，繁体中文识别参赛代码
+
+- repo_url: https://github.com/ElectronicBabylonianLiterature/cuneiform-sign-detection
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+    - Cuneiform Sign
+  summary:
+    en: Cuneiform Sign Detection
+    zh: 楔形文字检测
+
+- repo_url: https://github.com/khangnguyenhuu/vietnamese_kie_system
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMOCR
+  tags:
+    - Key Information Extraction
+    - Vietnamese
+  summary:
+    en: Key information extraction for Vietnamese documents
+    zh: 越南语文档关键信息提取
