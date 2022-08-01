@@ -583,8 +583,7 @@
     - Backbone
     - Classification
     - Detection
-    - Instance Segmentation
-    - Semantic Segmentation
+    - Segmentation
   summary:
     en: Official implementation of "MetaFormer is Actually What You Need for Vision"
     zh: MetaFormer is Actually What You Need for Vision官方实现
