@@ -351,3 +351,100 @@
   summary:
     en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
     zh: ZeroQ:A Novel Zero Shot Quantization Framework官方实现
+
+- repo_url: https://github.com/facebookresearch/ConvNeXt
+  paper_url: https://arxiv.org/pdf/2201.03545.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official PyTorch implementation of ConvNeXt,
+    zh: ConvNeXt 官方pytorch版本实现
+
+- repo_url: https://github.com/determined-ai/determined
+  paper_url: ''
+  type: Service
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - platform
+  summary:
+    en: Deep Learning Training Platform
+    zh: 深度学习训练平台
+
+- repo_url: https://github.com/WXinlong/SOLO
+  paper_url: https://arxiv.org/pdf/1912.04488.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - Segmentation
+  summary:
+    en: Official implementing of SOLO & SOLOv2
+    zh: SOLO:Segmenting Objects by Locations 和 SOLOv2:Dynamic and Fast Instance Segmentation官方实现
+
+- repo_url: https://github.com/d-li14/involution
+  paper_url: https://arxiv.org/pdf/2103.06255.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of a neural operator as described in Involution:Inverting the Inherence of Convolution for Visual Recognition
+    zh: Involution:Inverting the Inherence of Convolution for Visual Recognition官方实现
+
+- repo_url: https://github.com/xvjiarui/GCNet
+  paper_url: https://arxiv.org/pdf/1904.11492.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "GCNet:Non-local Networks Meet Squeeze-Excitation Networks and Beyond"
+    zh: GCNet:Non-local Networks Meet Squeeze-Excitation Networks and Beyond官方实现
+
+- repo_url: https://github.com/whai362/PVT
+  paper_url: https://arxiv.org/pdf/2106.13797.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Detection
+    - Classification
+    - Semantic Segmentation
+    - Vision Transformer
+  summary:
+    en: Official implementation of PVTv1 & PVTv2
+    zh: PVTv1 & PVTv2 官方实现
+
+- repo_url: https://github.com/joe-siyuan-qiao/DetectoRS
+  paper_url: https://arxiv.org/pdf/2006.02334.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of DetectoRS
+    zh: DetectoRS官方实现
+
+- repo_url: https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
+  paper_url: https://arxiv.org/pdf/2103.14030.pdf
+  type: Community Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Swin Transformer
+  summary:
+    en: Reproduction for object detection results of Swin Transformer based on mmdetection
+    zh: 基于mmdetection的Swin transformer在检测任务上的复现
