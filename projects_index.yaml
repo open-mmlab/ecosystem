@@ -549,3 +549,237 @@
   summary:
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
     zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
+
+
+- repo_url: https://github.com/facebookresearch/ConvNeXt
+  paper_url: https://arxiv.org/abs/2201.03545
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - CVPR
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation of ConvNeXt
+    zh: 基于 PyTorch 的 ConvNeXt 官方实现
+
+- repo_url: https://github.com/microsoft/unilm/tree/master/beit
+  paper_url: https://arxiv.org/abs/2106.08254
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - ICLR
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation and pretrained models of BEiT
+    zh: 基于PyTorch的 BEiT 官方实现和预训练模型
+
+- repo_url: https://github.com/ZwwWayne/K-Net
+  paper_url: https://arxiv.org/pdf/2106.14855.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Detection
+    - Segmentation
+    - Instance Segmentation
+    - Panoptic Segmentation
+    - Semantic Segmentatioin
+  summary:
+    en: Official implementation of "K-Net:Towards Unified Image Segmentation"
+    zh: K-Net:Towards Unified Image Segmentation 官方实现
+
+- repo_url: https://github.com/rstrudel/segmenter
+  paper_url: https://arxiv.org/abs/2105.05633
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - ICCV
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation of "Transformer for Semantic Segmentation"
+    zh: 基于 PyTorch 的 Transformer for Semantic Segmentation 官方实现
+
+- repo_url: https://github.com/NVlabs/SegFormer
+  paper_url: https://arxiv.org/abs/2105.15203
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - NeurIPS
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation of SegFormer
+    zh: 基于 PyTorch 的 SegFormer 官方实现
+
+- repo_url: https://github.com/sail-sg/poolformer
+  paper_url: https://arxiv.org/abs/2111.11418
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - CVPR
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official implementation of "PoolFormer:MetaFormer Is Actually What You Need for Vision"
+    zh: PoolFormer:MetaFormer Is Actually What You Need for Vision 官方实现
+
+- repo_url: https://github.com/lhoyer/DAFormer
+  paper_url: https://arxiv.org/abs/2111.14887
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - CVPR22
+    - Semantic Segmentation
+    - Unsupervised Domain Adaptation
+  summary:
+    en: Official Implementation of "DAFormer:Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation"
+    zh: DAFormer:Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation 官方实现
+
+
+- repo_url: https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation
+  paper_url: https://arxiv.org/abs/2103.14030
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - ICCV
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official implementation for "Swin Transformer:Hierarchical Vision Transformer using Shifted Windows" on Semantic Segmentation
+    zh: Swin Transformer:Hierarchical Vision Transformer using Shifted Windows 在语义分割任务上的官方实现
+
+
+- repo_url: https://github.com/Meituan-AutoML/Twins
+  paper_url: https://arxiv.org/abs/2104.13840
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - NeurIPS
+    - Vision Transformer
+  summary:
+    en: Official PyTorch implementation of "Twins:Revisiting the Design of Spatial Attention in Vision Transformers"
+    zh: 基于 PyTorch 的 Twins:Revisiting the Design of Spatial Attention in Vision Transformers 官方实现
+
+- repo_url: https://github.com/SHI-Labs/Convolutional-MLPs
+  paper_url: https://arxiv.org/abs/2109.04454
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - Semantic Segmentation
+  summary:
+    en: Official implementation of "ConvMLP:Hierarchical Convolutional MLPs for Vision"
+    zh: ConvMLP:Hierarchical Convolutional MLPs for Vision 官方实现
+
+
+- repo_url: https://github.com/Visual-Attention-Network/VAN-Segmentation
+  paper_url: https://arxiv.org/abs/2202.09741
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation of Visual Attention Network (VAN) for Segmentaion
+    zh: 基于 PyTorch 的 Visual Attention Network (VAN) for Segmentaion 官方实现
+
+- repo_url: https://github.com/bytedance/ibot
+  paper_url: https://arxiv.org/abs/2111.07832
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - ICLR
+  summary:
+    en: Official PyTorch implementation and pre-trained models for "iBOT:Image BERT Pre-Training with Online Tokenizer"
+    zh: 基于 PyTorch 的 iBOT:Image BERT Pre-Training with Online Tokenizer 官方实现
+
+- repo_url: https://github.com/cheerss/CrossFormer
+  paper_url: https://arxiv.org/abs/2108.00154
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - ICLR
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation of CrossFormer
+    zh: 基于 PyTorch 的 CrossFormer 官方实现
+
+- repo_url: https://github.com/svip-lab/AS-MLP
+  paper_url: https://arxiv.org/abs/2107.08391
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - ICLR
+    - MLP
+    - Semantic Segmentation
+  summary:
+    en: Official implementation of "AS-MLP:An Axial Shifted MLP Architecture for Vision"
+    zh: AS-MLP:An Axial Shifted MLP Architecture for Vision 官方实现
+
+
+- repo_url: https://github.com/facebookresearch/xcit
+  paper_url: https://arxiv.org/abs/2106.09681
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official implementation of Cross-Covariance Image Transformer
+    zh: Cross-Covariance Image Transformer 官方实现
+
+
+- repo_url: https://github.com/microsoft/CSWin-Transformer
+  paper_url: https://arxiv.org/abs/2107.00652
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - CVPR
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official implementation of "CSWin Transformer:A General Vision Transformer Backbone with Cross-Shaped"
+    zh: CSWin Transformer:A General Vision Transformer Backbone with Cross-Shaped 官方实现
+
+- repo_url: https://github.com/DingXiaoH/RepLKNet-pytorch
+  paper_url: https://arxiv.org/abs/2203.06717
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - CVPR
+    - Semantic Segmentation
+  summary:
+    en: Official PyTorch implementation of RepLKNet
+    zh: 基于 PyTorch 的 RepLKNet 官方实现
+
+- repo_url: https://github.com/rulixiang/afa
+  paper_url: https://arxiv.org/abs/2203.02664
+  type: Official Implementation
+  mmrepos:
+    - MMSegmentation
+  tags:
+    - CVPR
+    - Vision Transformer
+    - Semantic Segmentation
+  summary:
+    en: Official implementation of "Learning Affinity from Attention:End-to-End Weakly-Supervised Semantic Segmentation with Transformers"
+    zh: Learning Affinity from Attention:End-to-End Weakly-Supervised Semantic Segmentation with Transformers 官方实现
