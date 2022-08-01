@@ -549,3 +549,93 @@
   summary:
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
     zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
+
+- repo_url: https://github.com/whai362/PVT
+  paper_url: https://arxiv.org/abs/2106.13797
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Backbone
+    - Classification
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "PVT v2:Improved Baselines with Pyramid Vision Transformer"
+    zh: PVT v2:Improved Baselines with Pyramid Vision Transformer官方实现
+
+- repo_url: https://github.com/facebookresearch/ConvNeXt
+  paper_url: https://arxiv.org/abs/2201.03545
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+    - MMDetection
+  tags:
+    - Backbone
+  summary:
+    en: Official implementation of "A ConvNet for the 2020s"
+    zh: A ConvNet for the 2020s官方实现
+
+- repo_url: https://github.com/THU-DA-6D-Pose-Group/GDR-Net
+  paper_url: https://arxiv.org/abs/2102.12145
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Monocular 6D Object Pose Estimation
+  summary:
+    en: Official implementation of "GDR-Net:Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation"
+    zh: GDR-Net:Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation官方实现
+
+- repo_url: https://github.com/alibaba/EasyCV
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMCV
+  tags:
+    - Self-supervised Learning
+    - Classification
+    - Detection
+  summary:
+    en: Focus on self-supervised learning, transformer based models, and SOTA CV tasks
+    zh: 聚焦自监督学习和视觉transformer关键技术并覆盖主流的视觉建模任务
+
+- repo_url: https://github.com/MCG-NKU/E2FGVI
+  paper_url: https://arxiv.org/abs/2204.02663
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Video Inpainting
+  summary:
+    en: Official implementation of "Towards An End-to-End Framework for Flow-Guided Video Inpainting"
+    zh: Towards An End-to-End Framework for Flow-Guided Video Inpainting官方实现
+
+- repo_url: https://github.com/rayguan97/GANav-offroad
+  paper_url: https://arxiv.org/abs/2103.04233
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Segmentation
+    - Robot Navigation
+  summary:
+    en: Official implementation of "GANav:Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments"
+    zh: GANav:Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments官方实现
+
+- repo_url: https://github.com/dingmyu/HR-NAS
+  paper_url: https://arxiv.org/abs/2106.06560
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Backbone
+    - Classification
+    - Segmentation
+    - Human Pose Estimation
+    - 3D Detection
+  summary:
+    en: Official implementation of "HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers"
+    zh: HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers官方实现
