@@ -410,7 +410,7 @@
     - Video Restoration
   summary:
     en: A Heroku-powered web application that supports phishing detection of malicious websites.
-    zh: 一个支持phishing detection的web应用
+    zh: 一个支持 phishing detection 的 web 应用
 
 - repo_url: https://github.com/XL-H/mmsegmentation_multi_label
   paper_url: ''
@@ -906,17 +906,6 @@
     en: Course project of Team Medic(CV-16)
     zh: Team Medic(CV-16)的课程项目
 
-- repo_url: https://github.com/chagmgang/selfsup_openrep
-  paper_url: ''
-  type: Library
-  mmrepos:
-    - MMClassification
-  tags:
-    - Remote Sensing
-    - Self-supervised Learning
-  summary:
-    en: Self supervised learning methods in remote sensing field
-    zh: 遥感领域的自监督算法
 
 - repo_url: https://github.com/kuokai0429/STAS_Image_Segmentation
   paper_url: ''
