@@ -550,6 +550,55 @@
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
     zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
 
+- repo_url: https://github.com/HRNet/Lite-HRNet
+  paper_url: https://arxiv.org/abs/2104.06403
+  type: Official Implementation
+  mmrepos:
+    - MMPose
+  tags:
+    - CVPR
+    - Human Pose Estimation
+  summary:
+    en: Official implementation of "Lite-HRNet:A Lightweight High-Resolution Network" (CVPR 2021)
+    zh: Lite-HRNet:A Lightweight High-Resolution Network (CVPR 2021) 官方实现
+
+- repo_url: https://github.com/ZiyiZhang27/Dite-HRNet
+  paper_url: https://arxiv.org/abs/2204.10762
+  type: Official Implementation
+  mmrepos:
+    - MMPose
+  tags:
+    - IJCAI
+    - Human Pose Estimation
+  summary:
+    en: Official implementation of "Dite-HRNet:Dynamic Lightweight High-Resolution Network for Human Pose Estimation" (IJCAI-ECAI 2021)
+    zh: Dite-HRNet:Dynamic Lightweight High-Resolution Network for Human Pose Estimation (IJCAI-ECAI 2021) 官方实现
+
+- repo_url: https://github.com/aim-uofa/Poseur
+  paper_url: https://arxiv.org/abs/2201.07412
+  type: Official Implementation
+  mmrepos:
+    - MMPose
+  tags:
+    - ECCV
+    - Human Pose Estimation
+  summary:
+    en: Official implementation of "Poseur:Direct Human Pose Regression with Transformers" (ECCV 2022)
+    zh: Poseur:Direct Human Pose Regression with Transformers (ECCV 2022) 官方实现
+
+- repo_url: https://github.com/hysts/anime-face-detector
+  paper_url: ""
+  type: Library
+  mmrepos:
+    - MMPose
+    - MMDetection
+  tags:
+    - Anime
+    - Face Landmark Detection
+  summary:
+    en: An anime face landmark detector using mmdetection and mmpose
+    zh: 基于 mmdetection 和 mmpose 的动漫人脸关键点检测器
+
 - repo_url: https://github.com/ckkelvinchan/RealBasicVSR
   paper_url: https://arxiv.org/abs/2111.12704
   type: Official Implementation
