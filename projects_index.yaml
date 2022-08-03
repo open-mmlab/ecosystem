@@ -1143,3 +1143,38 @@
   summary:
     en: A solutions for traditional chinese scene text recognition competition
     zh: 繁体中文场景文字辨识竞赛的某个解决方案
+
+- repo_url: https://github.com/csuhan/ReDet
+  paper_url: https://openaccess.thecvf.com/content/CVPR2021/papers/Han_ReDet_A_Rotation-Equivariant_Detector_for_Aerial_Object_Detection_CVPR_2021_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Backbone
+    - Detection
+    - Rotated Object Detection
+  summary:
+    en: Official implementation of "ReDet: A Rotation-equivariant Detector for Aerial Object Detection"
+    zn: Official implementation of "ReDet: A Rotation-equivariant Detector for Aerial Object Detection"
+
+- repo_url: https://github.com/MendelXu/MixTraining
+  paper_url: https://proceedings.neurips.cc/paper/2021/file/5e15fb59326e7a9c3d6558ca74621683-Paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Bootstrap Your Object Detector via Mixed Training"
+    zn: Official implementation of "Bootstrap Your Object Detector via Mixed Training"
+
+- repo_url: https://github.com/Duankaiwen/PyCenterNet
+  paper_url: https://arxiv.org/pdf/2204.08394.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "CenterNet++ for Object Detection"
+    zn: Official implementation of "CenterNet++ for Object Detection"
