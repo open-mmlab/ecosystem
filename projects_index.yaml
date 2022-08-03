@@ -693,3 +693,161 @@
   summary:
     en: Colorizing Black&White Japanese Manga using Generative Adversarial Network
     zh: 基于GAN的黑白动漫上色
+
+- repo_url: https://github.com/whai362/PVT
+  paper_url: https://arxiv.org/abs/2106.13797
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+    - MMDetection
+    - MMSegmentation
+  tags:
+    - Backbone
+    - Classification
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "PVT v2:Improved Baselines with Pyramid Vision Transformer"
+    zh: PVT v2:Improved Baselines with Pyramid Vision Transformer官方实现
+
+- repo_url: https://github.com/facebookresearch/ConvNeXt
+  paper_url: https://arxiv.org/abs/2201.03545
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+    - MMDetection
+  tags:
+    - Backbone
+  summary:
+    en: Official implementation of "A ConvNet for the 2020s"
+    zh: A ConvNet for the 2020s官方实现
+
+- repo_url: https://github.com/THU-DA-6D-Pose-Group/GDR-Net
+  paper_url: https://arxiv.org/abs/2102.12145
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Monocular 6D Object Pose Estimation
+  summary:
+    en: Official implementation of "GDR-Net:Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation"
+    zh: GDR-Net:Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation官方实现
+
+- repo_url: https://github.com/alibaba/EasyCV
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMCV
+  tags:
+    - Self-supervised Learning
+    - Classification
+    - Detection
+  summary:
+    en: Focus on self-supervised learning, transformer based models, and SOTA CV tasks
+    zh: 聚焦自监督学习和视觉transformer关键技术并覆盖主流的视觉建模任务
+
+- repo_url: https://github.com/MCG-NKU/E2FGVI
+  paper_url: https://arxiv.org/abs/2204.02663
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Video Inpainting
+  summary:
+    en: Official implementation of "Towards An End-to-End Framework for Flow-Guided Video Inpainting"
+    zh: Towards An End-to-End Framework for Flow-Guided Video Inpainting官方实现
+
+- repo_url: https://github.com/rayguan97/GANav-offroad
+  paper_url: https://arxiv.org/abs/2103.04233
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Segmentation
+    - Robot Navigation
+  summary:
+    en: Official implementation of "GANav:Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments"
+    zh: GANav:Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments官方实现
+
+- repo_url: https://github.com/dingmyu/HR-NAS
+  paper_url: https://arxiv.org/abs/2106.06560
+  type: Official Implementation
+  mmrepos:
+    - MMCV
+  tags:
+    - Backbone
+    - Classification
+    - Segmentation
+    - Human Pose Estimation
+    - 3D Detection
+  summary:
+    en: Official implementation of "HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers"
+    zh: HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers官方实现
+
+- repo_url: https://github.com/GaoXinJian-USTC/DBCAN#
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Recognition
+  summary:
+    en: Official PyTorch implementation of "DBCAN:Dual-Branch Cross-Attention Newtwork for Scene Text Recognition"
+    zh: 基于PyTorch的 "DBCAN:Dual-Branch Cross-Attention Newtwork for Scene Text Recognition" 官方实现
+
+- repo_url: https://github.com/Wixiyo/Chinese_inscription_ocr
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Recognition
+  summary:
+    en: Inscription recognition based on MMOCR
+    zh: 基于 MMOCR 进行碑文识别
+
+- repo_url: https://github.com/hoho303/A-Method-For-HCM-Aicity-Challenge-2022
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+    - Text Recognition
+  summary:
+    en: A solution for the AICity 2022 competition
+    zh: AICity 2022 比赛的某个解决方案
+
+- repo_url: https://github.com/Ray-jhy/ProNet
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+  summary:
+    en: official implementation of "ProNet:Shape-robust Scene Text Detection via Compatible Text Proposals".
+    zh: 基于PyTorch的 "ProNet:Shape-robust Scene Text Detection via Compatible Text Proposals" 官方实现
+
+- repo_url: https://github.com/p890040/China-Steel-OCR_Competition
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+    - Text Recognition
+  summary:
+    en: 2th solution for China-Steel-OCR competition
+    zh: 中鋼人工智慧挑戰賽-字元辨識第二名
+
+- repo_url: https://github.com/glitter2626/AICUP_SceneTextDetection
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+  summary:
+    en: A solutions for traditional chinese scene text recognition competition
+    zh: 繁体中文场景文字辨识竞赛的某个解决方案
