@@ -369,6 +369,7 @@
   type: Library
   mmrepos:
     - MMClassification
+    - MMSegmentation
   tags:
     - Change Detection
     - Toolbox
