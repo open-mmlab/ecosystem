@@ -1178,3 +1178,26 @@
   summary:
     en: Official implementation of "CenterNet++ for Object Detection"
     zn: Official implementation of "CenterNet++ for Object Detection"
+
+- repo_url: https://github.com/fcjian/TOOD
+  paper_url: https://arxiv.org/pdf/2108.07755.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "TOOD: Task-aligned One-stage Object Detection"
+    zn: Official implementation of "TOOD: Task-aligned One-stage Object Detection"
+
+- repo_url: https://github.com/MCG-NJU/AdaMixer
+  paper_url: https://arxiv.org/pdf/2203.16507.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - DETR
+  summary:
+    en: Official implementation of "AdaMixer: A Fast-Converging Query-Based Object Detector"
+    zn: Official implementation of "AdaMixer: A Fast-Converging Query-Based Object Detector"
