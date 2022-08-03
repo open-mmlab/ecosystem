@@ -639,3 +639,71 @@
   summary:
     en: Official implementation of "HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers"
     zh: HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers官方实现
+
+- repo_url: https://github.com/GaoXinJian-USTC/DBCAN#
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Recognition
+  summary:
+    en: Official PyTorch implementation of "DBCAN:Dual-Branch Cross-Attention Newtwork for Scene Text Recognition"
+    zh: 基于PyTorch的 "DBCAN:Dual-Branch Cross-Attention Newtwork for Scene Text Recognition" 官方实现
+
+- repo_url: https://github.com/Wixiyo/Chinese_inscription_ocr
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Recognition
+  summary:
+    en: Inscription recognition based on MMOCR
+    zh: 基于 MMOCR 进行碑文识别
+
+- repo_url: https://github.com/hoho303/A-Method-For-HCM-Aicity-Challenge-2022
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+    - Text Recognition
+  summary:
+    en: A solution for the AICity 2022 competition
+    zh: AICity 2022 比赛的某个解决方案
+
+- repo_url: https://github.com/Ray-jhy/ProNet
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+  summary:
+    en: official implementation of "ProNet:Shape-robust Scene Text Detection via Compatible Text Proposals".
+    zh: 基于PyTorch的 "ProNet:Shape-robust Scene Text Detection via Compatible Text Proposals" 官方实现
+
+- repo_url: https://github.com/p890040/China-Steel-OCR_Competition
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+    - Text Recognition
+  summary:
+    en: 2th solution for China-Steel-OCR competition
+    zh: 中鋼人工智慧挑戰賽-字元辨識第二名
+
+- repo_url: https://github.com/glitter2626/AICUP_SceneTextDetection
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+  summary:
+    en: A solutions for traditional chinese scene text recognition competition
+    zh: 繁体中文场景文字辨识竞赛的某个解决方案
