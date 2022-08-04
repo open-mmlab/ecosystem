@@ -1076,7 +1076,7 @@
     en: Official implementation of "HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers"
     zh: HR-NAS:Searching Efficient High-Resolution Neural Architectures with Lightweight Transformers官方实现
 
-- repo_url: https://github.com/GaoXinJian-USTC/DBCAN#
+- repo_url: https://github.com/GaoXinJian-USTC/DBCAN
   paper_url: ''
   type: Official Implementation
   mmrepos:
