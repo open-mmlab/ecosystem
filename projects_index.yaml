@@ -1154,8 +1154,8 @@
     - Detection
     - Rotated Object Detection
   summary:
-    en: Official implementation of "ReDet: A Rotation-equivariant Detector for Aerial Object Detection"
-    zn: Official implementation of "ReDet: A Rotation-equivariant Detector for Aerial Object Detection"
+    en: Official implementation of "ReDet:A Rotation-equivariant Detector for Aerial Object Detection"
+    zh: "ReDet:A Rotation-equivariant Detector for Aerial Object Detection 官方实现"
 
 - repo_url: https://github.com/MendelXu/MixTraining
   paper_url: https://proceedings.neurips.cc/paper/2021/file/5e15fb59326e7a9c3d6558ca74621683-Paper.pdf
@@ -1166,7 +1166,7 @@
     - Detection
   summary:
     en: Official implementation of "Bootstrap Your Object Detector via Mixed Training"
-    zn: Official implementation of "Bootstrap Your Object Detector via Mixed Training"
+    zh: "Bootstrap Your Object Detector via Mixed Training 官方实现"
 
 - repo_url: https://github.com/Duankaiwen/PyCenterNet
   paper_url: https://arxiv.org/pdf/2204.08394.pdf
@@ -1177,7 +1177,7 @@
     - Detection
   summary:
     en: Official implementation of "CenterNet++ for Object Detection"
-    zn: Official implementation of "CenterNet++ for Object Detection"
+    zh: "CenterNet++ for Object Detection 官方实现"
 
 - repo_url: https://github.com/fcjian/TOOD
   paper_url: https://arxiv.org/pdf/2108.07755.pdf
@@ -1187,8 +1187,8 @@
   tags:
     - Detection
   summary:
-    en: Official implementation of "TOOD: Task-aligned One-stage Object Detection"
-    zn: Official implementation of "TOOD: Task-aligned One-stage Object Detection"
+    en: Official implementation of "TOOD:Task-aligned One-stage Object Detection"
+    zh: "TOOD:Task-aligned One-stage Object Detection 官方实现"
 
 - repo_url: https://github.com/MCG-NJU/AdaMixer
   paper_url: https://arxiv.org/pdf/2203.16507.pdf
@@ -1199,5 +1199,5 @@
     - Detection
     - DETR
   summary:
-    en: Official implementation of "AdaMixer: A Fast-Converging Query-Based Object Detector"
-    zn: Official implementation of "AdaMixer: A Fast-Converging Query-Based Object Detector"
+    en: Official implementation of "AdaMixer:A Fast-Converging Query-Based Object Detector"
+    zh: "AdaMixer:A Fast-Converging Query-Based Object Detector 官方实现"
