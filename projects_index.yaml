@@ -10,7 +10,7 @@
     - Vision Transformer
   summary:
     en: Official PyTorch implementation of Fully Attentional Networks
-    zh: 基于PyTorch的Fully Attentional Networks官方实现
+    zh: 基于PyTorch的Fully Attentional Networks 官方实现
 
 # Example-2
 - repo_url: https://github.com/Ascend/ModelZoo-PyTorch
@@ -37,7 +37,7 @@
     - SkipResNets
   summary:
     en: An implementation of SkipResNets for performance evaluation
-    zh: SkipResNets的实现
+    zh: SkipResNets 的实现
 
 # Example-4
 - repo_url: https://github.com/7eu7d7/genshin_voice_play
@@ -66,7 +66,7 @@
     - Detection
   summary:
     en: Official implementation of paper "Masked Distillation with Receptive Tokens"
-    zh: Masked Distillation with Receptive Tokens官方实现
+    zh: Masked Distillation with Receptive Tokens 官方实现
 
 # Example-6
 - repo_url: https://github.com/dineshreddy91/WALT
@@ -78,7 +78,7 @@
     - Amodal
   summary:
     en: Official implementation of "WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery"
-    zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery官方实现
+    zh: WALT:Watch and Learn 2D Amodal Representation using time-lapse imagery 官方实现
 
 - repo_url: https://github.com/facebookresearch/xcit
   paper_url: https://arxiv.org/pdf/2106.09681
@@ -184,7 +184,7 @@
     - Amodal
   summary:
     en: Official implementation of "DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries" and "Object DGCNN:3D Object Detection using Dynamic Graphs"
-    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries和Object DGCNN:3D Object Detection using Dynamic Graphs官方实现
+    zh: DETR3D:3D Object Detection from Multi-view Images via 3D-to-2D Queries和Object DGCNN:3D Object Detection using Dynamic Graphs 官方实现
 
 - repo_url: https://github.com/TuSimple/SST
   paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Embracing_Single_Stride_3D_Object_Detector_With_Sparse_Transformer_CVPR_2022_paper.pdf
@@ -195,7 +195,7 @@
     - Amodal
   summary:
     en: Official implementation of "Embracing Single Stride 3D Object Detector with Sparse Transformer"
-    zh: Embracing Single Stride 3D Object Detector with Sparse Transformer官方实现
+    zh: Embracing Single Stride 3D Object Detector with Sparse Transformer 官方实现
 
 - repo_url: https://github.com/tusimple/LiDAR_RCNN
   paper_url: https://arxiv.org/pdf/2103.15297.pdf
@@ -206,7 +206,7 @@
     - Amodal
   summary:
     en: Official implementation of "LiDAR R-CNN:An Efficient and Universal 3D Object Detector"
-    zh: LiDAR R-CNN:An Efficient and Universal 3D Object Detector官方实现
+    zh: LiDAR R-CNN:An Efficient and Universal 3D Object Detector 官方实现
 
 - repo_url: https://github.com/saic-vul/imvoxelnet
   paper_url: https://arxiv.org/pdf/2106.01178.pdf
@@ -217,7 +217,7 @@
     - Amodal
   summary:
     en: Official implementation of "ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection"
-    zh: ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection官方实现
+    zh: ImVoxelNet:Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection 官方实现
 
 - repo_url: https://github.com/samsunglabs/fcaf3d
   paper_url: https://arxiv.org/pdf/2112.00322.pdf
@@ -228,7 +228,7 @@
     - Amodal
   summary:
     en: Official implementation of "FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection"
-    zh: FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection官方实现
+    zh: FCAF3D:Fully Convolutional Anchor-Free 3D Object Detection 官方实现
 
 - repo_url: https://github.com/Vladimir2506/Pointformer
   paper_url: https://arxiv.org/pdf/2012.11409.pdf
@@ -239,7 +239,7 @@
     - Amodal
   summary:
     en: Official implementation of "3D Object Detection with Pointformer"
-    zh: 3D Object Detection with Pointformer官方实现
+    zh: 3D Object Detection with Pointformer 官方实现
 
 - repo_url: https://github.com/XuyangBai/TransFusion/
   paper_url: https://arxiv.org/pdf/2203.11496.pdf
@@ -250,7 +250,7 @@
     - Amodal
   summary:
     en: Official implementation of "TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers"
-    zh: TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers官方实现
+    zh: TransFusion:Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers 官方实现
 
 - repo_url: https://github.com/mcahny/vps
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Kim_Video_Panoptic_Segmentation_CVPR_2020_paper.pdf
@@ -261,7 +261,7 @@
     - Video Panoptic Segmentation
   summary:
     en: Official implementation of "Video Panoptic Segmentation"
-    zh: Video Panoptic Segmentation官方实现
+    zh: Video Panoptic Segmentation 官方实现
 
 - repo_url: https://github.com/KimSoybean/ScratchDet
   paper_url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_ScratchDet_Training_Single-Shot_Object_Detectors_From_Scratch_CVPR_2019_paper.pdf
@@ -272,7 +272,7 @@
     - Detection
   summary:
     en: Official implementation of "ScratchDet:Training Single-Shot Object Detectors from Scratch"
-    zh: ScratchDet:Training Single-Shot Object Detectors from Scratch官方实现
+    zh: ScratchDet:Training Single-Shot Object Detectors from Scratch 官方实现
 
 - repo_url: https://github.com/KiveeDong/CentripetalNet
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_CentripetalNet_Pursuing_High-Quality_Keypoint_Pairs_for_Object_Detection_CVPR_2020_paper.pdf
@@ -284,7 +284,7 @@
     - Instance Segmentation
   summary:
     en: Official implementation of "CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection"
-    zh: CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection官方实现
+    zh: CentripetalNet:Pursuing High-quality Keypoint Pairs for Object Detection 官方实现
 
 - repo_url: https://github.com/yuantn/MI-AOD
   paper_url: https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.pdf
@@ -296,7 +296,7 @@
     - Active Learning
   summary:
     en: Official implementation of "Multiple Instance Active Learning for Object Detection"
-    zh: Multiple Instance Active Learning for Object Detection官方实现
+    zh: Multiple Instance Active Learning for Object Detection 官方实现
 
 - repo_url: https://github.com/cheerss/CrossFormer
   paper_url: https://openreview.net/pdf?id=_PHymLIxuI
@@ -311,7 +311,7 @@
     - Segmentation
   summary:
     en: Official implementation of "CrossFormer:A Versatile Vision Transformer Based on Cross-scale Attention"
-    zh: CrossFormer:A Versatile Vision Transformer Based on Cross-scale Attention官方实现
+    zh: CrossFormer:A Versatile Vision Transformer Based on Cross-scale Attention 官方实现
 
 - repo_url: https://github.com/ShoufaChen/CycleMLP
   paper_url: https://openreview.net/pdf?id=NMEceG4v69Y
@@ -326,7 +326,7 @@
     - Segmentation
   summary:
     en: Official implementation of "CycleMLP:A MLP-like Architecture for Dense Prediction"
-    zh: CycleMLP:A MLP-like Architecture for Dense Prediction官方实现
+    zh: CycleMLP:A MLP-like Architecture for Dense Prediction 官方实现
 
 - repo_url: https://github.com/microsoft/RelationNet2
   paper_url: https://proceedings.neurips.cc//paper/2020/file/9d684c589d67031a627ad33d59db65e5-Paper.pdf
@@ -338,7 +338,7 @@
     - Detection
   summary:
     en: Official implementation of "RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder"
-    zh: RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder官方实现
+    zh: RelationNet++:Bridging Visual Representations for Object Detection via Transformer Decoder 官方实现
 
 - repo_url: https://github.com/amirgholami/ZeroQ
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Cai_ZeroQ_A_Novel_Zero_Shot_Quantization_Framework_CVPR_2020_paper.pdf
@@ -350,7 +350,7 @@
     - Detection
   summary:
     en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
-    zh: ZeroQ:A Novel Zero Shot Quantization Framework官方实现
+    zh: ZeroQ:A Novel Zero Shot Quantization Framework 官方实现
 
 - repo_url: https://github.com/Gavince/MTL
   paper_url: ''
@@ -451,7 +451,7 @@
     - Quantization
   summary:
     en: Quantization tool based on MMDetection and MMClassification
-    zh: 基于MMDetection与MMClassification的模型量化工具
+    zh: 基于 MMDetection 与 MMClassification 的模型量化工具
 
 - repo_url: https://github.com/zezeze97/kaggle_segmentation
   paper_url: ''
@@ -463,7 +463,7 @@
     - Kaggle
   summary:
     en: Code for UW-Madison GI Tract Image Segmentation
-    zh: 该仓库用于UW-Madison GI Tract Image Segmentation比赛
+    zh: 该仓库用于 UW-Madison GI Tract Image Segmentation 比赛
 
 - repo_url: https://github.com/Enderfga/Enderfga
   paper_url: ''
@@ -475,7 +475,7 @@
     - Homepage
   summary:
     en: Homepage of Enderfga
-    zh: Enderfga的个人主页
+    zh: Enderfga 的个人主页
 
 - repo_url: https://github.com/hwddean/trt_segformer
   paper_url: ''
@@ -488,7 +488,7 @@
     - TensorRT
   summary:
     en: SegFormer with TensorRT
-    zh: 使用TensorRT部署SegFormer
+    zh: 使用 TensorRT 部署 SegFormer
 
 - repo_url: https://github.com/UAws/CV-3315-Is-All-You-Need
   paper_url: https://arxiv.org/abs/2206.12571
@@ -514,7 +514,7 @@
     - Segmentation
   summary:
     en: Official implementation of "Focal Self-attention for Local-Global Interactions in Vision Transformers"
-    zh: Focal Self-attention for Local-Global Interactions in Vision Transformers官方实现
+    zh: Focal Self-attention for Local-Global Interactions in Vision Transformers 官方实现
 
 - repo_url: https://github.com/Meituan-AutoML/Twins
   paper_url: https://arxiv.org/pdf/2104.13840.pdf
@@ -528,7 +528,7 @@
     - Segmentation
   summary:
     en: Official implementation of "Twins:Revisiting the Design of Spatial Attention in Vision Transformers"
-    zh: Twins:Revisiting the Design of Spatial Attention in Vision Transformers官方实现
+    zh: Twins:Revisiting the Design of Spatial Attention in Vision Transformers 官方实现
 
 - repo_url: https://github.com/ZwwWayne/K-Net
   paper_url: https://arxiv.org/pdf/2106.14855.pdf
@@ -542,7 +542,7 @@
     - Panoptic Segmentation
   summary:
     en: Official implementation of "K-Net:Towards Unified Image Segmentation"
-    zh: K-Net:Towards Unified Image Segmentation官方实现
+    zh: K-Net:Towards Unified Image Segmentation 官方实现
 
 - repo_url: https://github.com/hustvl/QueryInst
   paper_url: https://openaccess.thecvf.com/content/ICCV2021/papers/Fang_Instances_As_Queries_ICCV_2021_paper.pdf
@@ -554,7 +554,7 @@
     - Instance Segmentation
   summary:
     en: Official implementation of "Instances as Queries"
-    zh: Instances as Queries官方实现
+    zh: Instances as Queries 官方实现
 
 - repo_url: https://github.com/FishYuLi/BalancedGroupSoftmax
   paper_url: http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Overcoming_Classifier_Imbalance_for_Long-Tail_Object_Detection_With_Balanced_Group_CVPR_2020_paper.pdf
@@ -566,7 +566,7 @@
     - Long-Tailed
   summary:
     en: Official implementation of "Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax"
-    zh: Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax官方实现
+    zh: Overcoming Classifier Imbalance for Long-tail Object Detection with Balanced Group Softmax 官方实现
 
 - repo_url: https://github.com/jshilong/SEPC
   paper_url: https://arxiv.org/pdf/2005.03101.pdf
@@ -577,7 +577,7 @@
     - Detection
   summary:
     en: Official implementation of "Scale-equalizing Pyramid Convolution for Object Detection"
-    zh: Scale-equalizing Pyramid Convolution for Object Detection官方实现
+    zh: Scale-equalizing Pyramid Convolution for Object Detection 官方实现
 
 - repo_url: https://github.com/shinya7y/UniverseNet
   paper_url: https://arxiv.org/pdf/2103.14027
@@ -603,7 +603,7 @@
     - Segmentation
   summary:
     en: Official implementation of "iBOT:Image BERT Pre-Training with Online Tokenizer"
-    zh: iBOT:Image BERT Pre-Training with Online Tokenizer官方实现
+    zh: iBOT:Image BERT Pre-Training with Online Tokenizer 官方实现
 
 - repo_url: https://github.com/wangsr126/RDSNet
   paper_url: https://arxiv.org/pdf/1912.05070.pdf
@@ -615,7 +615,7 @@
     - Instance Segmentation
   summary:
     en: Official implementation of "RDSNet:A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation"
-    zh: RDSNet:A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation官方实现
+    zh: RDSNet:A New Deep Architecture for Reciprocal Object Detection and Instance Segmentation 官方实现
 
 - repo_url: https://github.com/csuhan/s2anet
   paper_url: https://arxiv.org/pdf/2008.09397.pdf
@@ -627,7 +627,7 @@
     - Rotated Object Detection
   summary:
     en: Official implementation of "Align Deep Features for Oriented Object Detection"
-    zh: Align Deep Features for Oriented Object Detection官方实现
+    zh: Align Deep Features for Oriented Object Detection 官方实现
 
 - repo_url: https://github.com/Scalsol/RepPointsV2
   paper_url: https://arxiv.org/pdf/2007.08508.pdf
@@ -638,7 +638,7 @@
     - Detection
   summary:
     en: Official implementation of "RepPoints V2:Verification Meets Regression for Object Detection"
-    zh: RepPoints V2:Verification Meets Regression for Object Detection官方实现
+    zh: RepPoints V2:Verification Meets Regression for Object Detection 官方实现
 
 - repo_url: https://github.com/JialeCao001/D2Det
   paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf
@@ -650,7 +650,7 @@
     - Instance Segmentation
   summary:
     en: Official implementation of "D2Det:Towards High Quality Object Detection and Instance Segmentation"
-    zh: D2Det:Towards High Quality Object Detection and Instance Segmentation官方实现
+    zh: D2Det:Towards High Quality Object Detection and Instance Segmentation 官方实现
 
 - repo_url: https://github.com/jbwang1997/OBBDetection
   paper_url: ''
@@ -673,7 +673,7 @@
     - Detection
   summary:
     en: Official implementation of "VarifocalNet:An IoU-aware Dense Object Detector"
-    zh: VarifocalNet:An IoU-aware Dense Object Detector官方实现
+    zh: VarifocalNet:An IoU-aware Dense Object Detector 官方实现
 
 - repo_url: https://github.com/pengzhiliang/Conformer
   paper_url: https://arxiv.org/pdf/2105.03889.pdf
@@ -685,7 +685,7 @@
     - Detection
   summary:
     en: Official implementation of "Conformer:Local Features Coupling Global Representations for Visual Recognition"
-    zh: Conformer:Local Features Coupling Global Representations for Visual Recognition官方实现
+    zh: Conformer:Local Features Coupling Global Representations for Visual Recognition 官方实现
 
 - repo_url: https://github.com/VDIGPKU/CBNetV2
   paper_url: https://arxiv.org/pdf/2107.00420.pdf
@@ -698,7 +698,7 @@
     - Instance Segmentation
   summary:
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection"
-    zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection官方实现
+    zh: CBNetV2:A Novel Composite Backbone Network Architecture for Object Detection 官方实现
 
 - repo_url: https://github.com/HRNet/Lite-HRNet
   paper_url: https://arxiv.org/abs/2104.06403
@@ -993,14 +993,15 @@
     - MMCV
     - MMDetection
     - MMSegmentation
+    - MMClassification
   tags:
     - Backbone
     - Classification
     - Detection
     - Segmentation
   summary:
-    en: Official implementation of "PVT v2:Improved Baselines with Pyramid Vision Transformer"
-    zh: PVT v2:Improved Baselines with Pyramid Vision Transformer官方实现
+    en: Official implementation of PVT v1 and v2
+    zh: PVT v1 和 v2 的官方实现
 
 - repo_url: https://github.com/facebookresearch/ConvNeXt
   paper_url: https://arxiv.org/abs/2201.03545
@@ -1010,6 +1011,7 @@
     - MMDetection
   tags:
     - Backbone
+    - Detection
   summary:
     en: Official implementation of "A ConvNet for the 2020s"
     zh: A ConvNet for the 2020s官方实现
@@ -1201,3 +1203,74 @@
   summary:
     en: Official implementation of "AdaMixer:A Fast-Converging Query-Based Object Detector"
     zh: "AdaMixer:A Fast-Converging Query-Based Object Detector 官方实现"
+
+- repo_url: https://github.com/determined-ai/determined
+  paper_url: ''
+  type: Service
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - platform
+  summary:
+    en: Deep Learning Training Platform
+    zh: 深度学习训练平台
+
+- repo_url: https://github.com/WXinlong/SOLO
+  paper_url: https://arxiv.org/pdf/1912.04488.pdf; https://arxiv.org/pdf/2003.10152.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Segmentation
+  summary:
+    en: Official implementing of SOLO & SOLOv2
+    zh: SOLO:Segmenting Objects by Locations 和 SOLOv2:Dynamic and Fast Instance Segmentation官方实现
+
+- repo_url: https://github.com/d-li14/involution
+  paper_url: https://arxiv.org/pdf/2103.06255.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+    - MMClassification
+    - MMSegmentation
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Official implementation of a neural operator as described in Involution:Inverting the Inherence of Convolution for Visual Recognition
+    zh: Involution:Inverting the Inherence of Convolution for Visual Recognition官方实现
+
+- repo_url: https://github.com/xvjiarui/GCNet
+  paper_url: https://arxiv.org/pdf/1904.11492.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "GCNet:Non-local Networks Meet Squeeze-Excitation Networks and Beyond"
+    zh: GCNet:Non-local Networks Meet Squeeze-Excitation Networks and Beyond官方实现
+
+- repo_url: https://github.com/joe-siyuan-qiao/DetectoRS
+  paper_url: https://arxiv.org/pdf/2006.02334.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of DetectoRS
+    zh: DetectoRS官方实现
+
+- repo_url: https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
+  paper_url: https://arxiv.org/pdf/2103.14030.pdf
+  type: Community Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Swin Transformer
+  summary:
+    en: Reproduction for object detection results of Swin Transformer based on mmdetection
+    zh: Swin transformer在检测任务上的复现
