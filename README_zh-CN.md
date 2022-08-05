@@ -1,7 +1,7 @@
 # Ecosystem
 [English](/README.md) | 简体中文
 
-本项目用于收录使用了OpenMMLab体系的开源项目，所有收录的项目将会在[OpenMMLab生态项目](https://openmmlab.com/codebase/ecosystem)进行展示。
+本项目用于收录使用了OpenMMLab体系的开源项目，所有收录的项目将会在[OpenMMLab生态项目(WIP)](https://openmmlab.com/codebase/ecosystem)进行展示。
 
 ## 文件结构
 
@@ -83,6 +83,7 @@ pre-commit install
   <tr>
     <th class="tg-0lax">Chinese</th>
     <th class="tg-0lax">English</th>
+    <th class="tg-0lax">含义</th>
     <th class="tg-0lax">Meaning</th>
   </tr>
 </thead>
@@ -91,44 +92,53 @@ pre-commit install
     <td class="tg-0lax">官方实现 </td>
     <td class="tg-0lax">Official Implementation </td>
     <td class="tg-0lax">论文的官方实现 </td>
+    <td class="tg-0lax">Official Implementation of the Research Work </td>
   </tr>
   <tr>
     <td class="tg-0lax">第三方实现 </td>
     <td class="tg-0lax">Community Implementation </td>
     <td class="tg-0lax">论文的第三方实现 </td>
+    <td class="tg-0lax">Community Implementation of the Research Work </td>
   </tr>
   <tr>
     <td class="tg-0lax">比赛代码 </td>
     <td class="tg-0lax">Competition </td>
     <td class="tg-0lax">比赛代码 </td>
+    <td class="tg-0lax">Open-source Code of the Competition </td>
   </tr>
   <tr>
     <td class="tg-0lax">算法框架 </td>
     <td class="tg-0lax">Library </td>
     <td class="tg-0lax">在 OpenMMLab 之上开发的第三方代码库 </td>
+    <td class="tg-0lax">Algorithm Library Built on OpenMMLab </td>
   </tr>
   <tr>
     <td class="tg-0lax">服务 </td>
     <td class="tg-0lax">Service </td>
     <td class="tg-0lax">第三方服务项目，例如 wandb </td>
+    <td class="tg-0lax">Service Project, e.g., wandb </td>
   </tr>
   <tr>
     <td class="tg-0lax">教程 </td>
     <td class="tg-0lax">Tutorial&nbsp;&nbsp;</td>
     <td class="tg-0lax">基于OpenMMLab开发的教程 </td>
+    <td class="tg-0lax">Tutorial Built on OpenMMLab </td>
   </tr>
   <tr>
     <td class="tg-0lax">示例 </td>
     <td class="tg-0lax">Demo </td>
     <td class="tg-0lax">基于OpenMMLab设计的Demo </td>
+    <td class="tg-0lax">Demo Built on OpenMMLab </td>
   </tr>
   <tr>
     <td class="tg-0lax">其他 </td>
     <td class="tg-0lax">Others </td>
     <td class="tg-0lax">不在以上分类中的其他项目 </td>
+    <td class="tg-0lax">Projects not in the above Types </td>
   </tr>
 </tbody>
 </table>
+
 
 ### MMRepos
 

@@ -1365,3 +1365,175 @@
   summary:
     en: Official implementation of "AugFPN:Improving Multi-scale Feature Learning for Object Detection"
     zh: AugFPN:Improving Multi-scale Feature Learning for Object Detection 官方实现
+
+- repo_url: https://github.com/JiaquanYe/TableMASTER-mmocr
+  paper_url: https://arxiv.org/pdf/2105.01848.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Competition
+    - Table Recognition
+    - ICDAR
+  summary:
+    en: PINGAN-VCGROUP's solution for ICDAR 2021 competition on scientific literature parsing task B
+    zh: 平安 VCGroup 为 ICDAR 2021 科学文献解析竞赛任务 B 提供的解决方案
+
+- repo_url: https://github.com/xfyun/aiges
+  paper_url: ''
+  type: Service
+  mmrepos:
+    - MMOCR
+  tags:
+    - AI Serving
+    - Cloud
+  summary:
+    en: AI Service Engine
+    zh: AI 引擎托管平台
+
+- repo_url: https://github.com/JiaquanYe/MASTER-mmocr
+  paper_url: https://arxiv.org/pdf/1910.02562.pdf
+  type: Community Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Recognition
+    - Transformer
+  summary:
+    en: Official implementation of "MASTER:Multi-Aspect Non-local Network for Scene Text Recognition"
+    zh: MASTER:Multi-Aspect Non-local Network for Scene Text Recognition 官方实现
+
+- repo_url: https://github.com/phamdinhkhanh/general_ocr
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMOCR
+  tags:
+    - Mixed Library
+  summary:
+    en: Open source Optical Character Recognition library based on PyTorch
+    zh: 基于 PyTorch 的开源光学字符识别库
+
+- repo_url: https://github.com/sangwook236/SWDT
+  paper_url: ''
+  type: Library
+  mmrepos:
+    - MMOCR
+  tags:
+    - Development and Testing
+    - Knowledge Base
+  summary:
+    en: A systematical accumulation of source codes, knowledge, and experience acquired in the development and testing of software and hardware
+    zh: 对用于开发和测试软/硬件源码、知识和经验的一个系统化的总结
+
+- repo_url: https://github.com/TommyZihao/MMOCR_tutorials
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+    - MMOCR
+  tags:
+    - Tutorial
+    - Beginner-Friendly
+  summary:
+    en: Jupyter notebook tutorials for MMOCR
+    zh: MMOCR 代码教程
+
+- repo_url: https://github.com/zezeze97/Master_im2caption
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMCV
+    - MMDetection
+    - MMOCR
+  tags:
+    - Image Captioning
+    - Transformer
+  summary:
+    en: A framework for image captioning
+    zh: 一个图像标题生成框架
+
+- repo_url: https://github.com/zezeze97/image2latex
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMOCR
+  tags:
+    - Latex
+    - Document Image
+  summary:
+    en: Converting images to latex code
+    zh: 文档图像转 latex 代码
+
+- repo_url: https://github.com/ASentry/MS-ROCANet
+  paper_url: https://ieeexplore.ieee.org/document/9746345
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+  tags:
+    - Scene Text Detection
+    - Channel Attention
+  summary:
+    en: Official implementation of MS-ROCANET Multi-Scale Residual Orthogonal-Channel Attention Network For Scene Text Detection
+    zh: MS-ROCANET Multi-Scale Residual Orthogonal-Channel Attention Network For Scene Text Detection 官方实现
+
+- repo_url: https://github.com/xdxie/WordArt
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMOCR
+    - MMDetection
+    - MMCV
+  tags:
+    - Scene Text Recognition
+    - Transformer
+  summary:
+    en: Official implementation of Toward Understanding WordArtCorner-Guided Transformer for Scene Text Recognition
+    zh: Toward Understanding WordArt:Corner-Guided Transformer for Scene Text Recognition 官方实现
+
+- repo_url: https://github.com/ananzeng/T-Brain-Machine-Learning-Competition-Traditional-Chinese-Scene-Character-Recognition-Contest-Advance
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Scene Text Detection
+    - Traditional Chinese
+  summary:
+    en: Traditional Chinese recognition competion solution
+    zh: 繁体中文文本识别挑战赛参赛代码
+
+- repo_url: https://github.com/playif1/TBrain-OCR-2021
+  paper_url: ''
+  type: Competition
+  mmrepos:
+    - MMOCR
+  tags:
+    - Scene Text Detection
+    - Scene Text Recognition
+  summary:
+    en: Traditional Chinese recognition competion solution
+    zh: TBrain AI 中钢人工智能挑战赛，繁体中文识别参赛代码
+
+- repo_url: https://github.com/ElectronicBabylonianLiterature/cuneiform-sign-detection
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMOCR
+  tags:
+    - Text Detection
+    - Cuneiform Sign
+  summary:
+    en: Cuneiform Sign Detection
+    zh: 楔形文字检测
+
+- repo_url: https://github.com/khangnguyenhuu/vietnamese_kie_system
+  paper_url: ''
+  type: Others
+  mmrepos:
+    - MMOCR
+  tags:
+    - Key Information Extraction
+    - Vietnamese
+  summary:
+    en: Key information extraction for Vietnamese documents
+    zh: 越南语文档关键信息提取
