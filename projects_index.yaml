@@ -1537,3 +1537,172 @@
   summary:
     en: Key information extraction for Vietnamese documents
     zh: 越南语文档关键信息提取
+
+
+- repo_url: https://github.com/xieenze/PolarMask
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_PolarMask_Single_Shot_Instance_Segmentation_With_Polar_Representation_CVPR_2020_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Instance Segmentation
+  summary:
+    en: Official implementation of "PolarMask:Single Shot Instance Segmentation with Polar Representation"
+    zh: PolarMask:Single Shot Instance Segmentation with Polar Representation 官方实现
+
+- repo_url: https://github.com/hhaAndroid/mmdetection-mini
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Instance Segmentation
+  summary:
+    en: Minimal Learning version of MMDetection
+    zh: MMDetection 最小学习版
+
+- repo_url: https://github.com/sail-sg/poolformer
+  paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_MetaFormer_Is_Actually_What_You_Need_for_Vision_CVPR_2022_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Vision Transformer
+    - Backbone
+    - Classification
+    - Detection
+    - Segmentation
+  summary:
+    en: Official implementation of "MetaFormer is Actually What You Need for Vision"
+    zh: MetaFormer is Actually What You Need for Vision 官方实现
+
+- repo_url: https://github.com/microsoft/SoftTeacher
+  paper_url: https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_End-to-End_Semi-Supervised_Object_Detection_With_Soft_Teacher_ICCV_2021_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Semi-Supervised Learning
+    - Detection
+  summary:
+    en: Official implementation of "End-to-End Semi-Supervised Object Detection with Soft Teacher"
+    zh: End-to-End Semi-Supervised Object Detection with Soft Teacher 官方实现
+
+- repo_url: https://github.com/dingjiansw101/AerialDetection
+  paper_url: https://arxiv.org/pdf/2102.12219.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Aerial Images
+  summary:
+    en: This codebase is created to build benchmarks for object detection in aerial images.
+    zh: 创建这个代码库是为了为航空图像中的目标检测建立基准。
+
+- repo_url: https://github.com/ming71/mmdetection-annotated
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Annotation
+  summary:
+    en: Annotation of MMDetection source code
+    zh: MMDetection 源码注释
+
+- repo_url: https://github.com/HRNet/HRNet-Object-Detection
+  paper_url: https://arxiv.org/pdf/1904.04514.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "High-Resolution Representations for Labeling Pixels and Regions"
+    zh: High-Resolution Representations for Labeling Pixels and Regions 官方实现
+
+- repo_url: https://github.com/microsoft/RepPoints
+  paper_url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_RepPoints_Point_Set_Representation_for_Object_Detection_ICCV_2019_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "RepPoints:Point Set Representation for Object Detection"
+    zh: RepPoints:Point Set Representation for Object Detection 官方实现
+
+
+- repo_url: https://github.com/kemaloksuz/aLRPLoss
+  paper_url: https://arxiv.org/pdf/2009.13592v4.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Loss
+    - Detection
+  summary:
+    en: Official implementation of "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection"
+    zh: A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection 官方实现
+
+- repo_url: https://github.com/Howal/Cross-iterationBatchNorm
+  paper_url: https://arxiv.org/pdf/2002.05712v3.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Batch Normalization
+    - Detection
+  summary:
+    en: Official implementation of "Cross-Iteration Batch Normalizationn"
+    zh: Cross-Iteration Batch Normalization 官方实现
+
+- repo_url: https://github.com/jshilong/FisherPruning
+  paper_url: https://arxiv.org/pdf/2108.00708.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Pruning
+    - Detection
+  summary:
+    en: Official implementation of "Group Fisher Pruning for Practical Network Compression"
+    zh: Group Fisher Pruning for Practical Network Compression 官方实现
+
+- repo_url: https://github.com/ggjy/HitDet.pytorch
+  paper_url: https://arxiv.org/pdf/2003.11818.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Architecture Search
+    - Detection
+  summary:
+    en: Official implementation of "Hit-Detector:Hierarchical Trinity Architecture Search for Object Detection"
+    zh: Hit-Detector:Hierarchical Trinity Architecture Search for Object Detection 官方实现
+
+- repo_url: https://github.com/tztztztztz/eqlv2
+  paper_url: https://arxiv.org/pdf/2003.05176v2.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Long-Tailed
+    - Detection
+  summary:
+    en: Official implementation of "Equalization loss for long-tailed object recognition" and "Equalization Loss v2:A New Gradient Balance Approach for Long-tailed Object Detection"
+    zh: Equalization loss for long-tailed object recognition和Equalization Loss v2:A New Gradient Balance Approach for Long-tailed Object Detection 官方实现
+
+- repo_url: https://github.com/yzd-v/FGD
+  paper_url: https://arxiv.org/pdf/2111.11837v2.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Knowledge Distillation
+    - Detection
+  summary:
+    en: Official implementation of "Focal and Global Knowledge Distillation for Detectors"
+    zh: Focal and Global Knowledge Distillation for Detectors 官方实现
