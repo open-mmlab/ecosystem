@@ -1261,7 +1261,7 @@
     - Detection
   summary:
     en: Official implementation of DetectoRS
-    zh: DetectoRS官方实现
+    zh: DetectoRS 官方实现
 
 - repo_url: https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
   paper_url: https://arxiv.org/pdf/2103.14030.pdf
@@ -1273,4 +1273,95 @@
     - Swin Transformer
   summary:
     en: Reproduction for object detection results of Swin Transformer based on mmdetection
-    zh: Swin transformer在检测任务上的复现
+    zh: Swin transformer 在检测任务上的复现
+
+- repo_url: https://github.com/Stephenfang51/mmdetection_visualize
+  paper_url: ""
+  type: Demo
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Visualization
+  summary:
+    en: Demos of simple version for visualizing the training result produced by MMDetection
+    zh: 基于 MMDetection 的训练结果可视化示例
+
+- repo_url: https://github.com/saic-vul/iterdet
+  paper_url: https://arxiv.org/pdf/2005.05708.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "IterDet:Iterative Scheme for Object Detection in Crowded Environments"
+    zh: IterDet:Iterative Scheme for Object Detection in Crowded Environments 官方实现
+
+- repo_url: https://github.com/thangvubk/Cascade-RPN
+  paper_url: https://arxiv.org/pdf/1909.06720.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Cascade RPN:Delving into High-Quality Region Proposal Network with Adaptive Convolution"
+    zh: Cascade RPN:Delving into High-Quality Region Proposal Network with Adaptive Convolution 官方实现
+
+- repo_url: https://github.com/ZjjConan/SimAM
+  paper_url: http://ruyuanzhang.github.io/files/2107_ICML.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "SimAM:A Simple, Parameter-Free Attention Module for Convolutional Neural Networks"
+    zh: SimAM:A Simple, Parameter-Free Attention Module for Convolutional Neural Networks 官方实现
+
+- repo_url: https://github.com/chanyn/Reasoning-RCNN
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Reasoning-RCNN_Unifying_Adaptive_Global_Reasoning_Into_Large-Scale_Object_Detection_CVPR_2019_paper.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "Reasoning-RCNN:Unifying Adaptive Global Reasoning into Large-scale Object Detection"
+    zh: Reasoning-RCNN:Unifying Adaptive Global Reasoning into Large-scale Object Detection 官方实现
+
+- repo_url: https://github.com/milleniums/underwater-object-detection-mmdetection
+  paper_url: ""
+  type: Competition
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Underwater Object Detection
+  summary:
+    en: Underwater object detection for competition
+    zh: 水下目标检测比赛代码库
+
+- repo_url: https://github.com/HikariTJU/LD
+  paper_url: https://arxiv.org/pdf/2102.12252.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+    - Localization Distillation
+  summary:
+    en: Official implementation of "Localization Distillation for Dense Object Detection"
+    zh: Localization Distillation for Dense Object Detection 官方实现
+
+- repo_url: https://github.com/Gus-Guo/AugFPN
+  paper_url: https://arxiv.org/pdf/1912.05384.pdf
+  type: Official Implementation
+  mmrepos:
+    - MMDetection
+  tags:
+    - Detection
+  summary:
+    en: Official implementation of "AugFPN:Improving Multi-scale Feature Learning for Object Detection"
+    zh: AugFPN:Improving Multi-scale Feature Learning for Object Detection 官方实现
