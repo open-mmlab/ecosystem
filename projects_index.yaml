@@ -1838,19 +1838,21 @@
   tags:
     - CVPR
     - Semantic Segmentation
+    - Backbone
   summary:
     en: Official PyTorch implementation of RepLKNet
     zh: 基于 PyTorch 的 RepLKNet 官方实现
 
-- repo_url: https://github.com/rulixiang/afa
-  paper_url: https://arxiv.org/abs/2203.02664
+
+- repo_url: https://github.com/open-mmlab/ecosystem
+  paper_url: ''
   type: Official Implementation
   mmrepos:
+    - MMDetection
     - MMSegmentation
   tags:
     - CVPR
-    - Vision Transformer
     - Semantic Segmentation
   summary:
-    en: Official implementation of "Learning Affinity from Attention:End-to-End Weakly-Supervised Semantic Segmentation with Transformers"
-    zh: Learning Affinity from Attention:End-to-End Weakly-Supervised Semantic Segmentation with Transformers 官方实现
+    en: ecosystem repo of OpenMMLab
+    zh: OpenMMLab的生态项目列表
