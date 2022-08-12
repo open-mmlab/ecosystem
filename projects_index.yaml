@@ -129,7 +129,7 @@
     - Long-Tailed
   summary:
     en: Official implementation of Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect.
-    zh: Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect 官方实现。
+    zh: Long-Tailed Classification by Keeping the Good and Removing the Bad Momentum Causal Effect 官方实现
 
 - repo_url: https://github.com/implus/GFocal
   paper_url: https://arxiv.org/pdf/2006.04388
@@ -140,7 +140,7 @@
     - Detection
   summary:
     en: Official implementation of "Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection"
-    zh: Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection 官方实现。
+    zh: Generalized Focal Loss:Learning Qualified and Distributed Bounding Boxes for Dense Object Detection 官方实现
 
 - repo_url: https://github.com/implus/GFocalV2
   paper_url: https://arxiv.org/abs/2011.12885
@@ -151,7 +151,7 @@
     - Detection
   summary:
     en: Official implementation of "Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection"
-    zh: Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection 官方实现。
+    zh: Generalized Focal Loss V2:Learning Reliable Localization Quality Estimation for Dense Object Detection 官方实现
 
 - repo_url: https://github.com/ZJULearning/ttfnet
   paper_url: https://arxiv.org/pdf/1909.00700
@@ -162,7 +162,7 @@
     - Detection
   summary:
     en: Official implementation of "Training-Time-Friendly Network for Real-Time Object Detection"
-    zh: Training-Time-Friendly Network for Real-Time Object Detection 官方实现。
+    zh: Training-Time-Friendly Network for Real-Time Object Detection 官方实现
 
 - repo_url: https://github.com/Sense-X/TSD
   paper_url: https://arxiv.org/abs/2003.07540
@@ -173,7 +173,7 @@
     - Detection
   summary:
     en: Official implementation of "Revisiting the Sibling Head in Object Detector"
-    zh: Revisiting the Sibling Head in Object Detector 官方实现。
+    zh: Revisiting the Sibling Head in Object Detector 官方实现
 
 - repo_url: https://github.com/WangYueFt/detr3d
   paper_url: https://proceedings.mlr.press/v164/wang22b/wang22b.pdf
@@ -640,16 +640,17 @@
     zh: D2Det:Towards High Quality Object Detection and Instance Segmentation 官方实现
 
 - repo_url: https://github.com/jbwang1997/OBBDetection
-  paper_url: ''
-  type: Others
+  paper_url: https://arxiv.org/abs/2108.05699
+  type: Official Implementation
   mmrepos:
     - MMDetection
   tags:
     - Detection
     - Rotated Object Detection
+    - Library
   summary:
-    en: An oriented object detection library,
-    zh: 有向目标检测库
+    en: Official implementation of "Oriented R-CNN for Object Detection" and an oriented object detection library
+    zh: Oriented R-CNN for Object Detection 官方实现和有向目标检测库
 
 - repo_url: https://github.com/hyz-xmaster/VarifocalNet
   paper_url: https://arxiv.org/pdf/2008.13367.pdf
