@@ -2022,7 +2022,7 @@
   summary:
     en: Competition Tricks
     zh: 比赛常用技巧
-- repo_url: 'https://github.com/Res2Net/mmdetection.git '
+- repo_url: https://github.com/Res2Net/mmdetection
   paper_url: ''
   type: Community Implementation
   mmrepos:
@@ -3031,16 +3031,6 @@
   summary:
     en: Pet feeding system based on embedded machine vision
     zh: 基于嵌入式机器视觉的宠物喂食系统
-- repo_url: https://github.com/boostcampaitech2
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - foundation
-  summary:
-    en: Non-profit educational foundation
-    zh: 非营利性教育基金会
 - repo_url: https://github.com/yingkaining/mmhid
   paper_url: ''
   type: Library
@@ -3059,8 +3049,8 @@
   tags:
   - CVPR
   summary:
-    en: 'Community implementation of ''Panda: A gigapixel-level human-centric video
-      dataset'''
+    en: "Community implementation of 'Panda: A gigapixel-level human-centric video
+      dataset'"
     zh: 'Panda: A gigapixel-level human-centric video dataset第三方实现'
 - repo_url: https://github.com/duongduc2908/Freelance_DaNang
   paper_url: ''
@@ -3122,7 +3112,7 @@
   - Detection
   - Competition
   summary:
-    en: ' The solution of Alibaba-Tsinghua Adversarial Challenge on Object Detection
+    en: 'The solution of Alibaba-Tsinghua Adversarial Challenge on Object Detection
       in CIKM 2020 Analyticup.'
     zh: CIKM 2020 Analyticup中阿里巴巴-清华对抗挑战赛目标检测的解决方案。
 - repo_url: https://github.com/Dizzy-cell/HOUV
@@ -3144,8 +3134,8 @@
   tags:
   - Detection
   summary:
-    en: ' Clone of MMDetection'
-    zh: MMDetection开源库的克隆。
+    en: 'Clone of MMDetection'
+    zh: MMDetection开源库的克隆
 - repo_url: https://github.com/KTong821/wato_mmdetection3d
   paper_url: ''
   type: Library
@@ -3154,7 +3144,7 @@
   tags:
   - Detection
   summary:
-    en: ' Clone of MMDetection3d'
+    en: 'Clone of MMDetection3d'
     zh: MMDetection3d 开源库的克隆。
 - repo_url: https://github.com/KyanChen/ClassificationFramework
   paper_url: ''
@@ -3418,7 +3408,7 @@
   tags:
   - VINO
   summary:
-    en: 'This package provides various types of Model Preparation Algorithm '
+    en: 'This package provides various types of Model Preparation Algorithm'
     zh: 这个包提供了各种类型的模型准备算法
 - repo_url: https://github.com/Westlake-AI/openmixup
   paper_url: ''
