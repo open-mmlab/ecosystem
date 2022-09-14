@@ -3061,8 +3061,8 @@
   tags:
   - CVPR
   summary:
-    en: 'Community implementation of ''Panda: A gigapixel-level human-centric video
-      dataset'''
+    en: 'Community implementation of "Panda: A gigapixel-level human-centric video
+      dataset"'
     zh: 'Panda: A gigapixel-level human-centric video dataset第三方实现'
 - repo_url: https://github.com/duongduc2908/Freelance_DaNang
   paper_url: ''
