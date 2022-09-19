@@ -2033,7 +2033,7 @@
   summary:
     en: Competition Tricks
     zh: 比赛常用技巧
-- repo_url: https://github.com/Res2Net/mmdetection.git
+- repo_url: https://github.com/Res2Net/mmdetection
   paper_url: ''
   type: Community Implementation
   mmrepos:
@@ -3291,9 +3291,7 @@
   - Detection
   summary:
     en: Explore OS-Climate demo concepts from Red Hat AICoE
-    zh: '探索来自Red Hat AICoE的OS-Climate演示概念
-
-      '
+    zh: 探索来自 Red Hat AICoE 的 OS-Climate 演示概念
 - repo_url: https://github.com/Jokoe66/TianchiTrafficEstimation
   paper_url: ''
   type: Competition
@@ -3303,9 +3301,7 @@
   - Detection
   - Competition
   summary:
-    en: 'Tianchi traffic condition prediction competition
-
-      '
+    en: Tianchi traffic condition prediction competition
     zh: 天池交通状况预测比赛
 - repo_url: https://github.com/zezeze97/image2latex
   paper_url: ''
