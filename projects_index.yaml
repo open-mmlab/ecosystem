@@ -84,6 +84,18 @@
     en: PyTorch implementation and pretrained models for XCiT models. See "XCiT:Cross-Covariance
       Image Transformer"
     zh: XCiT 模型的 pytorch 实现与训练模型。参考 XCiT:Cross-Covariance Image Transformer
+- repo_url: https://github.com/grimoire/mmdetection-to-tensorrt
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  - TensorRT
+  - Deployment
+  summary:
+    en: This project aims to convert the MMDetection model to TensorRT model end2end.
+    zh: 本项目旨在将 MMDetection 的模型端到端地转化为 TensorRT 模型。
 - repo_url: https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch
   paper_url: https://arxiv.org/pdf/2009.12991
   type: Official Implementation
@@ -1245,16 +1257,6 @@
     en: Official implementation of "MASTER:Multi-Aspect Non-local Network for Scene
       Text Recognition"
     zh: MASTER:Multi-Aspect Non-local Network for Scene Text Recognition 官方实现
-- repo_url: https://github.com/phamdinhkhanh/general_ocr
-  paper_url: ''
-  type: Library
-  mmrepos:
-  - MMOCR
-  tags:
-  - Mixed Library
-  summary:
-    en: Open source Optical Character Recognition library based on PyTorch
-    zh: 基于 PyTorch 的开源光学字符识别库
 - repo_url: https://github.com/sangwook236/SWDT
   paper_url: ''
   type: Library
@@ -1319,17 +1321,6 @@
       for Scene Text Recognition
     zh: Toward Understanding WordArt:Corner-Guided Transformer for Scene Text Recognition
       官方实现
-- repo_url: https://github.com/ananzeng/T-Brain-Machine-Learning-Competition-Traditional-Chinese-Scene-Character-Recognition-Contest-Advance
-  paper_url: ''
-  type: Competition
-  mmrepos:
-  - MMOCR
-  tags:
-  - Scene Text Detection
-  - Traditional Chinese
-  summary:
-    en: Traditional Chinese recognition competion solution
-    zh: 繁体中文文本识别挑战赛参赛代码
 - repo_url: https://github.com/playif1/TBrain-OCR-2021
   paper_url: ''
   type: Competition
@@ -1869,6 +1860,16 @@
   summary:
     en: Http service based on Flask and MMSegmentation
     zh: 基于 Flask 和 MMSegmentation 的 Http 服务
+- repo_url: https://github.com/amitha-nayak/Fashionista
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Tensorflow
+  summary:
+    en: Fashionista
+    zh: 时尚达人
 - repo_url: https://github.com/robeson1010/SSLRS
   paper_url: ''
   type: Demo
@@ -2000,6 +2001,16 @@
       Platform with RESTful API Service"'
     zh: 'XCloud: Design and Implementation of AI Cloud Platform with RESTful API Service
       官方实现'
+- repo_url: https://github.com/phamdinhkhanh/general_ocr
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMCV
+  tags:
+  - Text Recognition
+  summary:
+    en: Optical Character Recognition Library
+    zh: 光学字符识别库
 - repo_url: https://github.com/pppppM/mmdetection-distiller
   paper_url: ''
   type: Library
@@ -2266,17 +2277,6 @@
     en: 'Official implementation of "Generalizable Pedestrian Detection: The Elephant
       In The Room"'
     zh: 'Generalizable Pedestrian Detection: The Elephant In The Room 官方实现'
-- repo_url: https://github.com/grimoire/mmdetection-to-tensorrt
-  paper_url: ''
-  type: Library
-  mmrepos:
-  - MMDetection
-  tags:
-  - TensorRT
-  - Deployment
-  summary:
-    en: A library of convert mmdetection model to tensorrt
-    zh: mmdetection 模型转换为 tensorrt 模型的转换库
 - repo_url: https://github.com/SysCV/qdtrack
   paper_url: https://arxiv.org/abs/2006.06664
   type: Official Implementation
@@ -2706,6 +2706,18 @@
   summary:
     en: Rethinking Self-Supervised Correspondence Learning
     zh: 重新审视自监督响应学习
+- repo_url: https://github.com/cool-xuan/x-hrnet
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMPose
+  tags:
+  - Human Pose Estimation
+  summary:
+    en: 'Official implementation of "X-HRNet: Towards Lightweight Human Pose Estimation
+      with Spatially Unidimensional Self-Attention"'
+    zh: 'X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional
+      Self-Attention 官方实现'
 - repo_url: https://github.com/peabody124/PosePipeline
   paper_url: ''
   type: Library
@@ -3049,8 +3061,8 @@
   tags:
   - CVPR
   summary:
-    en: "Community implementation of 'Panda: A gigapixel-level human-centric video
-      dataset'"
+    en: 'Community implementation of "Panda: A gigapixel-level human-centric video
+      dataset"'
     zh: 'Panda: A gigapixel-level human-centric video dataset第三方实现'
 - repo_url: https://github.com/duongduc2908/Freelance_DaNang
   paper_url: ''
@@ -3112,8 +3124,8 @@
   - Detection
   - Competition
   summary:
-    en: 'The solution of Alibaba-Tsinghua Adversarial Challenge on Object Detection
-      in CIKM 2020 Analyticup.'
+    en: The solution of Alibaba-Tsinghua Adversarial Challenge on Object Detection
+      in CIKM 2020 Analyticup.
     zh: CIKM 2020 Analyticup中阿里巴巴-清华对抗挑战赛目标检测的解决方案。
 - repo_url: https://github.com/Dizzy-cell/HOUV
   paper_url: ''
@@ -3134,8 +3146,8 @@
   tags:
   - Detection
   summary:
-    en: 'Clone of MMDetection'
-    zh: MMDetection开源库的克隆
+    en: Clone of MMDetection
+    zh: MMDetection开源库的克隆。
 - repo_url: https://github.com/KTong821/wato_mmdetection3d
   paper_url: ''
   type: Library
@@ -3144,7 +3156,7 @@
   tags:
   - Detection
   summary:
-    en: 'Clone of MMDetection3d'
+    en: Clone of MMDetection3d
     zh: MMDetection3d 开源库的克隆。
 - repo_url: https://github.com/KyanChen/ClassificationFramework
   paper_url: ''
@@ -3236,6 +3248,26 @@
       for Instance Segmentation in Remote Sensing Images
     zh: Learning to Aggregate Multi-Scale Context for Instance Segmentation in Remote
       Sensing Images 官方实现
+- repo_url: https://github.com/duclong1009/OCR-deepLearning
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Text Recognition
+  summary:
+    en: Text recognition and text detection
+    zh: 文字检测与识别
+- repo_url: https://github.com/jjw-DL/mmdetection3d_Noted
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - 3D Detection
+  summary:
+    en: MMDetection3D with comments
+    zh: MMDetection3D 注释版
 - repo_url: https://github.com/SheldongChen/A-Baseline-Framework-for-Part-level-Action-Parsing-and-Action-Recognition
   paper_url: ''
   type: Competition
@@ -3250,6 +3282,27 @@
   summary:
     en: 2nd place solution for Kinetics-TPS Track in ICCV DeeperAction Workshop 2021
     zh: Kinetics-TPS Track ICCV DeeperAction Workshop 2021 第二名方案
+- repo_url: https://github.com/os-climate/aicoe-osc-demo
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Explore OS-Climate demo concepts from Red Hat AICoE
+    zh: 探索来自 Red Hat AICoE 的 OS-Climate 演示概念
+- repo_url: https://github.com/Jokoe66/TianchiTrafficEstimation
+  paper_url: ''
+  type: Competition
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  - Competition
+  summary:
+    en: Tianchi traffic condition prediction competition
+    zh: 天池交通状况预测比赛
 - repo_url: https://github.com/zezeze97/image2latex
   paper_url: ''
   type: Community Implementation
@@ -3262,6 +3315,16 @@
   summary:
     en: Convert image to latex
     zh: 图片转换为latex
+- repo_url: https://github.com/ShoufaChen/COMP3340_Transformer_MLP
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMClassification
+  tags:
+  - Vision Transformer
+  summary:
+    en: COMP3340 Transformer and MLP
+    zh: COMP3340 Transformer and MLP
 - repo_url: https://github.com/TrueNobility303/scene-text-recognition
   paper_url: ''
   type: Community Implementation
@@ -3315,17 +3378,6 @@
   summary:
     en: Project Template based on PyTorch-Lightning and OpenMMLab
     zh: 基于 PyTorch-Lightning 和 OpenMMLab 的项目模板
-- repo_url: https://github.com/ml-inory/ModelConverterWeb
-  paper_url: ''
-  type: Demo
-  mmrepos:
-  - MMClassification
-  tags:
-  - model zoo
-  - Web Server
-  summary:
-    en: Web Server for Model Converter
-    zh: 用于模型转换的 Web Server
 - repo_url: https://github.com/LiUzHiAn/kdxf
   paper_url: ''
   type: Competition
@@ -3366,6 +3418,17 @@
   summary:
     en: Official Implementation of BgNet
     zh: BgNet 的官方实现
+- repo_url: https://github.com/JoaoPMonteiro/epoche
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMClassification
+  tags:
+  - Human Pose Estimation
+  summary:
+    en: Evaluation of Human Pose Recovery Methods On a Collection of Heterogeneous
+      Ecosystems
+    zh: 异质生态系统中人体姿态恢复方法的评价
 - repo_url: https://github.com/wyze-AI/AdaptiveDistillation
   paper_url: ''
   type: Official Implementation
@@ -3408,7 +3471,7 @@
   tags:
   - VINO
   summary:
-    en: 'This package provides various types of Model Preparation Algorithm'
+    en: This package provides various types of Model Preparation Algorithm
     zh: 这个包提供了各种类型的模型准备算法
 - repo_url: https://github.com/Westlake-AI/openmixup
   paper_url: ''
@@ -3422,3 +3485,312 @@
     en: An open-source toolbox for visual representation learning with mixup based
       on PyTorch
     zh: 面向视觉识别的基于Mix方法的工具库
+- repo_url: https://github.com/LitRHap/anime-face-detector
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  - Animal Pose Estimation
+  summary:
+    en: Anime Face Detector
+    zh: 动漫人脸检测器
+- repo_url: https://github.com/luisCossio/fruit_detection_swin
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: This project explores the capabilities of SWIN Transformer in detection of
+      small objects.
+    zh: 本项目探索在小目标数据集上 SWIN Transformer 的能力。
+- repo_url: https://github.com/H-deep/Trans-SVSR
+  paper_url: https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Imani_A_New_Dataset_and_Transformer_for_Stereoscopic_Video_Super-Resolution_CVPRW_2022_paper.pdf
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - Video Super-Resolution
+  summary:
+    en: Official Pytorch implementation for "A New Dataset and Transformer for Stereoscopic
+      Video Super-Resolution"
+    zh: A New Dataset and Transformer for Stereoscopic Video Super-Resolution 官方实现
+- repo_url: https://github.com/udchen19/VRDL
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+  - MMDetection
+  - MMClassification
+  tags:
+  - Detection
+  summary:
+    en: Homework of the course "Selected Topics in Visual Recognition using Deep Learning"
+      in NYCU, Fall Semester 2021
+    zh: NYCU的‘Selected Topics in Visual Recognition using Deep Learning’课程作业
+- repo_url: https://github.com/QiangZiBro/cv-aio
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  - MMClassification
+  tags:
+  - Backbone
+  - Deployment
+  summary:
+    en: This project aims to provide a workflow from CV model training, to model pruning,
+      quantization and finally deploying to embedded devices.
+    zh: 本项目旨在提供一个从CV模型训练，到模型剪枝，量化编码，最后部署到嵌入式设备的工作流
+- repo_url: https://github.com/alexchungio/mmdetection-demo
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Demo of MMDetection
+    zh: MMDetection 演示例子
+- repo_url: https://github.com/OOXXXXOO/XCloud
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMDetection
+  tags:
+  - XCloud
+  summary:
+    en: Clone of XCloud. XCloud is an open-source AI platform which provides common
+      AI services (computer vision, NLP, data mining and etc.) with RESTful APIs
+    zh: XCloud 的克隆。 XCloud 是一个开源的人工智能平台，通过 RESTful API 提供常见的人工智能服务（计算机视觉、NLP、数据挖掘等）
+- repo_url: https://github.com/phillipmacon/xcloud
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMDetection
+  tags:
+  - XCloud
+  summary:
+    en: Clone of XCloud. XCloud is an open-source AI platform which provides common
+      AI services (computer vision, NLP, data mining and etc.) with RESTful APIs
+    zh: XCloud 的克隆。 XCloud 是一个开源的人工智能平台，通过 RESTful API 提供常见的人工智能服务（计算机视觉、NLP、数据挖掘等）
+- repo_url: https://github.com/TheFebrin/Deep-Learning-Project-Instance-Segmentation
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Instance Segmentation
+  - Student Project
+  summary:
+    en: University Deep Learning Project
+    zh: 学生深度学习项目
+- repo_url: https://github.com/SebasGarcia08/sku110-dense-object-detection
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Object detection in dense scene with SKU-110 dataset
+    zh: 使用 SKU-110 数据集在密集场景中进行对象检测
+- repo_url: https://github.com/robertgargalac/tuatara
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMDetection
+  - MMOCR
+  tags:
+  - Detection
+  - ocr
+  summary:
+    en: A web aplication used for helping blind people understand hard copy documents.
+    zh: 用于帮助盲人理解硬拷贝文档的 Web 应用程序。
+- repo_url: https://github.com/LisaBernhardt/qdtrack
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Multi Object Tracking
+  summary:
+    en: Clone of Quasi-Dense Tracking
+    zh: Quasi-Dense Tracking 的克隆
+- repo_url: https://github.com/bcaitech1/p3-ims-obd-pepsimintchocolatepineapplepizza
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  - Course Project
+  summary:
+    en: Course Porject
+    zh: 课程项目
+- repo_url: https://github.com/ml-inory/ModelConverterWeb
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Web Server
+  summary:
+    en: Web server for model converter
+    zh: 用于模型转换的网页服务
+- repo_url: https://github.com/jhkim-spa/CVNet
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - 3D Detection
+  summary:
+    en: Clone of MMDetection3D
+    zh: MMDetection3D 的克隆
+- repo_url: https://github.com/Graphnull/enheg
+  paper_url: ''
+  type: Community Implementation
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  - ocr
+  summary:
+    en: Table text recognition
+    zh: 表格文字识别
+- repo_url: https://github.com/akiozihao/center_track
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMTracking
+  tags:
+  - Tracking
+  summary:
+    en: Clone of MMTracking
+    zh: MMTracking 的克隆
+- repo_url: https://github.com/jackweiwang/TrashCanFullDet
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Garbage overflow detection program based on mmdetection and sklearn
+    zh: 基于 mmdetection 框架和 sklearn 开发的垃圾桶满溢检测程序
+- repo_url: https://github.com/andersonvc/mmdet-visdrone
+  paper_url: ''
+  type: Community Implementation
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Automating SOTA Object Detection Model Development
+    zh: VisDrone数据集上自动化SOTA目标检测模型开发
+- repo_url: https://github.com/goodok/composed-trackers
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Simplified and lightweight interface to experiment tracking systems
+    zh: 简化和轻量级的实验跟踪系统接口
+- repo_url: https://github.com/catalpaaa/Orbific
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: An AI made for education workers that scans and displays errors in students
+      math work
+    zh: 一种为教育工作者设计的人工智能，可以扫描和显示学生数学作业中的错误
+- repo_url: https://github.com/sty16/cell_transformer
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Research on blood cell image recognition based on improved vision transformer
+    zh: 基于改进Vision Transformer的血细胞图像识别方法研究
+- repo_url: https://github.com/memoryunreal/RGBD-tracking-review
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: RGBD Tracking Overview
+    zh: RGBD 跟踪综述
+- repo_url: https://github.com/TaeCV/Object_localization_melanoma
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Object Localization Melanoma
+    zh: 黑色素瘤的目标定位
+- repo_url: https://github.com/konyul/monovideo
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection
+  tags:
+  - Detection
+  summary:
+    en: Multi-frame extension of FCOS3D
+    zh: 多帧扩展的 FCOS3D 单目 3D 检测
+- repo_url: https://github.com/ananzeng/T-Brain-Machine-Learning-Competition-Traditional-Chinese-Scene-Character-Recognition-Contest-Advance
+  paper_url: ''
+  type: Competition
+  mmrepos:
+  - MMDetection
+  - MMOCR
+  tags:
+  - Detection
+  summary:
+    en: 'Traditional Chinese scene character recognition competition - advanced competition:
+      character localization and recognition of complex street scenes'
+    zh: 繁体中文场景文字辨识竞赛－高阶赛：复杂街景之文字定位与辨识
+- repo_url: https://github.com/hyLiu1994/MSDEEP
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMClassification
+  tags:
+  - Algorithm
+  summary:
+    en: 'Model-State Dependent Pertubation: The Stochastic Mechanism Helps Optimizer
+      Avoiding Outlier Local Minima'
+    zh: 模型状态相关扰动：随机机制帮助优化器避免异常值局部最小值
+- repo_url: https://github.com/mjseong0414/SPA_Radar_mmdet3d
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - 3D Detection
+  summary:
+    en: SPA Radar mmdet3d codebase
+    zh: SPA 雷达的 mmdet3d 代码库
+- repo_url: https://github.com/Aristotle-li/keypoint/tree/master/mobile-face-gaze
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMPose
+  tags:
+  - model zoo
+  summary:
+    en: keypoint detection code collections
+    zh: 关键点检测代码收集仓库
