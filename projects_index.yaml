@@ -1,3 +1,14 @@
+- repo_url: https://github.com/liu-mengyang/rust-mmdeploy
+  paper_url: ""
+  type: Others
+  mmrepos:
+  - MMDeploy
+  tags:
+  - Deployment
+  - Rust
+  summary:
+    en: Safe MMDeploy Rust wrapper.
+    zh: Rust语言封装的MMDeploy开发包。
 - repo_url: https://github.com/NVlabs/FAN
   paper_url: https://arxiv.org/abs/2204.12451
   type: Official Implementation
