@@ -3794,3 +3794,27 @@
   summary:
     en: keypoint detection code collections
     zh: 关键点检测代码收集仓库
+- repo_url: https://github.com/DDGRCF/GLCC_Server
+  paper_url: ''
+  type: Service
+  mmrepos:
+  - MMDeploy
+  - MMDetection
+  tags:
+  - Deploy
+  - Server
+  summary:
+    en: A cats detection, recognition and track server based on MMDeploy
+    zh: 基于MMDeploy的猫猫检测识别跟踪服务器
+- repo_url: https://github.com/DDGRCF/GLCC_AndroidApplication
+  paper_url: ''
+  type: Service
+  mmrepos:
+  - MMDeploy
+  - MMDetection
+  tags:
+  - Deploy
+  - Client
+  summary:
+    en: Android client with server of cats detection, recognition and track
+    zh: 与猫猫检测识别跟踪服务器配套的Android客户端
