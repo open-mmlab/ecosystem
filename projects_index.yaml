@@ -3794,3 +3794,49 @@
   summary:
     en: keypoint detection code collections
     zh: 关键点检测代码收集仓库
+- repo_url: https://github.com/ueanperfect/mmdeploy-golang
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDeploy
+  tags:
+  - deploy api
+  - go
+  summary:
+    en: go api for mmdeploy
+    zh: mmdeploy的golang api
+- repo_url: https://github.com/liu-mengyang/rust-mmdeploy
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDeploy
+  tags:
+  - Deployment
+  - Rust
+  summary:
+    en: Safe MMDeploy Rust wrapper.
+    zh: Rust语言封装的MMDeploy开发包。
+- repo_url: https://github.com/DDGRCF/GLCC_Server
+  paper_url: ''
+  type: Service
+  mmrepos:
+  - MMDetection
+  - MMDeploy
+  tags:
+  - Deployment
+  - Server
+  summary:
+    en: A cats detection, recognition and track server based on MMDeploy
+    zh: 基于MMDeploy的猫猫检测识别跟踪服务器
+- repo_url: https://github.com/DDGRCF/GLCC_AndroidApplication
+  paper_url: ''
+  type: Service
+  mmrepos:
+  - MMDetection
+  - MMDeploy
+  tags:
+  - Deployment
+  - Client
+  summary:
+    en: Android client with server of cats detection, recognition and track
+    zh: 与猫猫检测识别跟踪服务器配套的Android客户端
