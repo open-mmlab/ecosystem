@@ -11,3 +11,12 @@ repos:
         args: [projects_index.yaml]
         additional_dependencies:
           - cerberus
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.16
+    hooks:
+      - id: mdformat
+        args: ["--number"]
+        additional_dependencies:
+          - mdformat-openmmlab
+          - mdformat_frontmatter
+          - linkify-it-py
