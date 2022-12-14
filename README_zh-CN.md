@@ -1,4 +1,5 @@
 # Ecosystem
+
 [English](/README.md) | 简体中文
 
 本项目用于收录使用了OpenMMLab体系的开源项目，所有收录的项目将会在[OpenMMLab生态项目(WIP)](https://openmmlab.com/codebase/ecosystem)进行展示。
@@ -20,6 +21,7 @@ ecosystem
 我们非常感谢所有为生态项目贡献数据和信息的Contributor。
 
 <!-- We appreciate all contributions to add new projects into OpenMMLab ecosystem. -->
+
 <!-- Please refer to [CONTRUBUTING.md](https://mmclassification.readthedocs.io/en/latest/community/CONTRIBUTING.html) for the contributing guideline. -->
 
 ### 工作流
@@ -34,6 +36,7 @@ ecosystem
 如果你想在把某个项目加入OpenMMLab生态体系，请编辑 `project_index.yaml`并添加具体项目的相关信息
 
 下面的信息是必须要提供的
+
 - `repo_url`: 项目的Github/Gitee链接。
 - `paper_url`: 项目涉及的论文的链接(如果有多篇论文，添加一篇即可，如果没有论文则赋值为`""`。)
 - `type`: 项目类型(请从下边的类别列表中选 **一个**)
@@ -42,6 +45,7 @@ ecosystem
 - `summary`: 项目的一句话总结(English and Chinese)
 
 请参考如下的例子添加一个项目的相关信息
+
 ```yaml
 - repo_url: https://github.com/NVlabs/FAN # repo url
   paper_url: https://arxiv.org/abs/2204.12451 # paper url
@@ -58,20 +62,24 @@ ecosystem
 ```
 
 ### 格式检查与合法性检查
+
 我们使用 [pre-commit hook](https://pre-commit.com/) 来检查格式`trailing whitespaces`, `check-yaml`, 使用 [openmmlab pre-commit hook](https://github.com/open-mmlab/pre-commit-hooks) 的 `check-ecosystem-validity`来检查字段的合法性.
 相关的配置文件定义在 [.pre-commit-config](https://github.com/open-mmlab/ecosystem/blob/master/.pre-commit-config.yaml).
 
 当你克隆了项目之后，你需要安装pre-commit hook.
+
 ```shell
 pip install -U pre-commit
 ```
 
 在项目内执行
+
 ```shell
 pre-commit install
 ```
 
 每一次commit的时候，pre-commit会进行格式检查和合法性检查
+
 ```{important}
 每次创建PR时，请确保代码的格式和合法性通过了检查
 ```
@@ -138,7 +146,6 @@ pre-commit install
   </tr>
 </tbody>
 </table>
-
 
 ### MMRepos
 
