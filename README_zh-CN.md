@@ -2,7 +2,7 @@
 
 [English](/README.md) | 简体中文
 
-本项目用于收录使用了OpenMMLab体系的开源项目，所有收录的项目将会在[OpenMMLab生态项目(WIP)](https://openmmlab.com/codebase/ecosystem)进行展示。
+本项目用于收录使用了OpenMMLab体系的开源项目，所有收录的项目将会在[OpenMMLab生态项目](https://openmmlab.com/ecosystem)进行展示。
 
 ## 文件结构
 

@@ -2,7 +2,7 @@
 
 English | [简体中文](/README_zh-CN.md)
 
-This project is used to collect the information of all open-source projects built with the OpenMMLab projects. The collected projects will be displayed in the official [OpenMMLab Homepage(WIP)](https://openmmlab.com/codebase/ecosystem)
+This project is used to collect the information of all open-source projects built with the OpenMMLab projects. The collected projects will be displayed in the official [OpenMMLab Ecosystem Page](https://openmmlab.com/ecosystem).
 
 ## File Structure
 
