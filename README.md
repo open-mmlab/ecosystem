@@ -1,9 +1,11 @@
 # Ecosystem
+
 English | [简体中文](/README_zh-CN.md)
 
 This project is used to collect the information of all open-source projects built with the OpenMMLab projects. The collected projects will be displayed in the official [OpenMMLab Homepage(WIP)](https://openmmlab.com/codebase/ecosystem)
 
 ## File Structure
+
 The data collected in this repo is used for internal analysis and homepage display. The repo has the following file structure:
 
 ```python
@@ -15,7 +17,9 @@ ecosystem
 ```
 
 ## How to Contribute
+
 We appreciate all contributions to add new projects into OpenMMLab ecosystem.
+
 <!-- Please refer to [CONTRUBUTING.md](https://mmclassification.readthedocs.io/en/latest/community/CONTRIBUTING.html) for the contributing guideline. -->
 
 ### Workflow
@@ -30,11 +34,12 @@ We appreciate all contributions to add new projects into OpenMMLab ecosystem.
 If you want to add one project into the ecosystem, please edit the `project_index.yaml` and add the related information of the specific project.
 
 The following keys are required to :
+
 - `repo_url`: Github link of the project
 - `paper_url`: Paper link of the project(Only add one if have > 1 papers, use `""` if no paper)
 - `type`: Type of the ecosystem projects(Choose **one** from Type Table)
 - `mmrepos`: Which OpenMMLab projects have been adopted in this project(Choose **one or more** from the MMRepos Table, please pay attention to capitalization)
-- `tags`: Tags of this project(<= 5 item)
+- `tags`: Tags of this project(\<= 5 item)
 - `summary`: One sentence summary of the project(English and Chinese)
 
 Please add the information of the specific project with the following example:
@@ -55,6 +60,7 @@ Please add the information of the specific project with the following example:
 ```
 
 ### Validity Check
+
 We use [pre-commit hook](https://pre-commit.com/) that checks and formats for `trailing whitespaces`, `check-yaml`, and use our [openmmlab pre-commit hook](https://github.com/open-mmlab/pre-commit-hooks) for `check-ecosystem-validity`.
 The config for a pre-commit hook is stored in [.pre-commit-config](https://github.com/open-mmlab/ecosystem/blob/master/.pre-commit-config.yaml).
 
