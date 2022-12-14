@@ -1662,17 +1662,6 @@
     en: 'Third party Implementation of "CAE: Context AutoEncoder for Self-Supervised
       Representation Learning"'
     zh: 'CAE: Context AutoEncoder for Self-Supervised Representation Learning 第三方实现'
-- repo_url: https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/tnt_pytorch
-  paper_url: https://arxiv.org/abs/2201.00978
-  type: Official Implementation
-  mmrepos:
-  - MMSegmentation
-  tags:
-  - Vision Transformer
-  - NeurIPS
-  summary:
-    en: Official implementation for Transformer in Transformer (TNT) and PyramidTNT
-    zh: 基于 PyTorch 的 Transformer in Transformer (TNT) 和 PyramidTNT 的官方实现
 - repo_url: https://github.com/amazon-research/unified-ept
   paper_url: https://arxiv.org/abs/2107.14209
   type: Official Implementation
