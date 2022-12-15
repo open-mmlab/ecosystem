@@ -1662,17 +1662,6 @@
       Prediction Pre-training in Pathology Images"'
     zh: 'ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in
       Pathology Images 官方实现'
-- repo_url: https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/tnt_pytorch
-  paper_url: https://arxiv.org/abs/2201.00978
-  type: Official Implementation
-  mmrepos:
-  - MMSegmentation
-  tags:
-  - Vision Transformer
-  - NeurIPS
-  summary:
-    en: Official implementation for Transformer in Transformer (TNT) and PyramidTNT
-    zh: 基于 PyTorch 的 Transformer in Transformer (TNT) 和 PyramidTNT 的官方实现
 - repo_url: https://github.com/amazon-research/unified-ept
   paper_url: https://arxiv.org/abs/2107.14209
   type: Official Implementation
