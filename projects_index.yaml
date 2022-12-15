@@ -376,18 +376,6 @@
     en: A Heroku-powered web application that supports phishing detection of malicious
       websites.
     zh: 一个支持 phishing detection 的 web 应用
-- repo_url: https://github.com/XL-H/mmsegmentation_multi_label
-  paper_url: ''
-  type: Library
-  mmrepos:
-  - MMSegmentation
-  - MMClassification
-  tags:
-  - Segmentation
-  - Multi-Label
-  summary:
-    en: A version of mmsegmentation with some updates for multi-label segmentation
-    zh: 支持多标签语义分割的算法库
 - repo_url: https://github.com/chris901003/DeepLearning
   paper_url: ''
   type: Tutorial
@@ -2512,18 +2500,6 @@
   summary:
     en: A blackbox attack for video classification models
     zh: 对视频分类模型的黑箱攻击
-- repo_url: https://github.com/yushikmr/pose-estimate-as-library
-  paper_url: ''
-  type: Library
-  mmrepos:
-  - MMPose
-  tags:
-  - Human Pose Estimation
-  - Animal Pose Estimation
-  - Hand Pose Estimation
-  summary:
-    en: A wrapper for pose estimation based on mmpose
-    zh: 一个 MMPose 的封装库，可方便调用 MMPose 的模型实现姿态估计功能
 - repo_url: https://github.com/Carpfire/footwork_recognition
   paper_url: ''
   type: Demo
@@ -2653,21 +2629,6 @@
   summary:
     en: Repository to compute the computation complexity of MMPose models
     zh: 一个计算 MMPose 姿态估计模型计算复杂度的工具
-- repo_url: https://github.com/Meimin-Wang/video-ai-service
-  paper_url: ''
-  type: Service
-  mmrepos:
-  - MMDetection
-  - MMPose
-  tags:
-  - Pedestrian Detection
-  - Human Pose Estimation
-  - Mixed Library
-  summary:
-    en: A project provides landing service support for vision algorithms, such as
-      target detection, image segmentation, pedestrian tracking, motion recognition
-      and other algorithms.
-    zh: 一个为多种视觉算法（检测、分割、行人追踪等）提供支持的算法库
 - repo_url: https://github.com/UCSC-VLAA/Image-Pretraining-for-Video
   paper_url: https://arxiv.org/abs/2205.01721
   type: Official Implementation
@@ -3290,16 +3251,6 @@
   summary:
     en: COMP3340 Transformer and MLP
     zh: COMP3340 Transformer and MLP
-- repo_url: https://github.com/TrueNobility303/scene-text-recognition
-  paper_url: ''
-  type: Community Implementation
-  mmrepos:
-  - MMOCR
-  tags:
-  - Text Recognition
-  summary:
-    en: Scene Text Recognition Task with PSENet and Robust Scanner
-    zh: 基于 PSENet 和 Robust Scanner 的场景字符识别
 - repo_url: https://github.com/kschmeckpeper/opa
   paper_url: ''
   type: Others
@@ -3687,17 +3638,6 @@
   summary:
     en: RGBD Tracking Overview
     zh: RGBD 跟踪综述
-- repo_url: https://github.com/catalpaaa/Orbific
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - Detection
-  summary:
-    en: An AI made for education workers that scans and displays errors in students
-      math work
-    zh: 一种为教育工作者设计的人工智能，可以扫描和显示学生数学作业中的错误
 - repo_url: https://github.com/goodok/composed-trackers
   paper_url: ''
   type: Others
@@ -6549,17 +6489,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/ZLTJohn/mmdet3d-rc2
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMSegmentation
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/Karnsira/CMVDET
   paper_url: ''
   type: Others
@@ -7169,17 +7098,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/haibao-yu/FFNet-VIC3D
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMSegmentation
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/hasukmin12/SG_AI
   paper_url: ''
   type: Others
@@ -7255,16 +7173,6 @@
   type: Others
   mmrepos:
   - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/kubwai/plastic_mask_rcnn
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMTracking
   tags:
   - From Dependents
   summary:
@@ -7858,17 +7766,6 @@
   type: Others
   mmrepos:
   - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/YJ-20/sign-language-translation
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMTracking
   tags:
   - From Dependents
   summary:
@@ -8836,16 +8733,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/wuwuwuyu/SDT-detection
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMTracking
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/vinbdigroupone/ai-stylist
   paper_url: ''
   type: Others
@@ -9126,16 +9013,6 @@
   mmrepos:
   - MMDetection
   - MMSegmentation
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/httle/mmrotate_test
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
   tags:
   - From Dependents
   summary:
