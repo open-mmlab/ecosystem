@@ -743,6 +743,7 @@
   - MMEditing
   tags:
   - Video Super-Resolution
+  - ECCV2022
   summary:
     en: Official repository of "Towards Interpretable Video Super-Resolution via Alternating
       Optimization"
@@ -2342,8 +2343,6 @@
   type: Official Implementation
   mmrepos:
   - MMDetection
-  - MMSegmentation
-  - MMClassification
   tags:
   - Detection
   - Segmentation
@@ -4729,16 +4728,6 @@
   summary:
     en: Neighborhood Attention Transformers
     zh: 待完善
-- repo_url: https://github.com/SamsungLabs/fcaf3d
-  paper_url: https://arxiv.org/abs/2112.00322
-  type: Official Implementation
-  mmrepos:
-  - MMDetection3D
-  tags:
-  - ECCV
-  summary:
-    en: 'FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection'
-    zh: 完全卷积无锚的三维物体检测
 - repo_url: https://github.com/boostcampaitech2/semantic-segmentation-level2-cv-16
   paper_url: ''
   type: Tutorial
