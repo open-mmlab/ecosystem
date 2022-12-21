@@ -195,6 +195,7 @@
   - MMDetection3D
   tags:
   - Amodal
+  - ECCV2022
   summary:
     en: Official implementation of "FCAF3D:Fully Convolutional Anchor-Free 3D Object
       Detection"
@@ -355,12 +356,13 @@
     en: Code for the paper "Visual Recognition by Request"
     zh: Visual Recognition by Request 官方实现
 - repo_url: https://github.com/linjing7/VR-Baseline
-  paper_url: ''
-  type: Library
+  paper_url: https://arxiv.org/abs/2201.01893
+  type: Official Implementation
   mmrepos:
   - MMClassification
   - MMEditing
   tags:
+  - ICML
   - Video Restoration
   summary:
     en: Video Restoration Toolbox including FGST (ICML 2022) and S2SVR (ICML 2022)
@@ -414,7 +416,7 @@
     en: Quantization tool based on MMDetection and MMClassification
     zh: 基于 MMDetection 与 MMClassification 的模型量化工具
 - repo_url: https://github.com/Enderfga/Enderfga
-  paper_url: ''
+  paper_url: https://arxiv.org/pdf/2111.12704.pdf
   type: Others
   mmrepos:
   - MMClassification
@@ -686,6 +688,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Video Super-Resolution
   summary:
     en: Official repository of "Investigating Tradeoffs in Real-World Video Super-Resolution"
@@ -696,6 +699,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Video Super-Resolution
   summary:
     en: Official repository of "BasicVSR++:Improving Video Super-Resolution with Enhanced
@@ -708,6 +712,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Video Super-Resolution
   summary:
     en: Official repository of "BasicVSR:The Search for Essential Components in Video
@@ -720,6 +725,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Image Super-Resolution
   summary:
     en: Official repository of "GLEAN:Generative Latent Bank for Large-Factor Image
@@ -742,8 +748,8 @@
   mmrepos:
   - MMEditing
   tags:
+  - ECCV
   - Video Super-Resolution
-  - ECCV2022
   summary:
     en: Official repository of "Towards Interpretable Video Super-Resolution via Alternating
       Optimization"
@@ -755,6 +761,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Video Deblurring
   summary:
     en: Official repository of "Multi-Scale Memory-Based Video Deblurring"
@@ -765,6 +772,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - ECCV
   - Image Enhancement
   summary:
     en: Official PyTorch Implementation of "SepLUT:Separable Image-adaptive Lookup
@@ -777,6 +785,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Image Enhancement
   summary:
     en: Official PyTorch Implementation of "AdaInt:Learning Adaptive Intervals for
@@ -785,11 +794,12 @@
       Enhancement 官方实现
 - repo_url: https://github.com/ryanxingql/powervqe
   paper_url: ''
-  type: Others
+  type: Library
   mmrepos:
   - MMEditing
   tags:
   - Video Enhancement
+  - NTIRE
   summary:
     en: PowerVQE:An Open Framework for Quality Enhancement of Compressed Videos
     zh: PowerVQE:视频压缩质量评价的开源框架
@@ -1859,6 +1869,7 @@
   type: Official Implementation
   mmrepos:
   - MMSegmentation
+  - MMEditing
   tags:
   - Deployment
   - Toolbox
@@ -3428,6 +3439,7 @@
   mmrepos:
   - MMEditing
   tags:
+  - CVPR
   - Video Super-Resolution
   summary:
     en: Official Pytorch implementation for "A New Dataset and Transformer for Stereoscopic
@@ -3771,7 +3783,7 @@
   mmrepos:
   - MMEditing
   tags:
-  - Others
+  - Video Super-Resolution
   summary:
     en: None
     zh: 待完善
@@ -3842,6 +3854,7 @@
   type: Demo
   mmrepos:
   - MMDetection
+  - MMEditing
   tags:
   - Deployment
   summary:
@@ -5645,6 +5658,7 @@
   type: Library
   mmrepos:
   - MMDetection
+  - MMEditing
   tags:
   - Weak Correlation
   summary:
@@ -5847,6 +5861,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -5909,6 +5924,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -6052,6 +6068,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -6727,6 +6744,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -6990,6 +7008,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -7122,6 +7141,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -8666,6 +8686,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -9033,6 +9054,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -9468,6 +9490,7 @@
   type: Others
   mmrepos:
   - MMClassification
+  - MMEditing
   tags:
   - From Dependents
   summary:
@@ -9931,3 +9954,835 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
+- repo_url: https://github.com/codeslake/RefVSR
+  paper_url: https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Reference-Based_Video_Super-Resolution_Using_Multi-Camera_Video_Triplets_CVPR_2022_paper.pdf
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - CVPR
+  summary:
+    en: '[CVPR 2022] Official PyTorch Implementation for "Reference-based Video Super-Resolution
+      Using Multi-Camera Video Triplets"'
+    zh: 官方代码：[CVPR 2022] Official PyTorch Implementation for "Reference-based Video
+      Super-Resolution Using Multi-Camera Video Triplets"
+- repo_url: https://github.com/OpenComputeLab/DLOP-Bench
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - benchmark
+  summary:
+    en: A benchmark suited especially for deep learning operators
+    zh: 适用于深度学习算子的评测基准
+- repo_url: https://github.com/vb000/NeuriCam
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - video sensing
+  summary:
+    en: A novel video sensing method for low-power IoT cameras (Smart glasses, GoPro,
+      Blink etc.).
+    zh: 官方代码：A novel video sensing method for low-power IoT cameras (Smart glasses,
+      GoPro, Blink etc.).
+- repo_url: https://github.com/EndlessSora/focal-frequency-loss
+  paper_url: https://arxiv.org/abs/2012.12821
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - ICCV
+  summary:
+    en: '[ICCV 2021] Focal Frequency Loss for Image Reconstruction and Synthesis'
+    zh: 官方代码：[ICCV 2021] Focal Frequency Loss for Image Reconstruction and Synthesis
+- repo_url: https://github.com/researchmm/FTVSR
+  paper_url: https://github.com/researchmm/FTVSR
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - ECCV
+  summary:
+    en: '[ECCV''22] FTVSR: Learning Spatiotemporal Frequency-Transformer for Compressed
+      Video Super-Resolution'
+    zh: '官方代码：[ECCV''22] FTVSR: Learning Spatiotemporal Frequency-Transformer for
+      Compressed Video Super-Resolution'
+- repo_url: https://github.com/OpenXLab-Edu/OpenMMLab-Edu
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/iPERDance/iPERCore
+  paper_url: https://arxiv.org/pdf/2011.09055.pdf
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - TPAMI
+  summary:
+    en: 'Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis'
+    zh: '官方代码：Liquid Warping GAN with Attention: A Unified Framework for Human Image
+      Synthesis'
+- repo_url: https://github.com/AlexZou14/SCET
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - CVPRW
+  summary:
+    en: Self-Calibrated Efficient Transformer for Lightweight Super-Resolution (offical)
+    zh: 官方代码：Self-Calibrated Efficient Transformer for Lightweight Super-Resolution
+      (offical)
+- repo_url: https://github.com/styler00dollar/VSGAN-tensorrt-docker
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: Using VapourSynth with super resolution and interpolation models and speeding
+      them up with TensorRT.
+    zh: VapourSynth：使用超分和插值模型，并用 TensorRT进行加速
+- repo_url: https://github.com/IceClear/CLIP-IQA
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - AAAI
+  summary:
+    en: '[AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images'
+    zh: 官方代码：[AAAI 2023] Exploring CLIP for Assessing the Look and Feel of Images
+- repo_url: https://github.com/researchmm/TTVSR
+  paper_url: https://arxiv.org/abs/2204.04216
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - CVPR
+  summary:
+    en: '[CVPR''22 Oral] TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution'
+    zh: '官方代码：[CVPR''22 Oral] TTVSR: Learning Trajectory-Aware Transformer for Video
+      Super-Resolution'
+- repo_url: https://github.com/HYHsimon/Boosted-VSR
+  paper_url: https://arxiv.org/abs/2207.08674
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - Video Super-Resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Szc-coder/soft-cup2
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - challenge
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/chaowentao/ntire2021_compress
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - NTIRE
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Shelly111111/CSC2022
+  paper_url: ''
+  type: Competition
+  mmrepos:
+  - MMEditing
+  tags:
+  - challenge
+  summary:
+    en: None
+    zh: 第十一届中国软件杯大学生软件设计大赛-基于百度飞桨的遥感图像智能解译平台
+- repo_url: https://github.com/zmzhang1998/Real-RawVSR
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - ECCV
+  summary:
+    en: 'Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset
+      (Real-RawVSR), ECCV 2022'
+    zh: '官方代码：[ECCV 2022] Real-RawVSR: Real-World Raw Video Super-Resolution with
+      a Benchmark Dataset (Real-RawVSR), '
+- repo_url: https://github.com/laonafahaodange/BasicVSR-With-GUI
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMEditing
+  tags:
+  - basicvsr
+  summary:
+    en: BasicVSR++ With GUI
+    zh: 有 GUI 的 BasicVSR
+- repo_url: https://github.com/dbseorms16/Kernel_shape_adaptvie_SR
+  paper_url: http://arxiv.org/abs/2011.04482
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - WACV
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/michaelowenliu/Matting
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - image matting
+  summary:
+    en: Awesome Image Matting Toolkit
+    zh: 图像抠图工具箱
+- repo_url: https://github.com/soonera/DeOldify-OpenMMLab
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - image colorization
+  summary:
+    en: This repo provides DeOldify model for image colorization using OpenMMLab.
+    zh: 图像上色工具箱
+- repo_url: https://github.com/haewonc/ERVSR
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - Video Super-Resolution
+  - WACV
+  summary:
+    en: '[WACV 23] Efficient Reference-based Video Super-Resolution (ERVSR)'
+    zh: 官方代码：[WACV 23] Efficient Reference-based Video Super-Resolution (ERVSR)
+- repo_url: https://github.com/miraclezqc/LongtailBench
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/rishabhraaj17/MastersThesis
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: Unsupervised Trajectory Prediction from Videos
+    zh: 待完善
+- repo_url: https://github.com/justinjohn0306/iPERCore-Windows10
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: 'Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis'
+    zh: 待完善
+- repo_url: https://github.com/LovingThresh/Remote_Image_DeCloud
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - image decloud
+  summary:
+    en: Remote_Image_DeCloud
+    zh: 待完善
+- repo_url: https://github.com/sennnnn/Computer-Vision-Course
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: 2021 Fall Computer Vision (Jian Zhang)
+    zh: 待完善
+- repo_url: https://github.com/TNeri1/Impersonate-Me-Web-App
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - app
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Echo-lhd/DeT
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/zz9629/NTU_MSAI_AI6126_ACV
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/raoufkeskes/TheWiseDocTranslator
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - documentation translation
+  summary:
+    en: the wise doc translator is a personal project where I aim to build a system
+      that convert a document from a language to another keeping all the design (Layout,
+      Logo, Sign,  ... )
+    zh: 文档翻译工具箱
+- repo_url: https://github.com/BambooPalace/Super-resolution-mini
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/chensjtu/Poxture
+  paper_url: https://ieeexplore.ieee.org/abstract/document/9829868/
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - TCSVT
+  summary:
+    en: 'This is offical implement of Poxture: Poxture: Self-supervised Human Posture
+      Imitation using Neural Texture.'
+    zh: '官方代码：Poxture: Poxture: Self-supervised Human Posture Imitation using Neural
+      Texture.'
+- repo_url: https://github.com/shenhaiyoualn/idesketch
+  paper_url: https://www.sciencedirect.com/science/article/abs/pii/S0950705122011194
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - KBS2022
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/cucum13er/Hardware-Aware-Super-Resolution
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/YapengMeng/SpecGAN
+  paper_url: https://ieeexplore.ieee.org/document/9950553/
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - TGRS
+  summary:
+    en: The official PyTorch implementation of SpecGAN, Large-factor Super-resolution
+      of Remote Sensing Images with Spectra-guided Generative Adversarial Networks
+      (Accept by TGRS).
+    zh: 官方代码：The official PyTorch implementation of SpecGAN, Large-factor Super-resolution
+      of Remote Sensing Images with Spectra-guided Generative Adversarial Networks
+      (Accept by TGRS).
+- repo_url: https://github.com/Jason-Khan/dr_inpaint
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - image inpainting
+  summary:
+    en: SwinUPer - an inpaintor that uses Swin Transformer and UPerNet as backbone
+      for inpainting. Built on top of mmediting, mmsegmentation and Swin Transformer's
+      implementation.
+    zh: 使用 swintransformer 做 image inpainting 任务
+- repo_url: https://github.com/AccSrd/NTU_MSAI_AI6126_AdvancedComputerVision
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: '[AI6126] Advanced Computer Vision is an elective course of MSAI, SCSE, NTU,
+      Singapore. The repository corresponds to the AI6126 of Semester 2, AY2021-2022,
+      starting from 01/2022. The instructor of this course is Prof. Loy Chen Change
+      and Prof. Liu Ziwei.'
+    zh: 课程：[AI6126] Advanced Computer Vision is an elective course of MSAI, SCSE,
+      NTU, Singapore. The repository corresponds to the AI6126 of Semester 2, AY2021-2022,
+      starting from 01/2022. The instructor of this course is Prof. Loy Chen Change
+      and Prof. Liu Ziwei.
+- repo_url: https://github.com/biubiubiiu/derain-toolbox
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - image deraining
+  summary:
+    en: Single Image Deraining Toolbox and Benchmark
+    zh: 图像去雨的工具箱和评测基准
+- repo_url: https://github.com/jhgy123/SoftwareCupA4
+  paper_url: ''
+  type: Competition
+  mmrepos:
+  - MMEditing
+  tags:
+  - challenge
+  summary:
+    en: None
+    zh: 软件杯A4
+- repo_url: https://github.com/wileewang/dan_mmediting
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Hy-1990/hy_realbasicvsr
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMEditing
+  tags:
+  - basicvsr
+  summary:
+    en: 超分模型RealBasicVSR工具化
+    zh: 超分模型RealBasicVSR工具化
+- repo_url: https://github.com/JanLeyva/approach_TFM
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMEditing
+  tags:
+  - challenge
+  summary:
+    en: Results for the multimodal model of Hateful Memes competition by Facebook
+      AI.
+    zh: 待完善
+- repo_url: https://github.com/CVMI-Lab/FS3D
+  paper_url: https://arxiv.org/abs/2210.05593
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - NeurIPS
+  summary:
+    en: Found by Chenkai
+    zh: 待完善
+- repo_url: https://github.com/Rebeccaxq/pwnt
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Weepingchestnut/lmmsr
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/JavaZeroo/AdaInt
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/kingreatwill/open
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/tykim-cubox/lightweight
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/ACALJJ32/MMEditing_learning
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/MintBee/super-resolution-capstone
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/zhouhuanxiang/repo-zhx
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/978326187/iPERCore-main-guichu-dancing
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/mizmizn12/iPERCore
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/cvygkhv/decompression
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - decompression
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/besttrying/GOVSR
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/dwHou/dwHou.github.io
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Homepage
+  summary:
+    en: http://dwHou.github.io
+    zh: 个人主页
+- repo_url: https://github.com/kzx2018/LiteMatting
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - image matting
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/YuenFuiLau/DecoupleRefSR
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - super-resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/KHao123/netease_project
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/grimoire/test_markdown
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/KILLMAK163/Test
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/s309551129/NYCU_VRDL_HW4
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/SIAnalytics/siatune
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: Hyperparameter Tuning Toolbox for OpenMMLab Frameworks, especially for Remote
+      Sensing Tasks
+    zh: OpenMMLab 框架的超参微调工具箱
+- repo_url: https://github.com/Kyeonga-Kim/CLIP_GPEN
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/LovingThresh/Motion_Image_Enhancement
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Enhancement
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/AllentDan/ImageBase
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/huraipann/iPERCore
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/22286142074/lzlh
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/seungwoowee/Compared
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/xiandenis/iPERCore
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/C200026/LiqwarpGANproject
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/pixel-alex/DreamDance
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: 'DreamDance: Personalized Text-to-video Generation by Combining Text-to-Image
+      Synthesis and Motion Transfer'
+    zh: DreamDance:通过结合文本到图像合成和运动转换的个性化文本到视频生成
+- repo_url: https://github.com/Haoyu99Gao/reaal-basic
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Video Super-Resolution
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/LucaCogo/pytorch-examples
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/vivym/image-matting-app
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - image matting
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/C200026/Backup_LiqWarpGAN
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Chohoonhee/ERVSR
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - restoration
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/Anonymous2022-cv/DeT
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/ze-n-g/learn
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Tutorial
+  summary:
+    en: None
+    zh: 待完善
+- repo_url: https://github.com/LovingThresh/Image_Reconfiguration_for_Graduation_BJM
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Synthesis
+  summary:
+    en: None
+    zh: 待完善
