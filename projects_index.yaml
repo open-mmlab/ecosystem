@@ -37,8 +37,8 @@
   paper_url: ''
   type: Demo
   mmrepos:
-  - MMClassification
   - MMTracking
+  - MMClassification
   tags:
   - Genshin
   - Game
@@ -49,8 +49,8 @@
   paper_url: https://arxiv.org/abs/2205.14589
   type: Official Implementation
   mmrepos:
-  - MMDetection
   - MMClassification
+  - MMDetection
   - MMRazor
   tags:
   - Distillation
@@ -76,9 +76,9 @@
   - MMDetection
   - MMSegmentation
   tags:
-  - Detection
   - Backbone
   - Transformer
+  - Detection
   - Segmentation
   summary:
     en: PyTorch implementation and pretrained models for XCiT models. See "XCiT:Cross-Covariance
@@ -90,9 +90,9 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - TensorRT
   - Deployment
+  - Detection
   summary:
     en: This project aims to convert the MMDetection model to TensorRT model end2end.
     zh: 本项目旨在将 MMDetection 的模型端到端地转化为 TensorRT 模型。
@@ -275,8 +275,8 @@
   - MMSegmentation
   tags:
   - Vision Transformer
-  - Detection
   - Backbone
+  - Detection
   - Segmentation
   summary:
     en: Official implementation of "CrossFormer:A Versatile Vision Transformer Based
@@ -289,8 +289,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Attention
+  - Detection
   summary:
     en: Official implementation of "RelationNet++:Bridging Visual Representations
       for Object Detection via Transformer Decoder"
@@ -303,10 +303,10 @@
   - MMDetection
   - MMSegmentation
   tags:
-  - Detection
-  - Backbone
-  - Segmentation
   - MLP Architectures
+  - Backbone
+  - Detection
+  - Segmentation
   summary:
     en: Official implementation of "CycleMLP:A MLP-like Architecture for Dense Prediction"
     zh: CycleMLP:A MLP-like Architecture for Dense Prediction 官方实现
@@ -316,8 +316,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Quantization
+  - Detection
   summary:
     en: Official implementation of "ZeroQ:A Novel Zero Shot Quantization Framework"
     zh: ZeroQ:A Novel Zero Shot Quantization Framework 官方实现
@@ -325,8 +325,8 @@
   paper_url: ''
   type: Library
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Change Detection
   - Toolbox
@@ -359,11 +359,11 @@
   paper_url: https://arxiv.org/abs/2201.01893
   type: Official Implementation
   mmrepos:
-  - MMClassification
   - MMEditing
+  - MMClassification
   tags:
-  - ICML
   - Video Restoration
+  - ICML
   summary:
     en: Video Restoration Toolbox including FGST (ICML 2022) and S2SVR (ICML 2022)
     zh: Video Restoration 工具箱
@@ -382,11 +382,11 @@
   paper_url: ''
   type: Tutorial
   mmrepos:
-  - MMDetection
-  - MMSegmentation
   - MMClassification
-  - MMCV
+  - MMSegmentation
+  - MMDetection
   - MMOCR
+  - MMCV
   tags:
   - Deep Learning
   - Tutorial
@@ -397,8 +397,8 @@
   paper_url: ''
   type: Competition
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Kaggle
   summary:
@@ -408,8 +408,8 @@
   paper_url: ''
   type: Tutorial
   mmrepos:
-  - MMDetection
   - MMClassification
+  - MMDetection
   tags:
   - Quantization
   summary:
@@ -430,8 +430,8 @@
   paper_url: ''
   type: Tutorial
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Segmentation
   - TensorRT
@@ -442,8 +442,8 @@
   paper_url: https://arxiv.org/abs/2206.12571
   type: Competition
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Segmentation
   summary:
@@ -455,9 +455,9 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Backbone
   - Transformer
+  - Detection
   - Segmentation
   summary:
     en: Official implementation of "Focal Self-attention for Local-Global Interactions
@@ -471,9 +471,9 @@
   - MMDetection
   - MMSegmentation
   tags:
-  - Detection
   - Backbone
   - Transformer
+  - Detection
   - Segmentation
   summary:
     en: Official implementation of "Twins:Revisiting the Design of Spatial Attention
@@ -521,10 +521,10 @@
   - MMDetection
   - MMSegmentation
   tags:
-  - Detection
   - Backbone
-  - Segmentation
   - Pre-Training
+  - Detection
+  - Segmentation
   summary:
     en: Official implementation of "iBOT:Image BERT Pre-Training with Online Tokenizer"
     zh: iBOT:Image BERT Pre-Training with Online Tokenizer 官方实现
@@ -612,8 +612,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Transformer
+  - Detection
   summary:
     en: Official implementation of "Conformer:Local Features Coupling Global Representations
       for Visual Recognition"
@@ -625,8 +625,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Backbone
+  - Detection
   - Instance Segmentation
   summary:
     en: Official implementation of "CBNetV2:A Novel Composite Backbone Network Architecture
@@ -651,8 +651,8 @@
   mmrepos:
   - MMPose
   tags:
-  - Human Pose Estimation
   - IJCAI
+  - Human Pose Estimation
   summary:
     en: Official implementation of "Dite-HRNet:Dynamic Lightweight High-Resolution
       Network for Human Pose Estimation" (IJCAI-ECAI 2021)
@@ -664,8 +664,8 @@
   mmrepos:
   - MMPose
   tags:
-  - Human Pose Estimation
   - ECCV
+  - Human Pose Estimation
   summary:
     en: Official implementation of "Poseur:Direct Human Pose Regression with Transformers"
       (ECCV 2022)
@@ -674,8 +674,8 @@
   paper_url: ''
   type: Library
   mmrepos:
-  - MMDetection
   - MMPose
+  - MMDetection
   tags:
   - Anime
   - Face Landmark Detection
@@ -688,8 +688,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Video Super-Resolution
+  - CVPR
   summary:
     en: Official repository of "Investigating Tradeoffs in Real-World Video Super-Resolution"
     zh: Investigating Tradeoffs in Real-World Video Super-Resolution 官方实现
@@ -699,8 +699,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Video Super-Resolution
+  - CVPR
   summary:
     en: Official repository of "BasicVSR++:Improving Video Super-Resolution with Enhanced
       Propagation and Alignment"
@@ -712,8 +712,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Video Super-Resolution
+  - CVPR
   summary:
     en: Official repository of "BasicVSR:The Search for Essential Components in Video
       Super-Resolution and Beyond"
@@ -725,8 +725,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Image Super-Resolution
+  - CVPR
   summary:
     en: Official repository of "GLEAN:Generative Latent Bank for Large-Factor Image
       Super-Resolution"
@@ -748,8 +748,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - ECCV
   - Video Super-Resolution
+  - ECCV
   summary:
     en: Official repository of "Towards Interpretable Video Super-Resolution via Alternating
       Optimization"
@@ -761,8 +761,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Video Deblurring
+  - CVPR
   summary:
     en: Official repository of "Multi-Scale Memory-Based Video Deblurring"
     zh: Multi-Scale Memory-Based Video Deblurring 官方实现
@@ -772,8 +772,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - ECCV
   - Image Enhancement
+  - ECCV
   summary:
     en: Official PyTorch Implementation of "SepLUT:Separable Image-adaptive Lookup
       Tables for Real-time Image Enhancement"
@@ -785,8 +785,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Image Enhancement
+  - CVPR
   summary:
     en: Official PyTorch Implementation of "AdaInt:Learning Adaptive Intervals for
       3D Lookup Tables on Real-time Image Enhancement"
@@ -817,8 +817,8 @@
   paper_url: https://arxiv.org/abs/2207.06799
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMGeneration
+  - MMSegmentation
   tags:
   - Segmentation
   summary:
@@ -830,8 +830,8 @@
   paper_url: https://arxiv.org/abs/2202.01181
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Segmentation
   summary:
@@ -852,11 +852,11 @@
   paper_url: ''
   type: Competition
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
-  - Segmentation
   - STAS Image
+  - Segmentation
   summary:
     en: Code for STAS Image Segmentation
     zh: 運用影像分割作法於切割STAS輪廓
@@ -864,11 +864,11 @@
   paper_url: ''
   type: Competition
   mmrepos:
-  - MMDetection
   - MMClassification
+  - MMDetection
   tags:
-  - Detection
   - STAS Image
+  - Detection
   summary:
     en: Code for STAS Image Detection
     zh: STAS图像的物体检测
@@ -876,11 +876,11 @@
   paper_url: ''
   type: Others
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
-  - Segmentation
   - Lightweight
+  - Segmentation
   summary:
     en: A lightweight model for semantic segmentation
     zh: 适用于语义分割的轻量级模型
@@ -900,11 +900,11 @@
   paper_url: ''
   type: Others
   mmrepos:
-  - MMClassification
   - MMSelfSup
+  - MMClassification
   tags:
-  - Classification
   - Document
+  - Classification
   summary:
     en: Document Image Classification
     zh: 文档图像分类
@@ -922,11 +922,11 @@
   paper_url: https://arxiv.org/abs/2201.03545
   type: Official Implementation
   mmrepos:
-  - MMDetection
   - MMCV
+  - MMDetection
   tags:
-  - Detection
   - Backbone
+  - Detection
   summary:
     en: Official implementation of "A ConvNet for the 2020s"
     zh: A ConvNet for the 2020s官方实现
@@ -948,9 +948,9 @@
   mmrepos:
   - MMCV
   tags:
-  - Detection
-  - Classification
   - Self-supervised Learning
+  - Classification
+  - Detection
   summary:
     en: Focus on self-supervised learning, transformer based models, and SOTA CV tasks
     zh: 聚焦自监督学习和视觉transformer关键技术并覆盖主流的视觉建模任务
@@ -972,9 +972,9 @@
   - MMCV
   tags:
   - Backbone
+  - Classification
   - Segmentation
   - Human Pose Estimation
-  - Classification
   - 3D Detection
   summary:
     en: Official implementation of "HR-NAS:Searching Efficient High-Resolution Neural
@@ -1022,8 +1022,8 @@
   mmrepos:
   - MMOCR
   tags:
-  - Text Recognition
   - Text Detection
+  - Text Recognition
   summary:
     en: A solution for the AICity 2022 competition
     zh: AICity 2022 比赛的某个解决方案
@@ -1045,8 +1045,8 @@
   mmrepos:
   - MMOCR
   tags:
-  - Text Recognition
   - Text Detection
+  - Text Recognition
   summary:
     en: 2th solution for China-Steel-OCR competition
     zh: 中鋼人工智慧挑戰賽-字元辨識第二名
@@ -1066,8 +1066,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Backbone
+  - Detection
   - Rotated Object Detection
   summary:
     en: Official implementation of "ReDet:A Rotation-equivariant Detector for Aerial
@@ -1131,8 +1131,8 @@
   type: Official Implementation
   mmrepos:
   - MMDetection
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Detection
   - Instance Segmentation
@@ -1226,8 +1226,8 @@
   mmrepos:
   - MMOCR
   tags:
-  - Transformer
   - Text Recognition
+  - Transformer
   summary:
     en: Official implementation of "MASTER:Multi-Aspect Non-local Network for Scene
       Text Recognition"
@@ -1259,12 +1259,12 @@
   paper_url: ''
   type: Others
   mmrepos:
-  - MMDetection
   - MMCV
+  - MMDetection
   - MMOCR
   tags:
-  - Transformer
   - Image Captioning
+  - Transformer
   summary:
     en: A framework for image captioning
     zh: 一个图像标题生成框架
@@ -1296,12 +1296,12 @@
   paper_url: ''
   type: Official Implementation
   mmrepos:
+  - MMOCR
   - MMDetection
   - MMCV
-  - MMOCR
   tags:
-  - Transformer
   - Scene Text Recognition
+  - Transformer
   summary:
     en: Official implementation of Toward Understanding WordArtCorner-Guided Transformer
       for Scene Text Recognition
@@ -1329,17 +1329,6 @@
   summary:
     en: Key information extraction for Vietnamese documents
     zh: 越南语文档关键信息提取
-- repo_url: https://github.com/ElectronicBabylonianLiterature/cuneiform-sign-detection
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMOCR
-  tags:
-  - Text Detection
-  - Cuneiform Sign
-  summary:
-    en: Cuneiform Sign Detection
-    zh: 楔形文字检测
 - repo_url: https://github.com/hhaAndroid/mmdetection-mini
   paper_url: ''
   type: Official Implementation
@@ -1359,10 +1348,10 @@
   - MMSegmentation
   tags:
   - Vision Transformer
-  - Detection
   - Backbone
-  - Segmentation
   - Classification
+  - Detection
+  - Segmentation
   summary:
     en: Official implementation of "MetaFormer is Actually What You Need for Vision"
     zh: MetaFormer is Actually What You Need for Vision 官方实现
@@ -1383,8 +1372,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Loss
+  - Detection
   summary:
     en: Official implementation of "A Ranking-based, Balanced Loss Function Unifying
       Classification and Localisation in Object Detection"
@@ -1396,8 +1385,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Batch Normalization
+  - Detection
   summary:
     en: Official implementation of "Cross-Iteration Batch Normalizationn"
     zh: Cross-Iteration Batch Normalization 官方实现
@@ -1407,8 +1396,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Pruning
+  - Detection
   summary:
     en: Official implementation of "Group Fisher Pruning for Practical Network Compression"
     zh: Group Fisher Pruning for Practical Network Compression 官方实现
@@ -1418,8 +1407,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Long-Tailed
+  - Detection
   summary:
     en: Official implementation of "Equalization loss for long-tailed object recognition"
       and "Equalization Loss v2:A New Gradient Balance Approach for Long-tailed Object
@@ -1432,8 +1421,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Architecture Search
+  - Detection
   summary:
     en: Official implementation of "Hit-Detector:Hierarchical Trinity Architecture
       Search for Object Detection"
@@ -1445,8 +1434,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - Knowledge Distillation
+  - Detection
   summary:
     en: Official implementation of "Focal and Global Knowledge Distillation for Detectors"
     zh: Focal and Global Knowledge Distillation for Detectors 官方实现
@@ -1456,8 +1445,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Vision Transformer
   - ICLR
+  - Vision Transformer
   - Semantic Segmentation
   summary:
     en: Official PyTorch implementation and pretrained models of BEiT
@@ -1483,9 +1472,9 @@
   mmrepos:
   - MMSegmentation
   tags:
+  - NeurIPS
   - Vision Transformer
   - Semantic Segmentation
-  - NeurIPS
   summary:
     en: Official PyTorch implementation of SegFormer
     zh: 基于 PyTorch 的 SegFormer 官方实现
@@ -1495,9 +1484,9 @@
   mmrepos:
   - MMSegmentation
   tags:
+  - ICCV
   - Vision Transformer
   - Semantic Segmentation
-  - ICCV
   summary:
     en: Official PyTorch implementation of "Transformer for Semantic Segmentation"
     zh: 基于 PyTorch 的 Transformer for Semantic Segmentation 官方实现
@@ -1507,8 +1496,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Semantic Segmentation
   - CVPR22
+  - Semantic Segmentation
   - Unsupervised Domain Adaptation
   summary:
     en: Official Implementation of "DAFormer:Improving Network Architectures and Training
@@ -1521,9 +1510,9 @@
   mmrepos:
   - MMSegmentation
   tags:
+  - ICCV
   - Vision Transformer
   - Semantic Segmentation
-  - ICCV
   summary:
     en: Official implementation for "Swin Transformer:Hierarchical Vision Transformer
       using Shifted Windows" on Semantic Segmentation
@@ -1555,8 +1544,8 @@
   - MMSegmentation
   tags:
   - ICLR
-  - Semantic Segmentation
   - MLP
+  - Semantic Segmentation
   summary:
     en: Official implementation of "AS-MLP:An Axial Shifted MLP Architecture for Vision"
     zh: AS-MLP:An Axial Shifted MLP Architecture for Vision 官方实现
@@ -1566,8 +1555,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Vision Transformer
   - CVPR
+  - Vision Transformer
   - Semantic Segmentation
   summary:
     en: Official implementation of "CSWin Transformer:A General Vision Transformer
@@ -1592,8 +1581,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Vision Transformer
   - CVPR
+  - Vision Transformer
   - Semantic Segmentation
   summary:
     en: Official implementation of "Learning Affinity from Attention:End-to-End Weakly-Supervised
@@ -1627,8 +1616,8 @@
   paper_url: ''
   type: Library
   mmrepos:
-  - MMClassification
   - MMSelfSup
+  - MMClassification
   tags:
   - Self-supervised Learning
   summary:
@@ -1691,8 +1680,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - CVPR
   - Domain Adaptation
+  - CVPR
   summary:
     en: 'Official PyTorch implementation of Image-to-Image Translation: Methods and
       Applications
@@ -1736,8 +1725,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Semantic Segmentatioin
   - Student Project
+  - Semantic Segmentatioin
   summary:
     en: The student project for semantic segmentation
     zh: 语义分割学生项目
@@ -1767,8 +1756,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Vision Transformer
   - Semantic Segmentatioin
+  - Vision Transformer
   summary:
     en: The implementation of Swin-S Unet with multiple Losses in Cityscapes Dataset
     zh: 基于 PyTorch 的 Swin-S Unet with multiple Losses in Cityscapes Dataset 的实现
@@ -1809,8 +1798,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Vision Transformer
   - Semantic Segmentatioin
+  - Vision Transformer
   summary:
     en: Research project based on MMSegmentation
     zh: 基于 MMSegmentation 的研究项目
@@ -1915,8 +1904,8 @@
   mmrepos:
   - MMDeploy
   tags:
-  - Detection
   - android
+  - Detection
   summary:
     en: an android demo about object detection implemented by MMDeploy
     zh: 基于 MMDeploy 开发的通用物体检测的 android demo
@@ -2081,8 +2070,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Tutorial
   - Cloud
+  - Tutorial
   summary:
     en: Distributed machine learning example using ACloud service
     zh: 使用 ACloud 服务的分布式机器学习示例
@@ -2135,8 +2124,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Segmentation
   - ECCV
+  - Segmentation
   summary:
     en: 'Official implementation of "SOLO: Segmenting Objects by Locations"'
     zh: 'SOLO: Segmenting Objects by Locations 官方实现'
@@ -2259,8 +2248,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Segmentation
   - NeurIPS
+  - Segmentation
   summary:
     en: Official implementation of  "Prototypical Cross-Attention Networks for Multiple
       Object Tracking and Segmentation"
@@ -2272,9 +2261,9 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
-  - Active Learning
   - CVPR21
+  - Active Learning
+  - Detection
   summary:
     en: Official implementation of  "Multiple Instance Active Learning for Object
       Detection"
@@ -2355,9 +2344,9 @@
   mmrepos:
   - MMDetection
   tags:
+  - Self-supervised Learning
   - Detection
   - Segmentation
-  - Self-supervised Learning
   - Visual Recognition
   summary:
     en: 'Official implementation of "Look-into-Object: Self-supervised Structure Modeling
@@ -2404,8 +2393,8 @@
   paper_url: https://arxiv.org/abs/2202.10108
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMPose
+  - MMSegmentation
   tags:
   - NeurIPS
   - Animal Pose Estimation
@@ -2430,8 +2419,8 @@
   mmrepos:
   - MMPose
   tags:
-  - Human Pose Estimation
   - NeurIPS
+  - Human Pose Estimation
   summary:
     en: 'Official implementation of "HRFormer: High-Resolution Transformer for Dense
       Prediction" (NeurIPS 2021)'
@@ -2461,8 +2450,8 @@
   paper_url: ''
   type: Demo
   mmrepos:
-  - MMDetection
   - MMPose
+  - MMDetection
   tags:
   - Hand Pose Estimation
   summary:
@@ -2514,8 +2503,8 @@
   paper_url: ''
   type: Demo
   mmrepos:
-  - MMDetection
   - MMPose
+  - MMDetection
   tags:
   - Human Pose Estimation
   - Notebook
@@ -2589,8 +2578,8 @@
   mmrepos:
   - MMAction2
   tags:
-  - Self-supervised Learning
   - ICCV
+  - Self-supervised Learning
   summary:
     en: Rethinking Self-Supervised Correspondence Learning
     zh: 重新审视自监督响应学习
@@ -2706,8 +2695,8 @@
   mmrepos:
   - MMAction2
   tags:
-  - Self-supervised Learning
   - Action Recognition
+  - Self-supervised Learning
   summary:
     en: Video Contrastive Learning
     zh: 视频对比学习自监督
@@ -2717,8 +2706,8 @@
   mmrepos:
   - MMAction2
   tags:
-  - Self-supervised Learning
   - Action Recognition
+  - Self-supervised Learning
   summary:
     en: Self-supervised Video Representation Learning via Ranking-based Transformation
       Recognition
@@ -2871,8 +2860,8 @@
   paper_url: ''
   type: Others
   mmrepos:
-  - MMDetection
   - MMPose
+  - MMDetection
   tags:
   - Animal Pose Estimation
   summary:
@@ -2894,8 +2883,8 @@
   paper_url: ''
   type: Library
   mmrepos:
-  - MMDetection
   - MMPose
+  - MMDetection
   tags:
   - Mixed Library
   summary:
@@ -2916,10 +2905,10 @@
   paper_url: https://arxiv.org/abs/2201.09450
   type: Official Implementation
   mmrepos:
-  - MMDetection
-  - MMSegmentation
   - MMPose
   - MMClassification
+  - MMDetection
+  - MMSegmentation
   tags:
   - Backbone
   summary:
@@ -3122,8 +3111,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - Detection
   - MLP
+  - Detection
   summary:
     en: 'Official implementation of RaftMLP: How Much Can Be Done Without Attention
       and with Less Spatial Locality'
@@ -3299,8 +3288,8 @@
   mmrepos:
   - MMClassification
   tags:
-  - PyTorch
   - Template
+  - PyTorch
   summary:
     en: Project Template based on PyTorch-Lightning and OpenMMLab
     zh: 基于 PyTorch-Lightning 和 OpenMMLab 的项目模板
@@ -3391,9 +3380,9 @@
   paper_url: ''
   type: Library
   mmrepos:
+  - MMClassification
   - MMDetection
   - MMSegmentation
-  - MMClassification
   tags:
   - VINO
   summary:
@@ -3439,8 +3428,8 @@
   mmrepos:
   - MMEditing
   tags:
-  - CVPR
   - Video Super-Resolution
+  - CVPR
   summary:
     en: Official Pytorch implementation for "A New Dataset and Transformer for Stereoscopic
       Video Super-Resolution"
@@ -3736,8 +3725,8 @@
   paper_url: ''
   type: Service
   mmrepos:
-  - MMDetection
   - MMDeploy
+  - MMDetection
   tags:
   - Deployment
   - Server
@@ -3748,8 +3737,8 @@
   paper_url: ''
   type: Service
   mmrepos:
-  - MMDetection
   - MMDeploy
+  - MMDetection
   tags:
   - Deployment
   - Client
@@ -3895,8 +3884,8 @@
   paper_url: https://arxiv.org/abs/2209.07383
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Segmentation
   summary:
@@ -3979,8 +3968,8 @@
   paper_url: ''
   type: Competition
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Competition
   summary:
@@ -4053,8 +4042,8 @@
   mmrepos:
   - MMCV
   tags:
-  - CVPR
   - Weak Correlation
+  - CVPR
   summary:
     en: Robust Reflection Removal with Reflection-free Flash-only Cues
     zh: 用无反射的纯闪光线索进行鲁棒性反射去除
@@ -4222,8 +4211,8 @@
   mmrepos:
   - MMSegmentation
   tags:
-  - Weak Correlation
   - SIGGRAPH
+  - Weak Correlation
   summary:
     en: Neural 3D Reconstruction in the Wild
     zh: 野外场景下的神经三维重建
@@ -4293,8 +4282,8 @@
   paper_url: https://www.cvlibs.net/publications/Chitta2022PAMI.pdf
   type: Official Implementation
   mmrepos:
-  - MMDetection
   - MMCV
+  - MMDetection
   tags:
   - PAMI
   - Weak Correlation
@@ -4603,8 +4592,8 @@
   paper_url: ''
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Segmentation
   summary:
@@ -4774,11 +4763,11 @@
     zh: 遥感图像的语义分割；EarthNets平台的Officail Repo。
 - repo_url: https://github.com/ahsdx/DTTR
   paper_url: ''
-  type: Community Implementation
+  type: Official Implementation
   mmrepos:
   - MMOCR
   tags:
-  - Others
+  - Text Recognition
   summary:
     en: A CNN-tranformer hybrid scene text detection model achieves SOTA H-mean on
       MMOCR
@@ -4922,8 +4911,8 @@
   paper_url: https://arxiv.org/abs/2209.07589
   type: Official Implementation
   mmrepos:
-  - MMDetection
   - MMSegmentation
+  - MMDetection
   tags:
   - 3DV
   summary:
@@ -5071,8 +5060,8 @@
   paper_url: https://arxiv.org/abs/2208.11499
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - Segmentation
   summary:
@@ -5093,9 +5082,9 @@
   type: Official Implementation
   mmrepos:
   - MMDetection
+  - MMSelfSup
   - MMSegmentation
   - MMClassification
-  - MMSelfSup
   tags:
   - NeurIPS
   summary:
@@ -5202,8 +5191,8 @@
   mmrepos:
   - MMDetection
   tags:
-  - IJCAI
   - Weak Correlation
+  - IJCAI
   summary:
     en: None
     zh: 待完善
@@ -5236,16 +5225,17 @@
   tags:
   - Others
   summary:
-    en: None
-    zh: 待完善
+    en: BAST is a system for analyzing whole body movement in space and their relations
+      to specific mental functions
+    zh: BAST是一种在空间中分析全身运动及其与特定心理功能关系的系统
 - repo_url: https://github.com/BWGZK/CycleMix
   paper_url: ''
   type: Official Implementation
   mmrepos:
   - MMDetection
   tags:
-  - CVPR
   - Weak Correlation
+  - CVPR
   summary:
     en: None
     zh: 待完善
@@ -5617,8 +5607,8 @@
   mmrepos:
   - MMAction2
   tags:
-  - Weak Correlation
   - Others
+  - Weak Correlation
   summary:
     en: A tool for construction video captioning dataset from large-scale and long
       video data using multi-process
@@ -5668,8 +5658,8 @@
   paper_url: https://arxiv.org/abs/2209.08575
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - NeurIPS
   summary:
@@ -5763,8 +5753,8 @@
   paper_url: https://arxiv.org/abs/2208.03826
   type: Official Implementation
   mmrepos:
-  - MMSegmentation
   - MMClassification
+  - MMSegmentation
   tags:
   - ECCV
   summary:
@@ -6425,8 +6415,8 @@
   mmrepos:
   - MMDetection
   - MMSegmentation
-  - MMClassification
   - MMDetection3D
+  - MMClassification
   tags:
   - From Dependents
   summary:
@@ -6743,8 +6733,8 @@
   paper_url: ''
   type: Others
   mmrepos:
-  - MMClassification
   - MMEditing
+  - MMClassification
   tags:
   - From Dependents
   summary:
@@ -6755,8 +6745,8 @@
   type: Others
   mmrepos:
   - MMDetection
-  - MMClassification
   - MMSelfSup
+  - MMClassification
   - MMDeploy
   tags:
   - From Dependents
@@ -7349,9 +7339,9 @@
   type: Others
   mmrepos:
   - MMDetection
+  - MMSelfSup
   - MMSegmentation
   - MMClassification
-  - MMSelfSup
   tags:
   - From Dependents
   summary:
@@ -7721,8 +7711,8 @@
   type: Others
   mmrepos:
   - MMDetection
-  - MMClassification
   - MMSelfSup
+  - MMClassification
   - MMDeploy
   tags:
   - From Dependents
@@ -7960,14 +7950,14 @@
   type: Others
   mmrepos:
   - MMDetection
+  - MMEditing
+  - MMSelfSup
   - MMSegmentation
   - MMPose
   - MMClassification
   - MMTracking
-  - MMRazor
-  - MMEditing
   - MMOCR
-  - MMSelfSup
+  - MMRazor
   tags:
   - From Dependents
   summary:
@@ -9361,12 +9351,12 @@
   type: Others
   mmrepos:
   - MMDetection
+  - MMEditing
   - MMSegmentation
   - MMPose
   - MMClassification
-  - MMRazor
-  - MMEditing
   - MMOCR
+  - MMRazor
   tags:
   - From Dependents
   summary:
@@ -10786,3 +10776,595 @@
   summary:
     en: None
     zh: 待完善
+- repo_url: https://github.com/wzzheng/TPVFormer
+  paper_url: https://arxiv.org/abs/2302.07817
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - CVPR23
+  summary:
+    en: 'TPVFormer: An academic alternative to Tesla''s Occupancy Network'
+    zh: 待完善
+- repo_url: https://github.com/Daniel-xsy/RoboBEV
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - To be updated
+  summary:
+    en: 'RoboBEV: Robust Bird''s Eye View Detection under Corruptions
+
+
+
+      '
+    zh: 待完善
+- repo_url: https://github.com/Sense-GVT/Fast-BEV
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - From Dependents
+  summary:
+    en: 'Fast-BEV: A Fast and Strong Bird’s-Eye View Perception Baseline'
+    zh: 待完善
+- repo_url: https://github.com/fudan-zvg/PolarFormer
+  paper_url: https://arxiv.org/abs/2206.15398
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - AAAI
+  summary:
+    en: 'PolarFormer: Multi-camera 3D Object Detection with Polar Transformer'
+    zh: 待完善
+- repo_url: https://github.com/Megvii-BaseDetection/BEVStereo
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - AAAI
+  summary:
+    en: 'BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with
+      Dynamic Temporal Stereo'
+    zh: 待完善
+- repo_url: https://github.com/Megvii-BaseDetection/BEVDepth
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - AAAI
+  summary:
+    en: 'BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection'
+    zh: 待完善
+- repo_url: https://github.com/anonymous2776/ora3d
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - BMVC
+  summary:
+    en: 'ORA3D: Overlap Region Aware Multi-view 3D Object Detection'
+    zh: 待完善
+- repo_url: https://github.com/linxuewu/Sparse4D
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - BEV
+  summary:
+    en: 'Sparse4D: Multi-view 3D Object Detection with Sparse Spatial-Temporal Fusion'
+    zh: 待完善
+- repo_url: https://github.com/sty61010/CrossDTR
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - ICRA
+  summary:
+    en: 'CrossDTR: Cross-view and Depth-guided Transformers for 3D Object Detection'
+    zh: 待完善
+- repo_url: https://github.com/zehuichen123/Graph-DETR3D
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - ACM MM
+  summary:
+    en: 'Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection'
+    zh: 待完善
+- repo_url: https://github.com/cgtuebingen/SpatialDETR
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - ECCV2022
+  summary:
+    en: 'SpatialDETR: Robust Scalable Transformer-Based 3D Object Detection from Multi-View
+      Camera Images with Global Cross-Sensor Attention'
+    zh: 待完善
+- repo_url: https://github.com/mit-han-lab/bevfusion
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - ICRA
+  summary:
+    en: 'BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird''s-Eye View Representation'
+    zh: 待完善
+- repo_url: https://github.com/fundamentalvision/BEVFormer
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - ECCV2022
+  summary:
+    en: 'BEVFormer: a Cutting-edge Baseline for Camera-based Detection'
+    zh: 待完善
+- repo_url: https://github.com/ADLab-AutoDrive/BEVFusion
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - NeurIPS
+  summary:
+    en: 'BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework'
+    zh: 待完善
+- repo_url: https://github.com/FANG-MING/occupancy-for-nuscenes
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - To be updated
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/SamsungLabs/td3d
+  paper_url: https://arxiv.org/abs/2302.02871
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - 3D
+  summary:
+    en: 'TD3D: Top-Down Beats Bottom-Up in 3D Instance Segmentation'
+    zh: 待完善
+- repo_url: https://github.com/SamsungLabs/tr3d
+  paper_url: https://arxiv.org/abs/2302.02858
+  type: Official Implementation
+  mmrepos:
+  - MMDetection3D
+  tags:
+  - 3D
+  summary:
+    en: 'TR3D: Towards Real-Time Indoor 3D Object Detection'
+    zh: 待完善
+- repo_url: https://github.com/ligang-cs/DTG-SSOD
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection
+  tags:
+  - NeurIPS
+  summary:
+    en: 'DTG-SSOD: Dense Teacher Guidance for Semi-Supervised Object Detection'
+    zh: 待完善
+- repo_url: https://github.com/ligang-cs/PseCo
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection
+  tags:
+  - ECCV2022
+  summary:
+    en: 'PseCo: Pseudo Labeling and Consistency Training for Semi-Supervised Object
+      Detection'
+    zh: 待完善
+- repo_url: https://github.com/ChenhongyiYang/GPViT
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection
+  tags:
+  - ICLR
+  summary:
+    en: 'GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation'
+    zh: 待完善
+- repo_url: https://github.com/zhangxiaosong18/hivit
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMDetection
+  tags:
+  - Others
+  summary:
+    en: 'HiViT: A Simple and More Efficient Design of Hierarchical Vision Transformer.'
+    zh: 待完善
+- repo_url: https://github.com/gy-7/monitoring_the_desktop
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMDeploy
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/heavenle/BaseMMdeployHorNet2Onnx
+  paper_url: ''
+  type: Community Implementation
+  mmrepos:
+  - MMDeploy
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/jiangjiawen/mmdeploy0.6_tensorrt8_cpp_windows
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMDeploy
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/Kettenhoax/mmdeploy_tensorrt_ops
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMDeploy
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/ShuzhiLiu/RSNABreast2ndPlace
+  paper_url: ''
+  type: Competition
+  mmrepos:
+  - MMEngine
+  - MMClassification
+  tags:
+  - Classification
+  summary:
+    en: The 2nd place solution of RSNA Screening Mammography Breast Cancer Detection
+    zh: RSNA Screening Mammography Breast Cancer Detection 比赛的第二名解决方案
+- repo_url: https://github.com/JunweiZheng93/MATERobot
+  paper_url: https://arxiv.org/pdf/2302.14595.pdf
+  type: Official Implementation
+  mmrepos:
+  - MMEngine
+  tags:
+  - Segmentation
+  summary:
+    en: 'MATERobot: Material Recognition in Wearable Robotics for People with Visual
+      Impairments'
+    zh: 待完善
+- repo_url: https://github.com/Seeed-Studio/EdgeLab
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMEngine
+  - MMDetection
+  - MMClassification
+  - MMPose
+  tags:
+  - Anomaly Detection
+  summary:
+    en: Seeed Studio EdgeLab is an open-source project focused on embedded AI.
+    zh: Seeed Studio EdgeLab是一个专注于嵌入式人工智能的开源项目。
+- repo_url: https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Depth-Estimation
+  summary:
+    en: Monocular-Depth-Estimation-Toolbox is an open source monocular depth estimation
+      toolbox based on PyTorch and MMSegmentation v0.16.0.
+    zh: 单目深度估计工具箱
+- repo_url: https://github.com/youngwanLEE/MPViT
+  paper_url: https://arxiv.org/abs/2112.11010
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Transformer
+  - CVPR22
+  summary:
+    en: MPViT:Multi-Path Vision Transformer for Dense Prediction
+    zh: MPViT官方仓库
+- repo_url: https://github.com/Song-Jingyu/PointPainting
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: PointPainting
+    zh: 待完善
+- repo_url: https://github.com/Jittor/JSeg
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Library
+  summary:
+    en: JSeg is a Semantic segmentation toolbox based on MMSegmentation and Jittor
+    zh: 基于计图和MMSegmentation的语义工具箱
+- repo_url: https://github.com/pppppM/mmsegmentation-distiller
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Knowledge Distillation
+  summary:
+    en: This is a knowledge distillation toolbox based on mmsegmentation
+    zh: 基于MMSegmentation的知识整理工具箱
+- repo_url: https://github.com/TommyZihao/MMSegmentation_Tutorials
+  paper_url: ''
+  type: Tutorial
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Tutorial
+  summary:
+    en: Jupyter notebook tutorials for MMSegmentation
+    zh: 待完善
+- repo_url: https://github.com/Junjun2016/DMNet
+  paper_url: https://openaccess.thecvf.com/content_ICCV_2019/papers/He_Dynamic_Multi-Scale_Filters_for_Semantic_Segmentation_ICCV_2019_paper.pdf
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - ICCV2019
+  summary:
+    en: Dynamic Multi-scale Filters for Semantic Segmentation (DMNet ICCV'2019)
+    zh: 待完善
+- repo_url: https://github.com/Junjun2016/APCNet
+  paper_url: https://openaccess.thecvf.com/content_CVPR_2019/papers/He_Adaptive_Pyramid_Context_Network_for_Semantic_Segmentation_CVPR_2019_paper.pdf
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - CVPR2019
+  summary:
+    en: Adaptive Pyramid Context Network for Semantic Segmentation
+    zh: 待完善
+- repo_url: https://github.com/EricKani/Segmenter-Based-on-OpenMMLab
+  paper_url: https://arxiv.org/abs/2105.05633
+  type: Community Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - ICCV2021
+  summary:
+    en: '"Segmenter: Transformer for Semantic Segmentation" reproduced via mmsegmentation'
+    zh: 社区基于MMSegmentaion复现的Segmenter
+- repo_url: https://github.com/Junjun2016/LiteHRNet
+  paper_url: https://arxiv.org/abs/2104.06403
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Lightweight
+  summary:
+    en: 'Lite-HRNet: A Lightweight High-Resolution Network'
+    zh: 待完善
+- repo_url: https://github.com/Eli-YiLi/WSSS_MMSeg
+  paper_url: https://arxiv.org/abs/2108.12995
+  type: Community Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Segmentation
+  summary:
+    en: Weakly-supervised Semantic Segmentation part
+    zh: 待完善
+- repo_url: https://github.com/rubeea/focal_phi_loss_mmsegmentation
+  paper_url: https://www.mdpi.com/1424-8220/21/8/2803
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Segmentation
+  summary:
+    en: Focal Phi Loss, a novel loss function for highly imbalanced datasets applied
+      to Power line detection with Auxiliary Classifier U-Net (ACU-Net)
+    zh: 一种针对高度不平衡数据集的新型损失函数，应用于辅助分类器U-Net（ACU-Net）中的电力线检测
+- repo_url: https://github.com/zq7734509/mmsegmentation-multi-layer
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/jianhengLiu/mmsegmentation_ros
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: This is a ROS package for segmentation
+    zh: 待完善
+- repo_url: https://github.com/hongyangustc/mmsegmentation_fcn_ncnn
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Deployment
+  summary:
+    en: mmsegmentation to ncnn
+    zh: 待完善
+- repo_url: https://github.com/CharonWangg/shallowmind
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: A config-based ANN training tool inspired by MMSegmentation
+    zh: 待完善
+- repo_url: https://github.com/Nourollah/SemanticSegmentation
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: Fluorescence microscopy image segmentation using MMSegmentation toolbox
+    zh: 基于MMSegmentation工具箱进行荧光显微镜图像分割的方法
+- repo_url: https://github.com/Vaczzy/ATeamName-GeoxSegCompetiton
+  paper_url: ''
+  type: Competition
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/Junjun2016/COCO-Stuff_benchmark
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: COCO-Stuff Benchmark
+    zh: COCO-Stuff Benchmark
+- repo_url: https://github.com/EarthNets/RSI-MMSegmentation
+  paper_url: ''
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Segmentation
+  summary:
+    en: 'Parse Semantics from Geometry: A Remote Sensing Benchmark for Multi-modal
+      Semantic Segmentation'
+    zh: 待完善
+- repo_url: https://github.com/Jacky-Android/use-mmsegmentation-semantic-segmentation
+  paper_url: ''
+  type: Demo
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/Junjun2016/ICNet
+  paper_url: https://arxiv.org/abs/1704.08545
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Segmentation
+  summary:
+    en: ICNet for Real-Time Semantic Segmentation on High-Resolution Images
+    zh: 待完善
+- repo_url: https://github.com/saotomryo/Use_MMSegmentation
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/CharelBIT/mmsegmentation-3D-v2.0
+  paper_url: ''
+  type: Others
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - Others
+  summary:
+    en: To be updated
+    zh: 待完善
+- repo_url: https://github.com/czczup/ViT-Adapter
+  paper_url: https://arxiv.org/abs/2205.08534
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - ICLR2023
+  summary:
+    en: Vision Transformer Adapter for Dense Predictions
+    zh: 待完善
+- repo_url: https://github.com/OpenGVLab/InternImage
+  paper_url: https://arxiv.org/abs/2211.05778
+  type: Official Implementation
+  mmrepos:
+  - MMDetection
+  - MMSegmentation
+  tags:
+  - CVPR2023
+  summary:
+    en: 'InternImage: Exploring Large-Scale Vision Foundation Models with Deformable
+      Convolutions'
+    zh: 待完善
+- repo_url: https://github.com/ZiyiZhang27/HRNeXt
+  paper_url: https://ieeexplore.ieee.org/document/10050764
+  type: Official Implementation
+  mmrepos:
+  - MMPose
+  tags:
+  - Human Pose Estimation
+  summary:
+    en: 'Official implementation of "HRNeXt: High-Resolution Context Network for Crowd
+      Pose Estimation", IEEE Transactions on Multimedia'
+    zh: '论文 "HRNeXt: High-Resolution Context Network for Crowd Pose Estimation", IEEE
+      Transactions on Multimedia 官方代码'
+- repo_url: https://github.com/TencentARC/T2I-Adapter
+  paper_url: https://arxiv.org/abs/2302.08453
+  type: Demo
+  mmrepos:
+  - MMPose
+  tags:
+  - Image Synthesis
+  summary:
+    en: 'Official implementation of T2I-Adapter: Learning Adapters to Dig out More
+      Controllable Ability for Text-to-Image Diffusion Models.'
+    zh: 'T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image
+      Diffusion Models 官方代码'
+- repo_url: https://github.com/openvinotoolkit/training_extensions
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMAction2
+  tags:
+  - OpenVINO
+  summary:
+    en: A low-code transfer learning framework for Computer Vision
+    zh: 一个低代码的计算机视觉迁移学习框架
