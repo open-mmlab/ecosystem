@@ -792,6 +792,17 @@
       3D Lookup Tables on Real-time Image Enhancement"
     zh: AdaInt:Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image
       Enhancement 官方实现
+- repo_url: https://github.com/ryanxingql/powerqe
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Enhancement
+  - Video Enhancement
+  summary:
+    en: 'PowerQE: An unified framework of quality enhancement approaches for compressed images/videos'
+    zh: 'PowerQE：压缩图像和视频质量增强'
 - repo_url: https://github.com/ryanxingql/powervqe
   paper_url: ''
   type: Library
@@ -799,10 +810,9 @@
   - MMEditing
   tags:
   - Video Enhancement
-  - NTIRE
   summary:
-    en: PowerVQE:An Open Framework for Quality Enhancement of Compressed Videos
-    zh: PowerVQE:视频压缩质量评价的开源框架
+    en: 'PowerVQE: An unified framework of quality enhancement approaches for compressed videos'
+    zh: 'PowerVQE：压缩视频质量增强'
 - repo_url: https://github.com/vglsd/ScaleParty
   paper_url: https://arxiv.org/abs/2204.02273
   type: Official Implementation
