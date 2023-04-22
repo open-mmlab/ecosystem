@@ -792,17 +792,6 @@
       3D Lookup Tables on Real-time Image Enhancement"
     zh: AdaInt:Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image
       Enhancement 官方实现
-- repo_url: https://github.com/ryanxingql/powerqe
-  paper_url: ''
-  type: Library
-  mmrepos:
-  - MMEditing
-  tags:
-  - Image Enhancement
-  - Video Enhancement
-  summary:
-    en: 'PowerQE: An unified framework of quality enhancement approaches for compressed images/videos'
-    zh: 'PowerQE：压缩图像和视频质量增强'
 - repo_url: https://github.com/ryanxingql/powervqe
   paper_url: ''
   type: Library
@@ -810,9 +799,11 @@
   - MMEditing
   tags:
   - Video Enhancement
+  - NTIRE
   summary:
-    en: 'PowerVQE: An unified framework of quality enhancement approaches for compressed videos'
-    zh: 'PowerVQE：压缩视频质量增强'
+    en: 'PowerVQE: An unified framework of quality enhancement approaches for compressed
+      videos'
+    zh: PowerVQE：压缩视频质量增强
 - repo_url: https://github.com/vglsd/ScaleParty
   paper_url: https://arxiv.org/abs/2204.02273
   type: Official Implementation
@@ -4527,16 +4518,6 @@
   summary:
     en: 'Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation'
     zh: 待完善
-- repo_url: https://github.com/Joker-co/mmdet_pro
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - Others
-  summary:
-    en: None
-    zh: 待完善
 - repo_url: https://github.com/sghong977/Surgical_STR
   paper_url: ''
   type: Community Implementation
@@ -6407,18 +6388,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/shaoshitong/Detection-Based-KD
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMSegmentation
-  - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/nelsonsw5/Learning-Frustum-Proposals
   paper_url: ''
   type: Others
@@ -6480,16 +6449,6 @@
   type: Others
   mmrepos:
   - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/Airscker/Biobank-VST
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
   tags:
   - From Dependents
   summary:
@@ -6845,33 +6804,12 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/zqpiao/Two-stage-Fine-tuning
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/marin6631/woodle
   paper_url: ''
   type: Others
   mmrepos:
   - MMSegmentation
   - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/nodematerial/Kaggle_sartorius
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMTracking
   tags:
   - From Dependents
   summary:
@@ -7024,16 +6962,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/maxin-cn/classification
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/rohansd/Homework-3D-object-detection-MMdetection3D-
   paper_url: ''
   type: Others
@@ -7091,16 +7019,6 @@
   type: Others
   mmrepos:
   - MMPose
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/dikubab/Amharic_mmocr
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
   tags:
   - From Dependents
   summary:
@@ -7620,17 +7538,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/karltan0328/clone-from-git
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/TimGor1997/my_mmdet
   paper_url: ''
   type: Others
@@ -7895,16 +7802,6 @@
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/usamainamparacha/mmocr
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/SarnadAbhilash/Airbnb-amenity-item-detection
   paper_url: ''
   type: Others
   mmrepos:
@@ -8506,16 +8403,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/parkkyungjun/pytorch
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/ProApril/softTeacher_Inference
   paper_url: ''
   type: Others
@@ -8548,16 +8435,6 @@
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/dannysauer/determined.ai_determined
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/arthurchevalley/FSOD_remote
   paper_url: ''
   type: Others
   mmrepos:
@@ -8722,16 +8599,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/hexafarms/cls_species
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/YimingCuiCuiCui/DFA
   paper_url: ''
   type: Others
@@ -8748,17 +8615,6 @@
   type: Others
   mmrepos:
   - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/Hachiman-zm/SFP
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  - MMClassification
   tags:
   - From Dependents
   summary:
@@ -9100,16 +8956,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/jhpahk/UGRP_2021
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMPose
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/kneron/kneron-mmtracking
   paper_url: ''
   type: Others
@@ -9243,16 +9089,6 @@
   summary:
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/XIRZC/mmocr
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/yazansayed/hftest
   paper_url: ''
   type: Others
@@ -9377,16 +9213,6 @@
   type: Others
   mmrepos:
   - MMDetection
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/Mprjct/Polyp_segmentation
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMClassification
   tags:
   - From Dependents
   summary:
@@ -9905,16 +9731,6 @@
     en: From Github Dependents, to be updated
     zh: 来自Github Dependents,待完善
 - repo_url: https://github.com/qixiong-wang/mmsegmentation
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMClassification
-  tags:
-  - From Dependents
-  summary:
-    en: From Github Dependents, to be updated
-    zh: 来自Github Dependents,待完善
-- repo_url: https://github.com/dmitrysarov/authmmcls
   paper_url: ''
   type: Others
   mmrepos:
@@ -10465,16 +10281,6 @@
     en: None
     zh: 待完善
 - repo_url: https://github.com/ACALJJ32/MMEditing_learning
-  paper_url: ''
-  type: Others
-  mmrepos:
-  - MMEditing
-  tags:
-  - super-resolution
-  summary:
-    en: None
-    zh: 待完善
-- repo_url: https://github.com/MintBee/super-resolution-capstone
   paper_url: ''
   type: Others
   mmrepos:
@@ -11378,3 +11184,25 @@
   summary:
     en: A low-code transfer learning framework for Computer Vision
     zh: 一个低代码的计算机视觉迁移学习框架
+- repo_url: https://github.com/baaivision/EVA/tree/master/EVA-01/seg
+  paper_url: https://arxiv.org/abs/2211.07636
+  type: Official Implementation
+  mmrepos:
+  - MMSegmentation
+  tags:
+  - CVPR2023
+  summary:
+    en: 'EVA: An Open Billion-Scale Vision Foundation Model'
+    zh: EVA：10亿规模视觉基础模型
+- repo_url: https://github.com/ryanxingql/powerqe
+  paper_url: ''
+  type: Library
+  mmrepos:
+  - MMEditing
+  tags:
+  - Image Enhancement
+  - Video Enhancement
+  summary:
+    en: 'PowerQE: An unified framework of quality enhancement approaches for compressed
+      images/videos'
+    zh: PowerQE：压缩图像和视频质量增强
